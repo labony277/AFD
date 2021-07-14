@@ -1,3 +1,4 @@
+<!-- Banner start -->
 <div class="banner" id="banner">
     <div id="bannerCarousole" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -49,3 +50,4 @@
 
 
 </div>
+<!-- banner end -->

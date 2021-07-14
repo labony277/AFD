@@ -1,9 +1,145 @@
+<!-- Modal -->
+<div class="modal fade modal" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true" style="color: red">Close</span>
+        </button>
+            </div>
+            <div class=" container-fluid">
+                <div class="container ">
+                    <div class="row">
+
+                        <div class="col-md-12">
+                            <table class="styled-table">
+                                <thead>
+
+
+                                <tr>
+
+                                    <th>List of Institute</th>
+
+
+                                </tr>
+                                </thead>
+                                <tbody>
+
+                                <tr>
+
+                                    <td><a href="ac_and_s_details.php">ARTILLERY CENTER AND SCHOOL (AC & S)</a></td>
+
+
+                                </tr>
+                                <tr>
+
+                                    <td><a href="sit_details.php">SCHOOL OF INFANTRY AND TACTICS (SI&T)</a></td>
+
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><a href="bma_details.php">BANGLADESH MILITARY ACADEMY (BMA)</a></td>
+
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><a href="ac_and_s_details.php">ARTILLERY CENTER AND SCHOOL (AC & S)</a></td>
+
+
+                                </tr>
+                                <tr>
+
+                                    <td><a href="sit_details.php">SCHOOL OF INFANTRY AND TACTICS (SI&T)</a></td>
+
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><a href="bma_details.php">BANGLADESH MILITARY ACADEMY (BMA)</a></td>
+
+
+                                </tr>
+                                <tr>
+
+                                    <td><a href="ac_and_s_details.php">ARTILLERY CENTER AND SCHOOL (AC & S)</a></td>
+
+
+                                </tr>
+                                <tr>
+
+                                    <td><a href="sit_details.php">SCHOOL OF INFANTRY AND TACTICS (SI&T)</a></td>
+
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><a href="bma_details.php">BANGLADESH MILITARY ACADEMY (BMA)</a></td>
+
+
+                                </tr>
+                                <tr>
+
+                                    <td><a href="ac_and_s_details.php">ARTILLERY CENTER AND SCHOOL (AC & S)</a></td>
+
+
+                                </tr>
+                                <tr>
+
+                                    <td><a href="sit_details.php">SCHOOL OF INFANTRY AND TACTICS (SI&T)</a></td>
+
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><a href="bma_details.php">BANGLADESH MILITARY ACADEMY (BMA)</a></td>
+
+
+                                </tr>
+
+
+                                </tbody>
+                            </table>
+                            <!-- Page navigation start -->
+                            <div class="pagination-box hidden-mb-45 text-center">
+                                <nav aria-label="Page navigation example">
+                                    <ul class="pagination">
+                                        <li class="page-item">
+                                            <a class="page-link" href="#"><i class="fa fa-angle-left"></i></a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link active" href="#">1</a></li>
+                                        <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                        <li class="page-item">
+                                            <a class="page-link" href="#"><i class="fa fa-angle-right"></i></a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <!-- Page navigation end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- end modal -->
+
+
 <footer class="footer">
     <div class="container footer-inner">
         <div class="row">
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="footer-item">
-                    <a href="index.html"><img class="img-fluid" src="img/logo6.jpg" alt=""></a>
+                    <a href="index.php"><img class="img-fluid" src="img/logo.png" alt="" style="max-width: 27%;"></a>
                     <ul class="contact-info">
                         <li>
                             ARMED FORCES DIVISION
@@ -23,16 +159,16 @@
                     <h4>Importent Link</h4>
                     <ul class="links">
                         <li>
-                            <a href="list-view-3.html">Bangladesh Army</a>
+                            <a href="https://www.army.mil.bd/" target="blank">Bangladesh Army</a>
                         </li>
                         <li>
-                            <a>Bangladesh Navy</a>
+                            <a href="https://www.navy.mil.bd/" target="blank">Bangladesh Navy</a>
                         </li>
                         <li>
-                            <a>Bangladesh Air Force</a>
+                            <a href="https://baf.mil.bd/website/index.php" target="blank">Bangladesh Air Force</a>
                         </li>
                         <li>
-                            <a>Armed Forces Division</a>
+                            <a href="https://afd.gov.bd/" target="blank">Armed Forces Division</a>
                         </li>
 
                     </ul>
@@ -63,7 +199,8 @@
                 <div class="footer-item clearfix">
                     <h4>MAP</h4>
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d467196.91164975817!2d90.385996!3d23.819457!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c74cd48ec4d1%3A0x69e5b057295dad8e!2sBangladesh%20Army%20Headquarter!5e0!3m2!1sen!2sus!4v1622490857117!5m2!1sen!2sus" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d467196.91164975817!2d90.385996!3d23.819457!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c74cd48ec4d1%3A0x69e5b057295dad8e!2sBangladesh%20Army%20Headquarter!5e0!3m2!1sen!2sus!4v1622490857117!5m2!1sen!2sus"
+                            width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 </div>
             </div>
         </div>
@@ -88,7 +225,7 @@
 <div id="full-page-search">
     <button type="button" class="close">×</button>
     <form action="https://storage.googleapis.com/theme-vessel-items/checking-sites/real-house-html/HTML/index.html#">
-        <input type="search" value="" placeholder="type keyword(s) here" />
+        <input type="search" value="" placeholder="type keyword(s) here"/>
         <button type="submit" class="btn btn-sm button-theme">Search</button>
     </form>
 </div>
@@ -120,9 +257,9 @@
 <!-- Custom javascript -->
 <script src="js/ie10-viewport-bug-workaround.js"></script>
 <script>
-    (function(i, s, o, g, r, a, m) {
+    (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
+        i[r] = i[r] || function () {
             (i[r].q = i[r].q || []).push(arguments)
         }, i[r].l = 1 * new Date();
         a = s.createElement(o),
@@ -137,4 +274,5 @@
 
 </body>
 
+<!-- Mirrored from storage.googleapis.com/theme-vessel-items/checking-sites/real-house-html/HTML/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 May 2021 14:41:51 GMT -->
 </html>

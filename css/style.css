@@ -1,43 +1,4 @@
-/*------------------------------------------------------------------
-[Main Stylesheet]
 
-Project:    Real House
-Version:    1.1.0
--------------------------------------------------------------------*/
-
-/*------------------------------------------------------------------
-[Table of contents]
-    1. Top Header / .top-header
-    2. Main Header / .main-header
-    3. Home Page Banner (Main Home) / .banner
-    4. Banner Search Box / .search-area
-    5. Recent Properties / .recent-properties
-    6. Articles Tips / .articles-tips
-    7. Application Counter / .counters
-    8. Partner / .partners-block
-    9. Testimonials / .testimonial-section
-    10. Map Content /.map-content
-    11. Map Content Sidebar /.map-content-sidebar
-    12. Single Page Banner / .sub-banner
-    13. Property List View / .listing-properties-box
-    14. Property Grid View / .recent-properties-box
-    15. Single Property Details / .properties-details-page
-    16. Listing Page Sidebar /.sidebar
-    17. Pricing Table /.pricing-container
-    18. Agent Contact Form /.agent-widget
-    19. Properties Comments /.properties-comments
-    20. Help Center /.helping-center
-    21. Specifications /.specifications
-    22. My Profile /.my-profile
-    23. My Property Box /.my-properties-box
-    24. Submit Property /.submit-property
-    25. Blog /.blog-body
-    26. Contact Form /.contact-form
-    27. Signup/Login Wrapper /.form-content-box
-    28. Pagination /.pagination
-    29. Main Footer / .main-footer
-    30. Sub Footer / .sub-footer
--------------------------------------------------------------------*/
 /** GLOBAL CLASSES **/
 html, body {
     height: 100%;
@@ -72,7 +33,7 @@ strong {
 }
 
 span {
-    color: #535353;
+    color: #ffffff;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -1052,7 +1013,7 @@ input[type=checkbox]:checked + label:before {
 
 .item-bg {
     /*background: url("../img/banner-1.jpg");*/
-    height: 100vh;
+    height: 90vh;
     /*animation: bgburnsEast 25s linear infinite alternate;
     -webkit-animation: bgburnsEast 25s linear infinite alternate;*/
 }
@@ -1496,6 +1457,9 @@ input[type=checkbox]:checked + label:before {
 
 .bg-grea-3{
     background: #f9f9f8;
+}
+.bg-grea-33{
+    background: linear-gradient(#44DB9A,#447CAB);
 }
 
 .search-area-inner {
@@ -2858,7 +2822,7 @@ input[type=checkbox]:checked + label:before {
 
 /** TESTIMONIAL 4 STARTED **/
 .testimonial-4 .testimonial-info{
-    background: #fff;
+    background: #ffffff;
     margin: 0 1px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -3948,7 +3912,7 @@ input[type=checkbox]:checked + label:before {
 /** FOOTER  STARTED **/
 footer {
     padding: 46px 0 5px;
-    background: #e52424d1;
+    background: #9c0529;
 }
 
 .footer h4 {
@@ -3991,7 +3955,7 @@ footer {
 .footer .footer-inner .contact-info li {
     margin-bottom: 15px;
     font-size: 15px;
-    color: #C5CDD9;
+    color: #ffffff;
     font-weight: 400;
 }
 
@@ -4102,7 +4066,7 @@ footer {
 
 .sub-footer{
     background: #1a1a38;
-    padding: 35px 0;
+    padding: 5px 0;
     text-align: center;
 }
 
@@ -5465,6 +5429,11 @@ footer {
 /** CONTENT AREA AREA START **/
 .content-area {
     padding: 15px 0 8px;
+   
+}
+.content-area1 {
+    padding: 15px 0 8px;
+    background: #c2a9ff96;
 }
 
 .content-area-2 {
@@ -5497,6 +5466,10 @@ footer {
 
 .content-area-9 {
     padding: 44px 0 27px;
+}
+.content-area-99 {
+    padding: 44px 0 27px;
+    background: #ac42a0ab;
 }
 
 .content-area-11{
@@ -5660,7 +5633,7 @@ footer {
 }
 
 .widget {
-    padding: 30px 20px;
+    padding: 0px 0px;
     border-bottom: solid 1px #eaeaea;
 }
 
@@ -5844,14 +5817,29 @@ footer {
 
 /** SUB BANNER AREA START **/
 .sub-banner {
-    background: rgba(0, 0, 0, 0.04) url(../img/img-6.jpg) top left repeat;
+    background: rgba(0, 0, 0, 0.04) url(../img/properties/AC&S/1.jpg) top left repeat;
     background-size: cover;
     padding: 110px 0;
     background-position: center center;
     background-repeat: no-repeat;
     position: relative;
 }
-
+.sub-banner1 {
+    background: rgba(0, 0, 0, 0.04) url(../img/properties/SI&T/1.jpg) top left repeat;
+    background-size: cover;
+    padding: 110px 0;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.sub-banner2 {
+    background: rgba(0, 0, 0, 0.04) url(../img/properties/bma/1.jpg) top left repeat;
+    background-size: cover;
+    padding: 110px 0;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+}
 .sub-banner:before {
     position: absolute;
     content: '';
@@ -5863,10 +5851,12 @@ footer {
 }
 
 .sub-banner h1 {
-    font-size: 27px;
+    font-size: 48px;
     font-weight: 500;
     margin: 0;
     color: #fff;
+    text-align: center;
+    text-shadow: 2px 3px 3px black;
 }
 
 .sub-banner .breadcrumb-area{
@@ -5893,6 +5883,90 @@ footer {
     color: #fff;
 }
 
+/* for 1 */
+.sub-banner1:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.sub-banner1 h1 {
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+    color: #fff;
+    text-shadow: 2px 3px 3px black;
+}
+
+.sub-banner1 .breadcrumb-area{
+    text-align: right;
+}
+
+.sub-banner1 .breadcrumb-area ul li {
+    display: inline-block;
+    line-height: 32px;
+    color: #fff;
+    font-size: 17px;
+}
+
+.sub-banner1 .breadcrumb-area ul li a {
+    color: #fff;
+}
+
+.sub-banner1 .breadcrumb-area ul li a:hover{
+    color: #dedede;
+}
+
+.sub-banner1 .breadcrumb-area ul li span {
+    margin: 0 5px;
+    color: #fff;
+}
+/* for 2*/
+.sub-banner2:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.sub-banner2 h1 {
+    font-size: 48px;
+    font-weight: 500;
+    margin: 0;
+    color: #fff;
+    text-shadow: 2px 3px 3px black;
+}
+
+.sub-banner2 .breadcrumb-area{
+    text-align: right;
+}
+
+.sub-banner2 .breadcrumb-area ul li {
+    display: inline-block;
+    line-height: 32px;
+    color: #fff;
+    font-size: 17px;
+}
+
+.sub-banner2 .breadcrumb-area ul li a {
+    color: #fff;
+}
+
+.sub-banner2 .breadcrumb-area ul li a:hover{
+    color: #dedede;
+}
+
+.sub-banner2 .breadcrumb-area ul li span {
+    margin: 0 5px;
+    color: #fff;
+}
 /** BLOG SOCIAL LIST START **/
 .blog-social-list {
     float: right;
@@ -8150,21 +8224,7 @@ blockquote {
     background: #F34B0A;
 }
 
-.setting-button {
-    background: #eee;
-    position: absolute;
-    font-size: 16px;
-    text-align: center;
-    width: 50px;
-    height: 50px;
-    line-height: 48px;
-    left: -50px;
-    color: #2b303b;
-    top: 0;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-    cursor: pointer;
-}
+
 
 /** Option Panel **/
 
@@ -9854,7 +9914,7 @@ blockquote {
           display: inline-block;
           width: 100%;
           /* background: #21c87a; */
-          background: #ED0C21;
+          background: #9c0529;
           color: #ffffff; }
           .accordion > .card .card-header .btn:after {
             font-family: "Font Awesome 5 Free";
@@ -9875,14 +9935,15 @@ blockquote {
 
 
         .widgets .widget {
-            margin-bottom: 50px;
+            /* margin-bottom: 50px; */
             -webkit-box-shadow: 0px 3px 4px 0px rgba(28, 26, 31, 0.1);
                     box-shadow: 0px 3px 4px 0px rgba(28, 26, 31, 0.1); }
             .widgets .widget:last-child {
               margin-bottom: 0px; }
           
           .widgets .widget-title {
-            background-color: #f9f9f9;
+            /* background: linear-gradient(#57a92e,#4c8781 ); */
+            color: wheat !important;
             padding: 10px 20px;
             margin-bottom: 0; }
           
@@ -9934,6 +9995,65 @@ blockquote {
             .widget-post .widget-post-title a:hover {
               color: #21c87a; }
 
+
+              .gallery-section .btn-box{
+                margin-top:0px;
+            }
+         /* Btn Style Three */
+
+.btn-style-three{
+	position: relative;
+	display: inline-block;
+	font-size: 16px;
+	line-height: 30px;
+	color: #ffffff;
+	padding: 14px 44px;
+	font-weight: 400;
+	overflow: hidden;
+	border-radius: 6px;
+	overflow:hidden;
+	background: #EA3368;
+	text-transform: capitalize;
+	background: -webkit-linear-gradient(to right, #EA3368 0%, #fd8b56 100%);
+	background: -moz-linear-gradient(to right, #EA3368 0%, #fd8b56 100%);
+	background: linear-gradient(to right, #EA3368 0%, #fd8b56 100%);
+}
+
+.btn-style-three:before{
+	position: absolute;
+	content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+    -webkit-transform: scale(0.2, 1);
+    transform: scale(0.2, 1);
+	background: #EA3368;
+	background: -webkit-linear-gradient(to left, #EA3368 0%, #FD8B56 100%);
+	background: -moz-linear-gradient(to left, #EA3368 0%, #FD8B56 100%);
+	background: linear-gradient(to left, #EA3368 0%, #FD8B56 100%);
+}
+
+.btn-style-three .txt{
+	position:relative;
+	z-index:1;
+}
+
+.btn-style-three:hover::before{
+	 opacity: 1;
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.btn-style-three:hover{
+	color: #ffffff;
+}
 
 
 
