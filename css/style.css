@@ -1171,7 +1171,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .banner_video_bg {
-    height: 100vh;
+    height: 80vh;
 }
 
 .pattern-overlay {
@@ -2824,7 +2824,7 @@ input[type=checkbox]:checked + label:before {
 .testimonial-4 .testimonial-info{
     background: #ffffff;
     margin: 0 1px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
 }
 
 .testimonial-4 .testimonial-info:hover{

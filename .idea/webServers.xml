@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9965ac53-cdac-47c9-8595-a66aa114ab67" name="AFD">
+        <fileTransfer rootFolder="/var/www/www.tilbd.net/AFD" accessType="SFTP" host="103.159.218.20" port="22" sshConfigId="e2fbae62-6070-457f-9246-be1716b03338" sshConfig="root@103.159.218.20:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

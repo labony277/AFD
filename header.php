@@ -84,8 +84,39 @@
         font-weight: bold;
         color: #009879;
     }
+
+    .parallax2 {
+        /* The image used */
+        /*background-image: url("img/BH0mxZ.jpg");*/
+        
+    
+        /* Full height */
+        height: 10%;
+    
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /*position: relative;*/
+    }
+    
+    .parallax {
+            width: 100%;
+            padding: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    .bg_resizer{
+        position: relative;
+        z-index: 1;
+        box-shadow: 0px 0px 50px 0px rgb(0 0 0 / 25%);
+        background: white;
+    }
 </style>
 <body>
+
 <div class="page_loader"></div>
 
 
@@ -97,7 +128,8 @@
                 <img src="img/logo.png" alt="logo">
             </a>
 
-            <p style="margin-top: 17px"><span style="color: black">ARMED FORCES DIVISION </span> <br> <span style="    font-size: 18px;font-weight: bold;color: red;">TRAINING INSTITUTIONS</span></p>
+            <p style="margin-top: 17px"><span style="color: black">ARMED FORCES DIVISION </span> <br> <span
+                        style="    font-size: 18px;font-weight: bold;color: red;">TRAINING INSTITUTIONS</span></p>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

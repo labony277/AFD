@@ -4,8 +4,8 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true" style="color: red">Close</span>
-        </button>
+                    <span aria-hidden="true" style="color: red">Close</span>
+                </button>
             </div>
             <div class=" container-fluid">
                 <div class="container ">
@@ -221,15 +221,6 @@
 </div>
 <!-- Sub footer end -->
 
-<!-- Full Page Search -->
-<div id="full-page-search">
-    <button type="button" class="close">×</button>
-    <form action="https://storage.googleapis.com/theme-vessel-items/checking-sites/real-house-html/HTML/index.html#">
-        <input type="search" value="" placeholder="type keyword(s) here"/>
-        <button type="submit" class="btn btn-sm button-theme">Search</button>
-    </form>
-</div>
-
 <script src="js/jquery-2.2.0.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -251,6 +242,11 @@
 <script src="js/jquery.countdown.js"></script>
 <script src="js/maps.js"></script>
 <script src="js/app.js"></script>
+<script src="js/shifty.js"></script>
+
+<script>
+    new Shifty('.js-parallax');
+</script>
 
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="js/ie10-viewport-bug-workaround.js"></script>
