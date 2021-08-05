@@ -8,7 +8,7 @@
                 </button>
             </div>
             <div class=" container-fluid">
-                <div class="container ">
+                <div class="container">
                     <div class="row">
 
                         <div class="col-md-12">
@@ -133,7 +133,7 @@
 </div>
 <!-- end modal -->
 
-
+<!-- <div class="js-parallax parallax" data-img="img/ggggg.jpg" data-parallax="scroll"> -->
 <footer class="footer">
     <div class="container footer-inner">
         <div class="row">
@@ -206,6 +206,7 @@
         </div>
     </div>
 </footer>
+</div>
 <!-- Footer end -->
 
 <!-- Sub footer start -->

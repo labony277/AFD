@@ -107,17 +107,18 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            background-color: #9c0529;
         }
     .bg_resizer{
         position: relative;
         z-index: 1;
-        box-shadow: 0px 0px 50px 0px rgb(0 0 0 / 25%);
+        box-shadow: 5px 6px 12px 2px;
         background: white;
     }
 </style>
 <body>
 
-<div class="page_loader"></div>
+<!-- <div class="page_loader"></div> -->
 
 
 <!-- Main header start -->

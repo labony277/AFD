@@ -1,7 +1,6 @@
 <?php include 'header.php'; ?>
 <?php include 'banner.php'; ?>
-<div class="js-parallax parallax"
-     data-img="img/80s-retro-futurism-background-260nw-1232789431.jpg" data-parallax="scroll">
+<div class="js-parallax parallax" data-img="img/ggggg.jpg" data-parallax="scroll">
 
 
     <!-- Testimonial 4 start -->
@@ -55,7 +54,7 @@
 <!-- Testimonial 4 end -->
 
 <!-- Our team 2 start -->
-<div class="js-parallax parallax" data-img="img/80s-retro-futurism-background-260nw-1232789431.jpg" data-parallax="scroll">
+<div class="js-parallax parallax" data-img="img/ggggg.jpg" data-parallax="scroll">
         <div class="our-team-2 content-area bg_resizer">
             <div class="container-fluid parallax2">
                 <!-- Main title -->
@@ -128,7 +127,7 @@
 
 
 <!-- Featured Properties start -->
-<div class="js-parallax parallax" data-img="img/80s-retro-futurism-background-260nw-1232789431.jpg" data-parallax="scroll">
+<div class="js-parallax parallax" data-img="img/ggggg.jpg" data-parallax="scroll">
 <div class="featured-properties content-area-9 bg-light bg_resizer">
     <div class="container">
         <!-- Main title -->
@@ -223,7 +222,7 @@
     </div>
 </div>
 </div>
-<!-- Featured Properties end -->
+
 <?php include 'footer.php'; ?>
 
 

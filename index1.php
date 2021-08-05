@@ -2,7 +2,7 @@
 <?php include 'banner.php'; ?>
 
 
-<div class="js-parallax parallax" data-img="img/scg-canvas-background-animation-19.jpg" data-parallax="scroll">
+<div class="js-parallax parallax" data-img="img/body-bg-stripes.png" data-parallax="scroll">
 
 
     <!-- Testimonial 4 start -->
@@ -56,7 +56,7 @@
 <!-- Testimonial 4 end -->
 
 <!-- Our team 2 start -->
-<div class="js-parallax parallax" data-img="img/scg-canvas-background-animation-19.jpg" data-parallax="scroll">
+<div class="js-parallax parallax" data-img="img/body-bg-stripes.png" data-parallax="scroll">
         <div class="our-team-2 content-area bg_resizer">
             <div class="container-fluid parallax2">
                 <!-- Main title -->
@@ -129,7 +129,7 @@
 
 
 <!-- Featured Properties start -->
-<div class="js-parallax parallax" data-img="img/scg-canvas-background-animation-19.jpg" data-parallax="scroll">
+<div class="js-parallax parallax" data-img="img/body-bg-stripes.png" data-parallax="scroll">
 <div class="featured-properties content-area-9 bg-light bg_resizer">
     <div class="container">
         <!-- Main title -->
