@@ -22,8 +22,7 @@
                         alt="image">
                 </div>
                 <div class="member-content">
-                    <h2 style="font-weight: bold;text-align: center;font-size:
-                        36px">" There will be a day when people around the world
+                    <h2 style="font-weight: bold;text-align: center;font-family: 'Italianno', cursive;margin-right: 30px;font-size: 65px">" There will be a day when people around the world
                         will come to see my academy "</h2>
                 </div>
             </div>
