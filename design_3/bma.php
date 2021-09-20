@@ -1,43 +1,25 @@
 <?php include 'header.php'; ?>
-
-<style>
-    .header_back {
-        background: linear-gradient(#2fa8ad, #4c8781);
-        color: wheat !important;
-    }
-</style>
 <div class="page-title-area">
-        <div class="page-title-content">
-            <div class="row justify-content-center">
-                <div class="col-1">
-                    <div class="logo" style="text-align: center">
-                        <img src="assets/img/school/bma/logo-removebg-preview.png" alt="logo" style="max-width: 160px">
-                    </div>
+    <div class="page-title-content">
+        <div class="row justify-content-center">
+            <div class="col-1">
+                <div class="logo" style="text-align: center">
+                    <img src="assets/img/school/bma/logo-removebg-preview.png" alt="logo" style="max-width: 160px">
                 </div>
-                <div class="col-10">
-                    <h2 style="text-transform: uppercase;
-    font-weight: 800;
-    margin: 0;
-    color: #fff;
-    text-align: center;
-    text-shadow: 5px 4px 5px black;margin-top: 30px">Bangladesh Military Academy (BMA)</h2>
-                </div>
-<!--                <div class="col-1">-->
-<!--                    <div class="logo" style="text-align: center">-->
-<!--                        <img src="assets/img/school/bma/logo.jpg" alt="logo" style="max-width: 100px">-->
-<!--                    </div>-->
-<!--                </div>-->
             </div>
-
+            <div class="col-10">
+                <h2 class="details_header">Bangladesh Military Academy (BMA)</h2>
+            </div>
         </div>
+
+    </div>
 </div>
 
 
 <section class="services-details-area ptb-100 jarallax" data-jarallax='{"speed": 0.2}'>
-    <div class="container" style="background: ghostwhite;box-shadow: 5px 6px 12px 2px;text-align: justify">
+    <div class="container" style="box-shadow: 5px 6px 12px 2px;text-align: justify">
         <div class="row">
             <div class="col-md-7 col-lg-12">
-<!--                <h2 class="text-center">Bangladesh Military Academy (BMA) </h2>-->
                 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" style="height: 500px">
@@ -63,137 +45,134 @@
         </div>
         <div class="container mt-5">
             <div class="row">
-                <div class="col-md-8 col-lg-8">
+                <div class="col-md-12 col-lg-12">
 
-                    <div class="border mb-4">
-                        <h6 class="text-dark px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
+                    <div class="border mb-4 desc_box">
+                        <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                         <div class="p-4 border-top">
-                            <p class="mt-2 lead ">Bangladesh Military Academy (BMA) started its glorious Journey in 1974 at Cumilla Cantonment with the motto "EVER
-                                HIGH IS MY HEAD". Later, it was shifted to its present location in the south eastern hilly area of the country named Bhatiary,
-                                Chattogram in 1976. The academy has achieved "National Standard" in testimony to its outstanding contribution for the motherland
-                                in 1979. The Father of the Nation Bangabandhu Sheikh MujiburRahman envisioned the phenomenal upbringing of this academy. As per
-                                his aspiration the academy is equipped with all sorts of international standard facilities for conducting military and academic
-                                training simultaneously. The academy proudly conducts training to officer cadets of Bangladesh Army, Navy and Air Force to be
-                                commissioned as officers. A good number of foreign cadets have also been trained since 1977.</p>
+                            <p class="mt-2 lead ">Bangladesh Military Academy (BMA) started its glorious Journey in 1974 at Cumilla Cantonment with the motto
+                                "EVER HIGH IS MY HEAD". Later, it was shifted to its present location in the south eastern hilly area of the country named
+                                Bhatiary, Chattogram in 1976. The academy has achieved "National Standard" in testimony to its outstanding contribution for the
+                                motherland in 1979. The Father of the Nation Bangabandhu Sheikh MujiburRahman envisioned the phenomenal upbringing of this
+                                academy. As per his aspiration the academy is equipped with all sorts of international standard facilities for conducting
+                                military and academic training simultaneously. The academy proudly conducts training to officer cadets of Bangladesh Army, Navy
+                                and Air Force to be commissioned as officers. A good number of foreign cadets have also been trained since 1977.</p>
                         </div>
                     </div>
-                    <!-- end -->
+                </div>
 
-                    <!-- objective -->
+                <div class="col-md-12 col-lg-8">
                     <div class="border mb-4">
-                        <h6 class="text-dark px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
-                        <div class="p-4 border-top">
-                            <span class="lead text-dark fw-6">The missions of the School are:</span>
+                        <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
+                        <div class="p-4 border-top desc_box">
+                            <span class="lead fw-6">The missions of the School are:</span>
                             <ul class="list-unstyled mt-3">
                                 <li class="d-sm-flex align-items-center border-bottom pb-3
                     mb-3">
-
                                     <p class="mr-4 lead ">1. To inspire each cadet to be leader of character imbibed with the values of religion, military
                                         tradition and dedication to a lifetime of service to the nation.</p>
-
-
                                 </li>
                                 <li class="d-sm-flex align-items-center border-bottom pb-3
                     mb-3">
-
                                     <p class="mr-4 lead ">2. To train each cadet as a competent Infantry Platoon Commander committed to professionalism.</p>
                                 </li>
                                 <li class="d-sm-flex align-items-center border-bottom pb-3
                     mb-3">
-
                                     <p class="mr-4 lead ">3. To educate each cadet as a knowledgeable university graduate with inspiration to enhance academic
                                         proficiency.</p>
                                 </li>
-
-
                             </ul>
-
                         </div>
                     </div>
-                    <!-- end -->
-                    
-                    
-                    
-                    <!-- AIM -->
+
+
                     <div class="border mb-4">
-                        <h6 class="text-dark px-4 py-2 bg-light mb-0 header_back">AIM</h6>
-                        <div class="p-4 border-top">
-                            <span class="lead text-dark fw-6">To prepare officer cadets/Trainee officers for grant of commission as officers in Bangladesh Army.</span>
+                        <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
+                        <div class="p-4 border-top desc_box">
+                            <span class="lead fw-6">To prepare officer cadets/Trainee officers for grant of commission as officers in Bangladesh Army.</span>
                         </div>
                     </div>
-                    <!-- end -->
-
-
                 </div>
 
 
                 <div class="col-lg-4 col-md-12">
-                    <aside class="widget-area" id="secondary">
-                        <section class="widget widget_bahama_posts_thumb">
-                            <h3 class="widget-title">Gallery</h3>
-                            <div class="tv-show-slides owl-carousel owl-theme">
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img1.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img1.jpg" class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img2.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img2.jpg" class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img3.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img3.jpg" class="popup-youtube"></a>
+                    <div class="tab products-details-tab">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12 col-md-12">
+                                <ul class="tabs active">
+                                    <li class="current"><a href="#">
+                                            Gallery
+                                        </a></li>
+                                    <li class=""><a href="#">
+                                            Video
+                                        </a></li>
+                                    <li class=""><a href="#">
+                                            Map
+                                        </a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="tab_content desc_box">
+                                    <div class="tabs_item" style="display: block;">
+                                        <div class="tv-show-slides owl-carousel owl-theme">
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img1.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img1.jpg" class="popup-youtube"></a>
+                                            </div>
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img2.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img2.jpg" class="popup-youtube"></a>
+                                            </div>
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img3.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img3.jpg" class="popup-youtube"></a>
+                                            </div>
+                                        </div>
+
+                                        <div class="tv-show-slides owl-carousel owl-theme">
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img1.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img1.jpg" class="popup-youtube"></a>
+                                            </div>
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img2.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img2.jpg" class="popup-youtube"></a>
+                                            </div>
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img3.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img3.jpg" class="popup-youtube"></a>
+                                            </div>
+                                        </div>
+                                        <div class="tv-show-slides owl-carousel owl-theme">
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img1.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img1.jpg" class="popup-youtube"></a>
+                                            </div>
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img2.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img2.jpg" class="popup-youtube"></a>
+                                            </div>
+                                            <div class="single-tv-show">
+                                                <img src="assets/img/tv-show-img3.jpg" alt="image">
+                                                <a href="assets/img/tv-show-img3.jpg" class="popup-youtube"></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tabs_item" style="display: none;">
+                                        <video width="100%" height="240" controls="">
+                                            <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
+                                            <source src="movie.ogg" type="video/ogg">
+                                            Your browser does not support the video tag.
+                                        </video>
+                                    </div>
+                                    <div class="tabs_item" style="display: none;">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20877.13700630394!2d91.77339327099503!3d22.331291975608597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd9303ed27475%3A0x2f501816a06ef1a1!2sArtillery%20Center%20and%20School%20(The%20Home%20of%20Gunners)!5e0!3m2!1sen!2sbd!4v1623869129763!5m2!1sen!2sbd"
+                                                width="100%" height="215" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                    </div>
                                 </div>
                             </div>
-
-                            <div class="tv-show-slides owl-carousel owl-theme">
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img1.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img1.jpg" class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img2.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img2.jpg" class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img3.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img3.jpg" class="popup-youtube"></a>
-                                </div>
-                            </div>
-                            <div class="tv-show-slides owl-carousel owl-theme">
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img1.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img1.jpg" class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img2.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img2.jpg" class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                    <img src="assets/img/tv-show-img3.jpg" alt="image">
-                                    <a href="assets/img/tv-show-img3.jpg" class="popup-youtube"></a>
-                                </div>
-                            </div>
-                        </section>
-
-
-                        <!--                        <section class="widget widget_recent_comments">-->
-                        <!--                            <h3 class="widget-title">VIDEO</h3>-->
-                        <!--                            <video width="100%" height="240" controls="">-->
-                        <!--                                <source src="img/properties/bma/bma_video.mp4" type="video/mp4">-->
-                        <!--                                <source src="movie.ogg" type="video/ogg">-->
-                        <!--                                Your browser does not support the video tag.-->
-                        <!--                            </video>-->
-                        <!--                        </section>-->
-
-
-                        <section class="widget widget_recent_entries">
-                            <h3 class="widget-title">LOCATION</h3>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20877.13700630394!2d91.77339327099503!3d22.331291975608597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd9303ed27475%3A0x2f501816a06ef1a1!2sArtillery%20Center%20and%20School%20(The%20Home%20of%20Gunners)!5e0!3m2!1sen!2sbd!4v1623869129763!5m2!1sen!2sbd"
-                                    width="100%" height="215" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                        </section>
-
-                    </aside>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -202,7 +181,7 @@
 
 
 <div class="col-lg-12 bg-light">
-    <h6 class="text-dark px-4 py-2 bg-light mb-0 header_back">COURSE DESCRIPTION</h6>
+    <h6 class="px-4 py-2 bg-light mb-0 header_back">COURSE DESCRIPTION</h6>
     <div class="p-4 border-top">
 
 

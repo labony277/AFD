@@ -1,9 +1,9 @@
-@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Hind+Siliguri:wght@300&family=Oswald:wght@300;400&family=Roboto+Slab:wght@300;400&family=Signika+Negative:wght@300&display=swap');
 
 body {
     padding: 0;
     margin: 0;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     font-size: 16px
 }
 
@@ -24,7 +24,7 @@ p {
     /*line-height: 1.9;*/
     color: #000;
     margin-bottom: 15px;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     font-size: 17px
 }
 
@@ -63,7 +63,7 @@ a:hover {
     transition: .5s;
     position: relative;
     z-index: 1;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     font-size: 15px;
     font-weight: 700
 }
@@ -403,7 +403,7 @@ a:hover {
 }
 
 .bahama-nav .navbar .navbar-nav {
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     margin-left: auto
 }
 
@@ -1987,7 +1987,7 @@ a:hover {
     border: 2px solid #265d3b;
     font-size: 15px;
     font-weight: 700;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     background: #265d3b;
 }
 
@@ -2513,7 +2513,7 @@ a:hover {
     color: #fa8185;
     font-size: 15px;
     position: absolute;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     left: 0;
     top: 50%;
     -webkit-transform: translateY(-50%);
@@ -2595,7 +2595,7 @@ a:hover {
     margin-bottom: 7px;
     font-size: 40px;
     font-weight: 700;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
 }
 
 .blog-area {
@@ -2991,7 +2991,7 @@ blockquote::before, .blockquote::before {
     left: 50px;
     top: -50px;
     z-index: -1;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     font-size: 140px;
     font-style: normal
 }
@@ -3440,7 +3440,7 @@ blockquote::before, .blockquote::before {
     margin-right: 10px;
     font-size: 30px;
     font-weight: 700;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
 }
 
 .offer-time #timer div span {
@@ -3449,7 +3449,7 @@ blockquote::before, .blockquote::before {
     color: #fff;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'SolaimanLipi', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
 }
 
 .offer-time #timer div:last-child {
@@ -3601,7 +3601,7 @@ blockquote::before, .blockquote::before {
 }
 
 .widget-area {
-    padding-left: 15px
+    /*padding-left: 15px*/
 }
 
 .widget-area .widget {
@@ -3620,6 +3620,28 @@ blockquote::before, .blockquote::before {
     position: relative;
     font-weight: 700;
     font-size: 23px
+}
+
+
+.desc_box {
+    background: #e9f1f7;
+}
+
+.header_back {
+    background: #6aca8ebd !important;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.details_header {
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 0;
+    color: #fff;
+    text-align: center;
+    text-shadow: 5px 4px 5px black;
+    margin-top: 30px
 }
 
 .widget-area .widget .widget-title::before {
@@ -4362,7 +4384,7 @@ blockquote::before, .blockquote::before {
 }
 
 .products-details-tab {
-    margin-top: 50px
+    /*margin-top: 50px*/
 }
 
 .products-details-tab .tabs {
@@ -4374,7 +4396,9 @@ blockquote::before, .blockquote::before {
 .products-details-tab .tabs li {
     display: inline-block;
     line-height: initial;
-    margin-right: 5px
+    margin-right: 5px;
+    width: 31%;
+    padding-left: 2px;
 }
 
 .products-details-tab .tabs li a {
@@ -4385,10 +4409,13 @@ blockquote::before, .blockquote::before {
     border: 1px dashed #eee;
     padding-top: 15px;
     padding-bottom: 15px;
-    padding-right: 30px;
-    padding-left: 48px;
+    padding-right: 10px;
+    padding-left: 10px;
     font-weight: 700;
-    font-size: 14px
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+    background: #91d8ab;
 }
 
 .products-details-tab .tabs li a .dot {
@@ -4433,8 +4460,8 @@ blockquote::before, .blockquote::before {
 
 .products-details-tab .tabs li.current a {
     color: #fff;
-    background-color: #fa8185;
-    border-color: #fa8185
+    background-color: #265d3b;
+    border-color: #265d3b
 }
 
 .products-details-tab .tabs li.current a .dot {
@@ -4451,7 +4478,7 @@ blockquote::before, .blockquote::before {
 
 .products-details-tab .tab_content {
     border: 1px dashed #eee;
-    padding: 30px
+    padding: 10px
 }
 
 .products-details-tab .tab_content .tabs_item .products-details-tab-content p {
