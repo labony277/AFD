@@ -30,16 +30,15 @@
         </div>
     </section>
 
-    <section class="pricing-area ptb-100 pb-0 bg-fcfcfc jarallax"
-        data-jarallax='{" speed" : 0.2}'>
+    <section class="pricing-area ptb-100 pb-0 bg-fcfcfc ">
         <div class="container">
             <div class="section-title">
                 <h2 style="color: white">TRAINING INSTITUTION <br> ARMED FORCES
                     DIVISION</h2>
             </div>
 
-            <div class="row" style="margin-left: 216px;">
-                <div class="col-lg-5 col-md-6 col-sm-6">
+            <div class="row justify-content-center">
+                <div class="col-lg-5 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
@@ -57,7 +56,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-5 col-md-6 col-sm-6">
+                <div class="col-lg-5 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
@@ -75,8 +74,8 @@
                     </div>
                 </div>
             </div>
-            <div class="row" style="margin-left: 216px;">
-                <div class="col-lg-5 col-md-6 col-sm-6">
+            <div class="row justify-content-center">
+                <div class="col-lg-5 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
@@ -94,7 +93,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-5 col-md-6 col-sm-6">
+                <div class="col-lg-5 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
