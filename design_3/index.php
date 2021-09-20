@@ -38,7 +38,7 @@
                     DIVISION</h2>
             </div>
 
-            <div class="row" style="margin-left: 233px;">
+            <div class="row" style="margin-left: 216px;">
                 <div class="col-lg-5 col-md-6 col-sm-6">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
@@ -75,7 +75,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row" style="margin-left: 233px;">
+            <div class="row" style="margin-left: 216px;">
                 <div class="col-lg-5 col-md-6 col-sm-6">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
