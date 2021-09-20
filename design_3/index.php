@@ -36,8 +36,8 @@
                     DIVISION</h2>
             </div>
 
-            <div class="row justify-content-center"></div>
-                <div class="col-lg-5 col-md-12">
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
@@ -55,7 +55,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-5 col-md-12">
+                <div class="col-lg-4 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
@@ -74,7 +74,7 @@
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-lg-5 col-md-12">
+                <div class="col-lg-4 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
@@ -92,7 +92,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-5 col-md-12">
+                <div class="col-lg-4 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
