@@ -35,7 +35,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../safety_gps_tracker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -51,6 +51,7 @@
       <workItem from="1626243344703" duration="1210000" />
       <workItem from="1626376740116" duration="37000" />
       <workItem from="1627376655646" duration="11772000" />
+      <workItem from="1632114695010" duration="1200000" />
     </task>
     <servers />
   </component>
