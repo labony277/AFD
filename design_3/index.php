@@ -31,8 +31,9 @@
         <div class="section-title">
             <h2 style="color: white">TRAINING INSTITUTION <br> ARMED FORCES DIVISION</h2>
         </div>
-        <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6">
+       
+        <div class="row" style="margin-left: 233px;">
+            <div class="col-lg-5 col-md-6 col-sm-6">
                 <div class="single-pricing-table">
                     <div class="pricing-header">
                         <div class="icon">
@@ -40,7 +41,7 @@
                         </div>
                         <h3>TRI SERVICE INSTITUTION</h3>
                     </div>
-                    <a href="school_list.php" class="view-plans-btn">View Details</a>
+                    <a href="school_list.php" class="view-plans-btn" >View Details</a>
                     <div class="image-box">
                         <img src="assets/img/shape-image/2.png" alt="image">
                         <img src="assets/img/shape-image/2.png" alt="image">
@@ -48,7 +49,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="col-lg-5 col-md-6 col-sm-6">
                 <div class="single-pricing-table">
                     <div class="pricing-header">
                         <div class="icon">
@@ -63,8 +64,9 @@
                     </div>
                 </div>
             </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-6">
+        </div>
+        <div class="row" style="margin-left: 233px;">
+            <div class="col-lg-5 col-md-6 col-sm-6">
                 <div class="single-pricing-table">
                     <div class="pricing-header">
                         <div class="icon">
@@ -80,7 +82,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="col-lg-5 col-md-6 col-sm-6">
                 <div class="single-pricing-table">
                     <div class="pricing-header">
                         <div class="icon">
@@ -88,7 +90,7 @@
                         </div>
                         <h3>BANGLADESH AIR FORCE</h3>
                     </div>
-                    <a href="air_force_list.php" class="view-plans-btn">View Details</a>
+                    <a href="air_force_list.php" class="view-plans-btn" >View Details</a>
                     <div class="image-box">
                         <img src="assets/img/shape-image/2.png" alt="image">
                         <img src="assets/img/shape-image/2.png" alt="image">
@@ -97,6 +99,7 @@
             </div>
 
         </div>
+    
     </div>
     </div>
 </section>
