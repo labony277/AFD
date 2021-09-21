@@ -250,7 +250,7 @@
                                             Conducted
                                             in a year
                                         </th>
-                                        <th>Tuition Fee (US $) if on payment</th>
+                                        
                                     </tr>
                                     <tr>
                                         <td>Officers’ Gunnery Staff
@@ -281,13 +281,6 @@
                                         <td>01</td>
 
 
-                                        <td>Tuition Fee: $20×280 = $5600
-                                            Accommodation: $300x$10 = $3000 (Single)
-                                            Accommodation: $450x$10 = $4500 (Married)
-                                            Orderly: $75×10 = $750
-                                            Food: $400×10 months = $4000
-                                            Utility: Actual
-                                        </td>
 
                                     </tr>
                                 </table>
@@ -331,7 +324,7 @@
                                             Conducted
                                             in a year
                                         </th>
-                                        <th>Tuition Fee (US $) if on payment</th>
+                                        
                                     </tr>
                                     <tr>
                                         <td>Officers’ Gunnery Staff
@@ -362,13 +355,6 @@
                                         <td>01</td>
 
 
-                                        <td>Tuition Fee: $20×280 = $5600
-                                            Accommodation: $300x$10 = $3000 (Single)
-                                            Accommodation: $450x$10 = $4500 (Married)
-                                            Orderly: $75×10 = $750
-                                            Food: $400×10 months = $4000
-                                            Utility: Actual
-                                        </td>
 
                                     </tr>
                                 </table>
@@ -412,7 +398,7 @@
                                             Conducted
                                             in a year
                                         </th>
-                                        <th>Tuition Fee (US $) if on payment</th>
+                                        
                                     </tr>
                                     <tr>
                                         <td>Officers’ Gunnery Staff
@@ -443,13 +429,7 @@
                                         <td>01</td>
 
 
-                                        <td>Tuition Fee: $20×280 = $5600
-                                            Accommodation: $300x$10 = $3000 (Single)
-                                            Accommodation: $450x$10 = $4500 (Married)
-                                            Orderly: $75×10 = $750
-                                            Food: $400×10 months = $4000
-                                            Utility: Actual
-                                        </td>
+                                        
 
                                     </tr>
                                 </table>
