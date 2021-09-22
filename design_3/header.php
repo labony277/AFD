@@ -75,6 +75,75 @@
     width: 100px;
     height: 85px;
         }
+        /* table */
+        .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.9em;
+        font-family: sans-serif;
+        min-width: 100%;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        text-align: center;
+    }
+
+    .styled-table thead tr {
+        background-color: #9c0529;
+        color: #ffffff;
+        text-align: center;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #9c0529;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #009879;
+    }
+
+    .parallax2 {
+        /* The image used */
+        /*background-image: url("img/BH0mxZ.jpg");*/
+        
+    
+        /* Full height */
+        height: 10%;
+    
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /*position: relative;*/
+    }
+    
+    .parallax {
+            width: 100%;
+            padding: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #9c0529;
+        }
+    .bg_resizer{
+        position: relative;
+        z-index: 1;
+        box-shadow: 5px 6px 12px 2px;
+        background: white;
+    }
     </style>
     </head>
     <body>
@@ -90,9 +159,13 @@
                         <a href="index.php">
                             <img src="assets/img/logo.png" alt="logo"
                                 style="max-width: 100px">
-
                         </a>
-                        <!-- <h6>Training Through Excellence</h6> -->
+                
+                        <span style="color: white;
+                        font-size: 20px;
+                        font-weight: bold;
+                        line-height: 1;
+                        margin-top: 15px;">Training Through Excellence</span >
                     </div>
                 </div>
                 <div class="bahama-nav">
@@ -101,7 +174,14 @@
                             <a class="navbar-brand" href="index.php">
                                 <img src="assets/img/logo.png" alt="logo"
                                     style="max-width: 80px">
-                            </a>
+                                </a>
+                                <p style="color: white;
+                                font-size: 20px;
+                                font-weight: bold;
+                                line-height: 1;
+                                margin-top: 15px;
+                                margin-left: -15px;">Training Through <br> Excellence</p>
+                            
                             <div class="collapse navbar-collapse mean-menu"
                                 id="navbarSupportedContent">
                                 <ul class="navbar-nav">

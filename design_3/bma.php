@@ -184,323 +184,326 @@
 </section>
 
 
-<div class="col-lg-12 bg-light">
-    <h6 class="px-4 py-2 bg-light mb-0 header_back">COURSE DESCRIPTION</h6>
-    <div class="p-4 border-top">
+<section class="bg_resizer">
+    <div class="col-lg-12 bg-light">
+        <h6 class="text-dark px-4 py-2 bg-light mb-0 header_back">COURSE DESCRIPTION</h6>
+        <div class="p-4 border-top">
 
 
-        <div class="accordion" id="accordion">
-            <div class="card">
-                <div class="card-header" id="headingOne">
-                    <h5 class="accordion-title mb-0">
-                        <button class="btn btn-link d-flex align-items-center
-            ml-auto" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
-                                aria-controls="collapseOne">Officers’
-                            Gunnery Staff Course (Air Defence)
-                        </button>
-                    </h5>
-                </div>
-                <div id="collapseOne" class="collapse show accordion-content" aria-labelledby="headingOne"
-                     data-parent="#accordion">
-                    <div class="card-body">
-                        <!-- table -->
-                        <style>
-                            table,
-                            th,
-                            td {
-                                border: 1px solid #9c0529;
-                                border-collapse: collapse;
-                            }
-                        </style>
-                        <table style="width:100%">
-                            <tr>
-                                <th>Name of
-                                    Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                    Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                    Conducted
-                                    in a year
-                                </th>
-                                
-                            </tr>
-                            <tr>
-                                <td>Officers’ Gunnery Staff
-                                    Course (Air Defence)
-                                </td>
+            <div class="accordion" id="accordion">
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <h5 class="accordion-title mb-0">
+                            <button class="btn btn-link d-flex align-items-center
+                ml-auto" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
+                                    aria-controls="collapseOne">Officers’
+                                Gunnery Staff Course (Air Defence)
+                            </button>
+                        </h5>
+                    </div>
+                    <div id="collapseOne" class="collapse show accordion-content" aria-labelledby="headingOne"
+                         data-parent="#accordion">
+                        <div class="card-body">
+                            <!-- table -->
+                            <style>
+                                table,
+                                th,
+                                td {
+                                    border: 1px solid #9c0529;
+                                    border-collapse: collapse;
+                                }
+                            </style>
+                            <table style="width:100%">
+                                <tr>
+                                    <th>Name of
+                                        Courses
+                                    </th>
+                                    <th>Aim</th>
+                                    <th>Medium</th>
+                                    <th>Applicable
+                                        Rank
+                                    </th>
+                                    <th>Duration</th>
+                                    <th>Course
+                                        Conducted
+                                        in a year
+                                    </th>
+                                    
+                                </tr>
+                                <tr>
+                                    <td>Officers’ Gunnery Staff
+                                        Course (Air Defence)
+                                    </td>
 
 
-                                <td>To train selected officers to be qualified as
-                                    Instructor Gunnery, staff officers of various
-                                    Headquarters and Commanding Officer of field / medium
-                                    regiment
-                                    or Officer Commanding of locating battery
-                                </td>
+                                    <td>To train selected officers to be qualified as
+                                        Instructor Gunnery, staff officers of various
+                                        Headquarters and Commanding Officer of field / medium
+                                        regiment
+                                        or Officer Commanding of locating battery
+                                    </td>
 
-                                <td>English</td>
-
-
-                                <td>English
-                                    Captain/Major
-                                </td>
+                                    <td>English</td>
 
 
-                                <td>40 Week
-                                    (280 day/10 Months)
-                                </td>
+                                    <td>English
+                                        Captain/Major
+                                    </td>
 
 
-                                <td>01</td>
+                                    <td>40 Week
+                                        (280 day/10 Months)
+                                    </td>
+
+
+                                    <td>01</td>
 
 
 
-                            </tr>
-                        </table>
+                                </tr>
+                            </table>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="headingTwo">
-                    <h5 class="accordion-title mb-0">
-                        <button class="btn btn-link d-flex align-items-center
-            ml-auto collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
-                                aria-controls="collapseTwo"> Officers’ Basic Course (Air
-                            Defence)
-                        </button>
-                    </h5>
-                </div>
-                <div id="collapseTwo" class="collapse accordion-content" aria-labelledby="headingTwo"
-                     data-parent="#accordion">
-                    <div class="card-body">
-                        <!-- table -->
-                        <style>
-                            table,
-                            th,
-                            td {
-                                border: 1px solid #9c0529;
-                                border-collapse: collapse;
-                            }
-                        </style>
-                        <table style="width:100%">
-                            <tr>
-                                <th>Name of
-                                    Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                    Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                    Conducted
-                                    in a year
-                                </th>
-                                
-                            </tr>
-                            <tr>
-                                <td>Officers’ Gunnery Staff
-                                    Course (Air Defence)
-                                </td>
+                <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <h5 class="accordion-title mb-0">
+                            <button class="btn btn-link d-flex align-items-center
+                ml-auto collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
+                                    aria-controls="collapseTwo"> Officers’ Basic Course (Air
+                                Defence)
+                            </button>
+                        </h5>
+                    </div>
+                    <div id="collapseTwo" class="collapse accordion-content" aria-labelledby="headingTwo"
+                         data-parent="#accordion">
+                        <div class="card-body">
+                            <!-- table -->
+                            <style>
+                                table,
+                                th,
+                                td {
+                                    border: 1px solid #9c0529;
+                                    border-collapse: collapse;
+                                }
+                            </style>
+                            <table style="width:100%">
+                                <tr>
+                                    <th>Name of
+                                        Courses
+                                    </th>
+                                    <th>Aim</th>
+                                    <th>Medium</th>
+                                    <th>Applicable
+                                        Rank
+                                    </th>
+                                    <th>Duration</th>
+                                    <th>Course
+                                        Conducted
+                                        in a year
+                                    </th>
+                                    
+                                </tr>
+                                <tr>
+                                    <td>Officers’ Gunnery Staff
+                                        Course (Air Defence)
+                                    </td>
 
 
-                                <td>To train selected officers to be qualified as
-                                    Instructor Gunnery, staff officers of various
-                                    Headquarters and Commanding Officer of field / medium
-                                    regiment
-                                    or Officer Commanding of locating battery
-                                </td>
+                                    <td>To train selected officers to be qualified as
+                                        Instructor Gunnery, staff officers of various
+                                        Headquarters and Commanding Officer of field / medium
+                                        regiment
+                                        or Officer Commanding of locating battery
+                                    </td>
 
-                                <td>English</td>
-
-
-                                <td>English
-                                    Captain/Major
-                                </td>
+                                    <td>English</td>
 
 
-                                <td>40 Week
-                                    (280 day/10 Months)
-                                </td>
+                                    <td>English
+                                        Captain/Major
+                                    </td>
 
 
-                                <td>01</td>
+                                    <td>40 Week
+                                        (280 day/10 Months)
+                                    </td>
+
+
+                                    <td>01</td>
 
 
 
-                            </tr>
-                        </table>
+                                </tr>
+                            </table>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="headingthree">
-                    <h5 class="accordion-title mb-0">
-                        <button class="btn btn-link d-flex align-items-center
-            ml-auto collapsed" data-toggle="collapse" data-target="#collapsethree" aria-expanded="false"
-                                aria-controls="collapsethree">Officers’ Basic Course
-                            (Field)
-                        </button>
-                    </h5>
-                </div>
-                <div id="collapsethree" class="collapse accordion-content" aria-labelledby="headingthree"
-                     data-parent="#accordion">
-                    <div class="card-body">
-                        <!-- table -->
-                        <style>
-                            table,
-                            th,
-                            td {
-                                border: 1px solid #9c0529;
-                                border-collapse: collapse;
-                            }
-                        </style>
-                        <table style="width:100%">
-                            <tr>
-                                <th>Name of
-                                    Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                    Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                    Conducted
-                                    in a year
-                                </th>
-                                
-                            </tr>
-                            <tr>
-                                <td>Officers’ Gunnery Staff
-                                    Course (Air Defence)
-                                </td>
+                <div class="card">
+                    <div class="card-header" id="headingthree">
+                        <h5 class="accordion-title mb-0">
+                            <button class="btn btn-link d-flex align-items-center
+                ml-auto collapsed" data-toggle="collapse" data-target="#collapsethree" aria-expanded="false"
+                                    aria-controls="collapsethree">Officers’ Basic Course
+                                (Field)
+                            </button>
+                        </h5>
+                    </div>
+                    <div id="collapsethree" class="collapse accordion-content" aria-labelledby="headingthree"
+                         data-parent="#accordion">
+                        <div class="card-body">
+                            <!-- table -->
+                            <style>
+                                table,
+                                th,
+                                td {
+                                    border: 1px solid #9c0529;
+                                    border-collapse: collapse;
+                                }
+                            </style>
+                            <table style="width:100%">
+                                <tr>
+                                    <th>Name of
+                                        Courses
+                                    </th>
+                                    <th>Aim</th>
+                                    <th>Medium</th>
+                                    <th>Applicable
+                                        Rank
+                                    </th>
+                                    <th>Duration</th>
+                                    <th>Course
+                                        Conducted
+                                        in a year
+                                    </th>
+                                    
+                                </tr>
+                                <tr>
+                                    <td>Officers’ Gunnery Staff
+                                        Course (Air Defence)
+                                    </td>
 
 
-                                <td>To train selected officers to be qualified as
-                                    Instructor Gunnery, staff officers of various
-                                    Headquarters and Commanding Officer of field / medium
-                                    regiment
-                                    or Officer Commanding of locating battery
-                                </td>
+                                    <td>To train selected officers to be qualified as
+                                        Instructor Gunnery, staff officers of various
+                                        Headquarters and Commanding Officer of field / medium
+                                        regiment
+                                        or Officer Commanding of locating battery
+                                    </td>
 
-                                <td>English</td>
-
-
-                                <td>English
-                                    Captain/Major
-                                </td>
+                                    <td>English</td>
 
 
-                                <td>40 Week
-                                    (280 day/10 Months)
-                                </td>
+                                    <td>English
+                                        Captain/Major
+                                    </td>
 
 
-                                <td>01</td>
+                                    <td>40 Week
+                                        (280 day/10 Months)
+                                    </td>
 
 
-                                
+                                    <td>01</td>
 
-                            </tr>
-                        </table>
+
+                                    
+
+                                </tr>
+                            </table>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="headingfour">
-                    <h5 class="accordion-title mb-0">
-                        <button class="btn btn-link d-flex align-items-center
-            ml-auto collapsed" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false"
-                                aria-controls="collapsefour">Mid-Career Course (Field)
-                        </button>
-                    </h5>
-                </div>
-                <div id="collapsefour" class="collapse accordion-content" aria-labelledby="headingfour"
-                     data-parent="#accordion">
-                    <div class="card-body">
-                        <!-- table -->
-                        <style>
-                            table,
-                            th,
-                            td {
-                                border: 1px solid #9c0529;
-                                border-collapse: collapse;
-                            }
-                        </style>
-                        <table style="width:100%">
-                            <tr>
-                                <th>Name of
-                                    Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                    Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                    Conducted
-                                    in a year
-                                </th>
-                                <th>Tuition Fee (US $) if on payment</th>
-                            </tr>
-                            <tr>
-                                <td>Officers’ Gunnery Staff
-                                    Course (Air Defence)
-                                </td>
+                <div class="card">
+                    <div class="card-header" id="headingfour">
+                        <h5 class="accordion-title mb-0">
+                            <button class="btn btn-link d-flex align-items-center
+                ml-auto collapsed" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false"
+                                    aria-controls="collapsefour">Mid-Career Course (Field)
+                            </button>
+                        </h5>
+                    </div>
+                    <div id="collapsefour" class="collapse accordion-content" aria-labelledby="headingfour"
+                         data-parent="#accordion">
+                        <div class="card-body">
+                            <!-- table -->
+                            <style>
+                                table,
+                                th,
+                                td {
+                                    border: 1px solid #9c0529;
+                                    border-collapse: collapse;
+                                }
+                            </style>
+                            <table style="width:100%">
+                                <tr>
+                                    <th>Name of
+                                        Courses
+                                    </th>
+                                    <th>Aim</th>
+                                    <th>Medium</th>
+                                    <th>Applicable
+                                        Rank
+                                    </th>
+                                    <th>Duration</th>
+                                    <th>Course
+                                        Conducted
+                                        in a year
+                                    </th>
+                                    <th>Tuition Fee (US $) if on payment</th>
+                                </tr>
+                                <tr>
+                                    <td>Officers’ Gunnery Staff
+                                        Course (Air Defence)
+                                    </td>
 
 
-                                <td>To train selected officers to be qualified as
-                                    Instructor Gunnery, staff officers of various
-                                    Headquarters and Commanding Officer of field / medium
-                                    regiment
-                                    or Officer Commanding of locating battery
-                                </td>
+                                    <td>To train selected officers to be qualified as
+                                        Instructor Gunnery, staff officers of various
+                                        Headquarters and Commanding Officer of field / medium
+                                        regiment
+                                        or Officer Commanding of locating battery
+                                    </td>
 
-                                <td>English</td>
-
-
-                                <td>English
-                                    Captain/Major
-                                </td>
+                                    <td>English</td>
 
 
-                                <td>40 Week
-                                    (280 day/10 Months)
-                                </td>
+                                    <td>English
+                                        Captain/Major
+                                    </td>
 
 
-                                <td>01</td>
+                                    <td>40 Week
+                                        (280 day/10 Months)
+                                    </td>
 
 
-                                <td>Tuition Fee: $20×280 = $5600
-                                    Accommodation: $300x$10 = $3000 (Single)
-                                    Accommodation: $450x$10 = $4500 (Married)
-                                    Orderly: $75×10 = $750
-                                    Food: $400×10 months = $4000
-                                    Utility: Actual
-                                </td>
+                                    <td>01</td>
 
-                            </tr>
-                        </table>
+
+                                    <td>Tuition Fee: $20×280 = $5600
+                                        Accommodation: $300x$10 = $3000 (Single)
+                                        Accommodation: $450x$10 = $4500 (Married)
+                                        Orderly: $75×10 = $750
+                                        Food: $400×10 months = $4000
+                                        Utility: Actual
+                                    </td>
+
+                                </tr>
+                            </table>
+                        </div>
                     </div>
                 </div>
+
+
             </div>
 
 
         </div>
-
-
+    </div>
 
     </div>
-</div>
+</section>
 
 
 
