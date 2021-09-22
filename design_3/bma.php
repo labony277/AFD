@@ -505,6 +505,151 @@
     </div>
 </section>
 
+<section class="faq-area bg-image ptb-100 extra-pt"> 
+    <div class="container">
+    <div class="section-title">
+    <span>
+    <span class="icon">
+    <i class="flaticon-help"></i>
+    </span>
+    <span>Frequently Questions</span>
+    </span>
+    <h2>Why you should choose <br>our services</h2>
+    </div>
+    <div class="row">
+    <div class="col-lg-12 col-md-12">
+    <div class="faq-accordion">
+    <ul class="accordion">
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> How do permissions work in Google Play Instant?</a>
+    <p class="accordion-content">
+         <div id="collapseOne" class="collapse show accordion-content" aria-labelledby="headingOne"
+                             data-parent="#accordion">
+                            <div class="card-body">
+                                <!-- table -->
+                                <style>
+                                    table,
+                                    th,
+                                    td {
+                                        border: 1px solid #9c0529;
+                                        border-collapse: collapse;
+                                    }
+                                </style>
+                                <table style="width:100%">
+                                    <tr>
+                                        <th>Name of
+                                            Courses
+                                        </th>
+                                        <th>Aim</th>
+                                        <th>Medium</th>
+                                        <th>Applicable
+                                            Rank
+                                        </th>
+                                        <th>Duration</th>
+                                        <th>Course
+                                            Conducted
+                                            in a year
+                                        </th>
+                                        
+                                    </tr>
+                                    <tr>
+                                        <td>Officers’ Gunnery Staff
+                                            Course (Air Defence)
+                                        </td>
+    
+    
+                                        <td>To train selected officers to be qualified as
+                                            Instructor Gunnery, staff officers of various
+                                            Headquarters and Commanding Officer of field / medium
+                                            regiment
+                                            or Officer Commanding of locating battery
+                                        </td>
+    
+                                        <td>English</td>
+    
+    
+                                        <td>English
+                                            Captain/Major
+                                        </td>
+    
+    
+                                        <td>40 Week
+                                            (280 day/10 Months)
+                                        </td>
+    
+    
+                                        <td>01</td>
+    
+    
+    
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                            </p>
+    </li>
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> Is Smart Lock required for instant apps?</a>
+    <p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </li>
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> Can I have multiple activities in a single feature?</a>
+    <p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </li>
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> Can I share resources between features?</a>
+    <p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </li>
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> Is multidex supported for instant apps?</a>
+    <p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </li>
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> Can I share resources between features?</a>
+    <p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="col-lg-6 col-md-12">
+    <div class="faq-accordion">
+    <ul class="accordion">
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> What things will be provided by Bahama internet?</a>
+    <p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </li>
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> Why we are the best in this fields?</a>
+    <p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </li>
+    <li class="accordion-item">
+    <a class="accordion-title" href="javascript:void(0)"><i class="flaticon-add"></i> It’s better to be first in the mind than in the market?</a>
+    <p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </li>
+   
+    </ul>
+    </div>
+    </div>
+    
+    </div>
+    </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
