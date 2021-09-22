@@ -4,7 +4,6 @@
 
         <!-- <h1 style="text-transform: uppercase">Training Through Excellence</h1> -->
         <div class="video-container">
-            <div class="color-overlay"></div>
             <video autoplay loop muted width="100%">
                 <source src="assets/video/bd_army.mp4" type="video/mp4">
             </video>
