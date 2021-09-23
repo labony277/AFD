@@ -1,122 +1,4 @@
 <?php include 'header.php'; ?>
-    <style>
-    .panel {
-        border-width: 0 0 1px 0;
-        border-style: solid;
-        border-color: #fff;
-        background: none;
-        box-shadow: none;
-    }
-
-    .panel:last-child {
-        border-bottom: none;
-    }
-
-    .panel-group > .panel:first-child .panel-heading {
-        border-radius: 4px 4px 0 0;
-    }
-
-    .panel-group .panel {
-        border-radius: 0;
-    }
-
-    .panel-group .panel + .panel {
-        margin-top: 0;
-    }
-
-    .panel-heading {
-        background-color: #009688;
-        border-radius: 0;
-        border: none;
-        color: #fff;
-        padding: 0;
-    }
-
-    .panel-title a {
-        display: block;
-        color: #fff;
-        padding: 15px;
-        position: relative;
-        font-size: 16px;
-        font-weight: 400;
-    }
-
-    .panel-body {
-        background: #fff;
-    }
-
-    .panel:last-child .panel-body {
-        border-radius: 0 0 4px 4px;
-    }
-
-    .panel:last-child .panel-heading {
-        border-radius: 0 0 4px 4px;
-        transition: border-radius 0.3s linear 0.2s;
-    }
-
-    .panel:last-child .panel-heading.active {
-        border-radius: 0;
-        transition: border-radius linear 0s;
-    }
-
-    /* #bs-collapse icon scale option */
-
-    .panel-heading a:before {
-        content: '\e146';
-        position: absolute;
-        font-family: 'Material Icons';
-        right: 5px;
-        top: 10px;
-        font-size: 24px;
-        transition: all 0.5s;
-        transform: scale(1);
-    }
-
-    .panel-heading.active a:before {
-        content: ' ';
-        transition: all 0.5s;
-        transform: scale(0);
-    }
-
-    #bs-collapse .panel-heading a:after {
-        content: ' ';
-        font-size: 24px;
-        position: absolute;
-        font-family: 'Material Icons';
-        right: 5px;
-        top: 10px;
-        transform: scale(0);
-        transition: all 0.5s;
-    }
-
-    #bs-collapse .panel-heading.active a:after {
-        content: '\e909';
-        transform: scale(1);
-        transition: all 0.5s;
-    }
-
-    /* #accordion rotate icon option */
-
-    #accordion .panel-heading a:before {
-        content: '\e316';
-        font-size: 24px;
-        position: absolute;
-        font-family: 'Material Icons';
-        right: 5px;
-        top: 10px;
-        transform: rotate(180deg);
-        transition: all 0.5s;
-    }
-
-    #accordion .panel-heading.active a:before {
-        transform: rotate(0deg);
-        transition: all 0.5s;
-    }
-    table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
     <div class="page-title-area">
         <div class="page-title-content">
             <div class="row justify-content-center">
@@ -271,7 +153,7 @@
                                 <div class="col-lg-12 col-md-12">
                                     <div class="tab_content desc_box">
                                         <div class="tabs_item" style="display:
-                                            block;">
+                                            block; width: 100%;">
                                             <div class="tv-show-slides
                                                 owl-carousel owl-theme">
                                                 <div class="single-tv-show">
@@ -410,7 +292,7 @@
                                             href="#collapseOne"
                                             aria-expanded="true"
                                             aria-controls="collapseOne">
-                                            Collapsible item #1
+                                            OFFICER
                                         </a>
                                     </h4>
                                 </div>
@@ -436,36 +318,27 @@
 
                                             </tr>
                                             <tr>
-                                                <td>Officers’ Gunnery Staff
-                                                    Course (Air Defence)
+                                                <td>Bangladesh Military Academy Long Course
                                                 </td>
 
 
-                                                <td>To train selected officers
-                                                    to be qualified as
-                                                    Instructor Gunnery, staff
-                                                    officers of various
-                                                    Headquarters and Commanding
-                                                    Officer of field / medium
-                                                    regiment
-                                                    or Officer Commanding of
-                                                    locating battery
+                                                <td>To Prepare the Officer Cadet for grant of commision as others
+                                                    
                                                 </td>
 
                                                 <td>English</td>
 
 
-                                                <td>English
-                                                    Captain/Major
+                                                <td>Officer Cadet (Male)
                                                 </td>
 
 
-                                                <td>40 Week
-                                                    (280 day/10 Months)
+                                                <td>4 Years
+                                                    (365*4=160days/48 Months)
                                                 </td>
 
 
-                                                <td>01</td>
+                                                <td>02</td>
 
 
                                             </tr>
@@ -485,7 +358,7 @@
                                             href="#collapseTwo"
                                             aria-expanded="false"
                                             aria-controls="collapseTwo">
-                                            Collapsible item #2
+                                           OTHERS
                                         </a>
                                     </h4>
                                 </div>
@@ -511,36 +384,28 @@
 
                                             </tr>
                                             <tr>
-                                                <td>Officers’ Gunnery Staff
+                                                <td>Drill Instructor 
                                                     Course (Air Defence)
                                                 </td>
 
 
-                                                <td>To train selected officers
-                                                    to be qualified as
-                                                    Instructor Gunnery, staff
-                                                    officers of various
-                                                    Headquarters and Commanding
-                                                    Officer of field / medium
-                                                    regiment
-                                                    or Officer Commanding of
-                                                    locating battery
+                                                <td>To trained the Non Commissioned  officers/other Rank as efficiant Drill Instructor.
+                                                    
                                                 </td>
 
                                                 <td>English</td>
 
 
-                                                <td>English
-                                                    Captain/Major
+                                                <td>Non Commissioned  officers/other(Male)
                                                 </td>
 
 
-                                                <td>40 Week
-                                                    (280 day/10 Months)
+                                                <td>7 Week
+                                                    (7*7=49 days)
                                                 </td>
 
 
-                                                <td>01</td>
+                                                <td>02</td>
 
 
                                             </tr>
@@ -550,7 +415,7 @@
                             </div>
                             <!-- end of panel -->
 
-                            <div class="panel">
+                            <!-- <div class="panel">
                                 <div class="panel-heading" role="tab"
                                     id="headingThree">
                                     <h4 class="panel-title">
@@ -560,7 +425,7 @@
                                             href="#collapseThree"
                                             aria-expanded="false"
                                             aria-controls="collapseThree">
-                                            Collapsible item #3
+                                            Collapsible item 3
                                         </a>
                                     </h4>
                                 </div>
@@ -622,10 +487,11 @@
                                         </table>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
+
                             <!-- end of panel -->
 
-                            <div class="panel">
+                            <!-- <div class="panel">
                                 <div class="panel-heading" role="tab"
                                     id="headingFour">
                                     <h4 class="panel-title">
@@ -635,7 +501,7 @@
                                             href="#collapseFour"
                                             aria-expanded="false"
                                             aria-controls="collapseFour">
-                                            Collapsible item #4
+                                            Collapsible item 4
                                         </a>
                                     </h4>
                                 </div>
@@ -697,7 +563,7 @@
                                         </table>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- end of panel -->
 
                         </div>
