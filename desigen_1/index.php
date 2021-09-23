@@ -498,6 +498,7 @@
 
                     </div>
                 </div>
+                
             </div>
             <div class="slick-prev slick-arrow-buton">
                 <i class="fa fa-angle-left"></i>
