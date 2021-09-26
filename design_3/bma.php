@@ -5,7 +5,7 @@
                 <div class="col-1">
                     <div class="logo" style="text-align: center">
                         <img
-                            src="assets/img/school/bma/logo-removebg-preview.png"
+                            src="assets/img/school/bma/logo.png"
                             alt="logo" style="max-width: 160px">
                     </div>
                 </div>
@@ -24,7 +24,7 @@
             justify">
             <div class="row">
                 <div class="col-md-7 col-lg-12">
-                    <div id="carouselExampleControls" class="carousel slide"
+                    <div id="carouselExampleControls" class="carousel slide mt-3"
                         data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" style="height:

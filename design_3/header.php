@@ -72,8 +72,8 @@
 
         .owl-carousel .owl-item img{
             display: block;
-    width: 100px;
-    height: 85px;
+    /* width: 100px; */
+    height: 100px;
         }
         /* table */
         .styled-table {

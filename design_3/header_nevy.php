@@ -63,7 +63,7 @@
             left: 0;
             background-color: lightblue;
             width: 100%;
-            height: 80%
+            height: 80%;
             opacity: 0.5;
         }
     </style>

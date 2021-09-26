@@ -58,7 +58,7 @@
     </div>
     <div class="copyright-area">
         <div class="container">
-            <p><i class="far fa-copyright"></i> Copyright 2021 All Rights Reserved</p>
+            <p>Developed by <strong>Trust Innovation Limited</strong></p>
         </div>
     </div>
 </footer>
