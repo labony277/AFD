@@ -58,8 +58,8 @@
     </div>
     <div class="copyright-area">
         <div class="container">
-            <p>Developed by <strong>Trust Innovation Limited</strong></p>
-        </div>
+        <a href="https://www.tilbd.net/" target="_blank"><p>Developed by <strong>Trust Innovation Limited</strong></p></a>
+        </div> 
     </div>
 </footer>
 
