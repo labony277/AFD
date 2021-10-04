@@ -15,7 +15,7 @@
                 </ul>
                 <br>
                 <div class="others-options">
-                    <a href="bma.php" class="btn btn-primary">Read More</a>
+                    <a href="bangladesh_army/bma.php" class="btn btn-primary">Read More</a>
                 </div>
             </div>
         </div>

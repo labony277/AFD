@@ -5,7 +5,7 @@
                 <div class="col-1">
                     <div class="logo" style="text-align: center">
                         <img
-                            src="assets/img/school/bma/logo.png"
+                            src="../assets/img/school/bma/logo.png"
                             alt="logo" style="max-width: 160px">
                     </div>
                 </div>
@@ -30,17 +30,17 @@
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="assets/img/school/bma/2.jpeg"
+                                    src="../assets/img/school/bma/2.jpeg"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="assets/img/school/bma/4.jpeg"
+                                    src="../assets/img/school/bma/4.jpeg"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="assets/img/school/bma/5.jpeg"
+                                    src="../assets/img/school/bma/5.jpeg"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -158,27 +158,27 @@
                                                 owl-carousel owl-theme">
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/3.jpeg"
+                                                        src="../assets/img/school/bma/3.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/3.jpeg"
+                                                        href="../assets/img/school/bma/3.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/4.jpeg"
+                                                        src="../assets/img/school/bma/4.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/4.jpeg"
+                                                        href="../assets/img/school/bma/4.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
 
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/7.jpeg"
+                                                        src="../assets/img/school/bma/7.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/7.jpeg"
+                                                        href="../assets/img/school/bma/7.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
                                             </div>
@@ -187,27 +187,27 @@
                                                 owl-carousel owl-theme">
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/5.jpeg"
+                                                        src="../assets/img/school/bma/5.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/5.jpeg"
+                                                        href="../assets/img/school/bma/5.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/2.jpeg"
+                                                        src="../assets/img/school/bma/2.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/2.jpeg"
+                                                        href="../assets/img/school/bma/2.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
 
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/3.jpeg"
+                                                        src="../assets/img/school/bma/3.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/3.jpeg"
+                                                        href="../assets/img/school/bma/3.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
                                             </div>
@@ -215,26 +215,26 @@
                                                 owl-carousel owl-theme">
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/2.jpeg"
+                                                        src="../assets/img/school/bma/2.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/2.jpeg"
+                                                        href="../assets/img/school/bma/2.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/4.jpeg"
+                                                        src="../assets/img/school/bma/4.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/4.jpeg"
+                                                        href="../assets/img/school/bma/4.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
                                                 <div class="single-tv-show">
                                                     <img
-                                                        src="assets/img/school/bma/7.jpeg"
+                                                        src="../assets/img/school/bma/7.jpeg"
                                                         alt="image">
                                                     <a
-                                                        href="assets/img/school/bma/7.jpeg"
+                                                        href="../assets/img/school/bma/7.jpeg"
                                                         class="popup-youtube"></a>
                                                 </div>
                                             </div>
