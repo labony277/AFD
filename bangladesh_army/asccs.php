@@ -5,12 +5,12 @@
          <div class="col-1">
             <div class="logo" style="text-align: center">
                <img
-                  src="../assets/img/school/BA/1.bma/Ever_High_is_My_Head-removebg-preview.png"
+                  src="../assets/img/school/BA/7.  ASCC&S/l15-removebg-preview.png"
                   alt="logo" style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
-            <h2 class="details_header">Bangladesh Military Academy (BMA)</h2>
+            <h2 class="details_header">ARMY SERVICE CORPS CENTRE AND SCHOOL (ASCC&S)</h2>
          </div>
       </div>
    </div>
@@ -19,7 +19,6 @@
    speed" : 0.2}'>
    <div class="container" style="box-shadow: 5px 6px 12px 2px;text-align:
       justify">
-      <!-- slider start -->
       <div class="row">
          <div class="col-md-7 col-lg-12">
             <div id="carouselExampleControls" class="carousel slide mt-3"
@@ -28,17 +27,17 @@
                   <div class="carousel-item active" style="height:
                      500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/1.bma/2.jpeg"
+                        src="../assets/img/school/BA/7.  ASCC&S/2. .jpg"
                         alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/1.bma/6 .jpg"
+                        src="../assets/img/school/BA/7.  ASCC&S/5.jpg"
                         alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/1.bma/5.jpeg"
+                        src="../assets/img/school/BA/7.  ASCC&S/6 .jpg"
                         alt="Third slide">
                   </div>
                </div>
@@ -59,23 +58,15 @@
             </div>
          </div>
       </div>
-      <!-- slider end -->
       <div class="container mt-5">
          <div class="row">
             <div class="col-md-12 col-lg-12">
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">Bangladesh Military Academy
-                        (BMA) started its glorious Journey in 1974
-                        at Cumilla Cantonment with the motto
-                        "EVER HIGH IS MY
-                        HEAD’, Later, it was shifted to its present
-                        location in the south easter hily area of
-                        the country named Bhatiary, Chattogram in
-                        1976, The academy has achieved “National
-                        Standard” in testimony to its outstanding
-                        contribution for the motherland in 1979.
+                     <p class="mt-2 lead">Army Service Corps Centre and School (ASCC&S) was organized and raised on 16 December 1976 from "ASC Base Unit” in Dhaka
+                        Cantonment. It was shifted to its present location which is known as Jahanabad Cantonment. Army Service Corps Centre and
+                        School is comprised of four basic wings namely Army Service Corps School, Training Battalion, Army Service Corps Records and Administrative Wing.
                      </p>
                   </div>
                </div>
@@ -84,37 +75,34 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">The missions of the
-                     School are:</span>
+                     <span class="lead fw-6">Objectives of Army Service are as follow:</span>
                      <ul class="list-unstyled mt-3">
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">1. To inspire each
-                              cadet to be leader of character
-                              imbibed with the values of religion,
-                              military
-                              tradition and dedication to a
-                              lifetime of service to the nation.
+                           <p class="mr-4 lead">1. Provide basic training to the newly
+                            commissioned officers of Army Service Corps.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">2. To train each
-                              cadet as a competent Infantry
-                              Platoon Commander committed to
-                              professionalism.
+                           <p class="mr-4 lead">2. Conduct Sergeants’ Course and Warrant
+                            Officers’ Course.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">3. To educate each
-                              cadet as a knowledgeable university
-                              graduate with inspiration to enhance
-                              academic
-                              proficiency.
+                           <p class="mr-4 lead">3. Train drivers of infantry, Army Medical Corps
+                            and Military Police.
+                           </p>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                           border-bottom pb-3
+                           mb-3">
+                           <p class="mr-4 lead">4. Conduct Catering Courses for the cook of all
+                            arms/services.
                            </p>
                         </li>
                      </ul>
@@ -123,14 +111,13 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">To prepare officer
-                     cadets/Trainee officers for grant
-                     of commission as officers in Bangladesh
-                     Army.</span>
+                     <span class="lead fw-6">The aim of Army Service Corps Centre and School
+                        is to train officers’ and soldiers of Army Service
+                        Corp of Bangladesh Army to meet the combat
+                        support task both in peace and war.</span>
                   </div>
                </div>
             </div>
-            <!-- gallery,map,vdeo -->
             <div class="col-lg-4 col-md-12">
                <div class="tab products-details-tab">
                   <div class="row justify-content-center">
@@ -251,12 +238,7 @@
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
-                              <iframe
-                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5215.800004864782!2d91.75318877559856!3d22.42422445560544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd754c83a4c09%3A0x5a643c5a4c3037ba!2sBangladesh%20Military%20Academy!5e0!3m2!1sen!2sbd!4v1632202754569!5m2!1sen!2sbd"
-                                 width="100%" height="215"
-                                 style="border:0;"
-                                 allowfullscreen=""
-                                 loading="lazy"></iframe>
+                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.732285860752!2d89.49666471409094!3d22.92324328500346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff996fab77a73f%3A0x2286abac6ee79961!2sASC%20Centre%20%26%20School!5e0!3m2!1sen!2sbd!4v1633421959471!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                            </div>
                         </div>
                      </div>
@@ -267,7 +249,6 @@
       </div>
    </div>
 </section>
-<!-- table -->
 <div class="container-fluid">
    <section class="bg_resizer">
       <div class="col-lg-12 bg-light">
@@ -312,83 +293,30 @@
                                  </th>
                               </tr>
                               <tr>
-                                 <td>Bangladesh Military Academy Long Course
+                                 <td>Officers Basic Course (Army Supply Corps) 
                                  </td>
-                                 <td>To Prepare the Officer Cadet for grant of commision as others
+                                 <td>To train newly commissioned Officers of Army Service  Corps on essential professional subjects and prepare them as capable and effective members of ASC to perform assigned duties and responsibilities in the unit.
                                  </td>
                                  <td>English</td>
-                                 <td>Officer Cadet (Male)
+                                 <td>Lieutenant
                                  </td>
-                                 <td>4 Years
-                                    (365*4=160days/48 Months)
+                                 <td>224 week
+                                    (168days/6 Months)
                                  </td>
-                                 <td>02</td>
+                                 <td>01</td>
                               </tr>
+                              
                            </table>
                         </div>
                      </div>
                   </div>
                   <!-- end of panel -->
-                  <div class="panel">
-                     <div class="panel-heading" role="tab"
-                        id="headingTwo">
-                        <h4 class="panel-title">
-                           <a class="collapsed" role="button"
-                              data-toggle="collapse"
-                              data-parent="#accordion"
-                              href="#collapseTwo"
-                              aria-expanded="false"
-                              aria-controls="collapseTwo">
-                           OTHERS
-                           </a>
-                        </h4>
-                     </div>
-                     <div id="collapseTwo" class="panel-collapse
-                        collapse" role="tabpanel"
-                        aria-labelledby="headingTwo">
-                        <div class="panel-body">
-                           <table border="1" style="width:100%">
-                              <tr>
-                                 <th>Name of
-                                    Courses
-                                 </th>
-                                 <th>Aim</th>
-                                 <th>Medium</th>
-                                 <th>Applicable
-                                    Rank
-                                 </th>
-                                 <th>Duration</th>
-                                 <th>Course
-                                    Conducted
-                                    in a year
-                                 </th>
-                              </tr>
-                              <tr>
-                                 <td>Drill Instructor 
-                                    Course (Air Defence)
-                                 </td>
-                                 <td>To trained the Non Commissioned  officers/other Rank as efficiant Drill Instructor.
-                                 </td>
-                                 <td>English</td>
-                                 <td>Non Commissioned  officers/other(Male)
-                                 </td>
-                                 <td>7 Week
-                                    (7*7=49 days)
-                                 </td>
-                                 <td>02</td>
-                              </tr>
-                           </table>
-                        </div>
-                     </div>
-                  </div>
                </div>
             </div>
          </div>
       </div>
    </section>
 </div>
-<!-- end table -->
-<!-- js -->
 <?php include '../footer.php'; ?>
 <script>
    $('.owl-carousel').owlCarousel({

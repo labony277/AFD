@@ -179,7 +179,7 @@
                                 font-weight: bold;
                                 line-height: 1;
                                 margin-top: 15px;
-                                margin-left: -15px;">Training Through <br>
+                                margin-left: -15px;">Training Through
                                 Excellence</p>
 
                             <div class="collapse navbar-collapse mean-menu"

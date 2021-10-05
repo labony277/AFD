@@ -5,21 +5,21 @@
          <div class="col-1">
             <div class="logo" style="text-align: center">
                <img
-                  src="../assets/img/school/BA/1.bma/Ever_High_is_My_Head-removebg-preview.png"
+                  src="../assets/img/school/BA/5. STC&S/l11-removebg-preview.png"
                   alt="logo" style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
-            <h2 class="details_header">Bangladesh Military Academy (BMA)</h2>
+            <h2 class="details_header">SIGNAL TRAINING CENTRE AND SCHOOL (STC&S)</h2>
          </div>
       </div>
    </div>
 </div>
+<!-- slider -->
 <section class="services-details-area ptb-100 jarallax" data-jarallax='{"
    speed" : 0.2}'>
    <div class="container" style="box-shadow: 5px 6px 12px 2px;text-align:
       justify">
-      <!-- slider start -->
       <div class="row">
          <div class="col-md-7 col-lg-12">
             <div id="carouselExampleControls" class="carousel slide mt-3"
@@ -28,17 +28,17 @@
                   <div class="carousel-item active" style="height:
                      500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/1.bma/2.jpeg"
+                        src="../assets/img/school/BA/5. STC&S/1. First Pic (Double Page).jpg"
                         alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/1.bma/6 .jpg"
+                        src="../assets/img/school/BA/5. STC&S/3 .jpg"
                         alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/1.bma/5.jpeg"
+                        src="../assets/img/school/BA/5. STC&S/6 .jpg"
                         alt="Third slide">
                   </div>
                </div>
@@ -59,23 +59,13 @@
             </div>
          </div>
       </div>
-      <!-- slider end -->
       <div class="container mt-5">
          <div class="row">
             <div class="col-md-12 col-lg-12">
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">Bangladesh Military Academy
-                        (BMA) started its glorious Journey in 1974
-                        at Cumilla Cantonment with the motto
-                        "EVER HIGH IS MY
-                        HEAD’, Later, it was shifted to its present
-                        location in the south easter hily area of
-                        the country named Bhatiary, Chattogram in
-                        1976, The academy has achieved “National
-                        Standard” in testimony to its outstanding
-                        contribution for the motherland in 1979.
+                     <p class="mt-2 lead">Communication is one of the most important battle winning factors. Signal Training Centre and School (STC&S) is the institution which has been entrusted with the responsibilities of training of all ranks of the Corps of Signals and selected individuals of other Arms and Services of Bangladesh Army on signal matters. This institution was raised in Dhaka Cantonment on 01 November 1976 and subsequently moved to its present location Jashore Cantonment on 26 March 1979. STC&S achieved the National Standard in 1997.
                      </p>
                   </div>
                </div>
@@ -84,37 +74,50 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">The missions of the
-                     School are:</span>
+                     <span class="lead fw-6">Objectives of STC&S are as follow:</span>
                      <ul class="list-unstyled mt-3">
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">1. To inspire each
-                              cadet to be leader of character
-                              imbibed with the values of religion,
-                              military
-                              tradition and dedication to a
-                              lifetime of service to the nation.
+                           <p class="mr-4 lead">1.To impart basic training to all Officers of the
+                            Corps of Signals.
+                            
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">2. To train each
-                              cadet as a competent Infantry
-                              Platoon Commander committed to
-                              professionalism.
+                           <p class="mr-4 lead">2. 
+                            To impart advance technical training to selected
+                            Officers/Junior Commissioned Officers/ Non
+                            Commissioned Officers of the Corps of Signals.
+                            
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">3. To educate each
-                              cadet as a knowledgeable university
-                              graduate with inspiration to enhance
-                              academic
-                              proficiency.
+                           <p class="mr-4 lead">3. To conduct Signals Courses for other Arms
+                            Officers/ Junior Commissioned Officers/ Non
+                            Commissioned Officers.
+                           </p>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                           border-bottom pb-3
+                           mb-3">
+                           <p class="mr-4 lead">4. To carry out research and development of
+                            signals equiptment, review signal tactics and
+                            signal publications from time to time.
+                           </p>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                           border-bottom pb-3
+                           mb-3">
+                           <p class="mr-4 lead">5. To impart Cryptography training to selected
+                            Officers! Junior Commissioned Officers! Non
+                            Commissioned Officers of the Corps of Signals
+                            and also to evaluate and standardize the
+                            Cryptography system in the Army.
                            </p>
                         </li>
                      </ul>
@@ -123,14 +126,14 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">To prepare officer
-                     cadets/Trainee officers for grant
-                     of commission as officers in Bangladesh
-                     Army.</span>
+                     <span class="lead fw-6">
+                        Toprovide signal training facilities for all ranks of the
+                        Corps of Signals and other Arms signal personnel.To carry out research and development in
+                        the fields of telecommunications and make publications on concept, doctrine, signal
+                        technology and tactics.</span>
                   </div>
                </div>
             </div>
-            <!-- gallery,map,vdeo -->
             <div class="col-lg-4 col-md-12">
                <div class="tab products-details-tab">
                   <div class="row justify-content-center">
@@ -251,12 +254,7 @@
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
-                              <iframe
-                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5215.800004864782!2d91.75318877559856!3d22.42422445560544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd754c83a4c09%3A0x5a643c5a4c3037ba!2sBangladesh%20Military%20Academy!5e0!3m2!1sen!2sbd!4v1632202754569!5m2!1sen!2sbd"
-                                 width="100%" height="215"
-                                 style="border:0;"
-                                 allowfullscreen=""
-                                 loading="lazy"></iframe>
+                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d936661.245818504!2d88.5686038287579!3d23.502524234250732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff1a08d4287ce7%3A0xeee6df66292aba8!2sSTC%26S!5e0!3m2!1sen!2sbd!4v1633414870587!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                            </div>
                         </div>
                      </div>
@@ -267,7 +265,6 @@
       </div>
    </div>
 </section>
-<!-- table -->
 <div class="container-fluid">
    <section class="bg_resizer">
       <div class="col-lg-12 bg-light">
@@ -312,18 +309,43 @@
                                  </th>
                               </tr>
                               <tr>
-                                 <td>Bangladesh Military Academy Long Course
+                                 <td>Officers’ Basic Course
+                                    (Signals)
                                  </td>
-                                 <td>To Prepare the Officer Cadet for grant of commision as others
+                                 <td>To impart basic signal training to newly commissioned
+                                    officers of Corps of Signals with a view to making
+                                    them efficient in planning and provisioning of signal
+                                    communication and information technology support to.
+                                    a brigade within the framework of a division including
+                                    functioning of signal unit
                                  </td>
                                  <td>English</td>
-                                 <td>Officer Cadet (Male)
+                                 <td>Lieutenant/Captain)
                                  </td>
-                                 <td>4 Years
-                                    (365*4=160days/48 Months)
+                                 <td>
+                                    28 Week (196days/7months)
                                  </td>
-                                 <td>02</td>
+                                 <td>01</td>
                               </tr>
+                              <tr>
+                                <td>Officers Information
+                                    and Communication
+                                    Technology Advance
+                                    Course (Network)
+                                    
+                                </td>
+                                <td>
+                                    To impart advance level training on setting up,
+                                    maintenance and manage server based computer
+                                    network and to impart knowledge on network security
+                                    
+                                </td>
+                                <td>English</td>
+                                <td>Majir/Captain
+                                </td>
+                                <td>  10 Week (70days/2.5months)</td>
+                                <td>01</td>
+                             </tr>
                            </table>
                         </div>
                      </div>
@@ -364,18 +386,23 @@
                                  </th>
                               </tr>
                               <tr>
-                                 <td>Drill Instructor 
-                                    Course (Air Defence)
+                                 <td>Information
+                                    Communication and
+                                    Technology Network
+                                    Technician Course
+                                    (Non Commission
+                                    Officers/Other Rank)
                                  </td>
-                                 <td>To trained the Non Commissioned  officers/other Rank as efficiant Drill Instructor.
+                                 <td>To impart basic training on establishing and
+                                    maintenance a small computer network to selected
+                                    Junior Commissioned Officers /Other Ranks of all Arms
+                                    and Services
                                  </td>
                                  <td>English</td>
-                                 <td>Non Commissioned  officers/other(Male)
+                                 <td>Non Commissioned  officers/other Rank
                                  </td>
-                                 <td>7 Week
-                                    (7*7=49 days)
-                                 </td>
-                                 <td>02</td>
+                                 <td>6 Week (42days/1.5month)     </td>
+                                 <td>01</td>
                               </tr>
                            </table>
                         </div>
@@ -387,8 +414,6 @@
       </div>
    </section>
 </div>
-<!-- end table -->
-<!-- js -->
 <?php include '../footer.php'; ?>
 <script>
    $('.owl-carousel').owlCarousel({

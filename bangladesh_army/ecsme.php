@@ -4,45 +4,41 @@
             <div class="row justify-content-center">
                 <div class="col-1">
                     <div class="logo" style="text-align: center">
-                        <img
-                            src="../assets/img/school/BA/3.AC&S/l9-removebg-preview.png"
-                            alt="logo" style="max-width: 160px">
+                        
                     </div>
                 </div>
                 <div class="col-10">
-                    <h2 class="details_header">ARTILLERY CENTER AND SCHOOL (AC &
-                        S)</h2>
+                    <h2 class="details_header">ENGINEER CENTRE AND SCHOOL OF MILITARY ENGINEERING (ECSME)</h2>
                 </div>
             </div>
 
         </div>
     </div>
 
-    <!-- slider -->
+
     <section class="services-details-area ptb-100 jarallax" data-jarallax='{"
         speed" : 0.2}'>
         <div class="container" style="box-shadow: 5px 6px 12px 2px;text-align:
             justify">
             <div class="row">
                 <div class="col-md-7 col-lg-12">
-                    <div id="carouselExampleControls" class="carousel slide
-                        mt-3"
+                    <div id="carouselExampleControls" class="carousel slide mt-3"
                         data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/BA/3.AC&S/2.jpg"
+                                    src="../assets/img/school/BA/4. ECSME/1. First Pic (Double Page).jpg"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/BA/3.AC&S/6.jpeg"
+                                    src="../assets/img/school/BA/4. ECSME/4.jpg"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/BA/3.AC&S/5. .jpg"
+                                    src="../assets/img/school/BA/4. ECSME/6 Last Page.jpg"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -70,15 +66,7 @@
                         <div class="border mb-4 desc_box">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                             <div class="p-4 border-top">
-                                <p class="mt-2 lead">School of Artillery
-                                    provides training to all officers,selected
-                                    Junior Commissioned and non Commissioned
-                                    Officers of the regiment of Artillery both
-                                    at basic and advance gunnery level.This is
-                                    the nerve center of all Artillery
-                                    Training.The glorious journey of the school
-                                    of Artillery started in the month of March
-                                    1974 in Jashore Cantonment.
+                                <p class="mt-2 lead">ECSME, the Home of Sappersis an ideal centre for military and combat engineering knowledge for the Officers, Junior Comissioned Officers and Other Ranks of Corps of Engineers and an ideal centre for engineering management for Military Engineering service persons. The Home of Sappers is built for producing smart, skilled and trained combat engineers for the Corps.
                                 </p>
                             </div>
                         </div>
@@ -88,36 +76,36 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">Objectives of School of
-                                    Artillery are as follow:
-
-                                </span>
+                                <span class="lead fw-6">Objectives of ECSME are as follow:</span>
                                 <ul class="list-unstyled mt-3">
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">1. To impart
-                                            lessons on basic and, advance
-                                            gunnery, survey, locating and target
-                                            acquisition.</p>
+                                        <p class="mr-4 lead">1. To provide basic military training and initial
+                                            trade training to the recruits of Corps of
+                                            Engineers.</p>
                                     </li>
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">2. To prepare
-                                            officers as staff officers of
-                                            formation headquarters and
-                                            institution.
-                                        </p>
+                                        <p class="mr-4 lead">2. To provide Engineering and Technical Training
+                                            to all ranks of Corps of Engineers.</p>
                                     </li>
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">3. To evaluate new
-                                            equipments, firings ranges
-                                            and TTP (Tactics, Technical and
-                                            Procedures).
-                                        </p>
+                                        <p class="mr-4 lead">3. To provide Field Engineering and Training
+                                            on disposal of Bomb, Unexploded Ordnance,
+                                            Unexploded Bomb, improvised explosive
+                                            device to all arms, sister services and Civil
+                                            department.</p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">4. T To train Military Engineering Services (MES)
+                                            Officers and personnel in certain fields.
+                                            </p>
                                     </li>
                                 </ul>
                             </div>
@@ -127,13 +115,16 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">‘The School of Artilery.
-                                    The aim of School of Arty is to train junior and mid-level
-                                    officers with a view to making them proficient on basic
-                                    and advance gunnery, tactics, command,
-                                    leadership and management.
-
-                                </span>
+                                <span class="lead fw-6">The aim of this institution is to provide basic
+                                    military and combat engineering training, initial
+                                    trade training, Advance Engineering and Technical
+                                    Training to all ranks (Officers, junior commissioned
+                                    officer, Others ranks including Military Engineering
+                                    Services (MES) personnel and recruits) of Corps
+                                    of Engineers and counter improvised explosive
+                                    device related training to all arms, sister services
+                                    and Civil department.
+                                    </span>
                             </div>
                         </div>
                     </div>
@@ -259,12 +250,7 @@
                                         </div>
                                         <div class="tabs_item" style="display:
                                             none;">
-                                            <iframe
-                                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.506180112907!2d91.77921751432122!3d22.334508347297696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd9303ed27475%3A0x2f501816a06ef1a1!2sArtillery%20Center%20and%20School%20(The%20Home%20of%20Gunners)!5e0!3m2!1sen!2sbd!4v1633333405438!5m2!1sen!2sbd"
-                                                width="100%" height="250"
-                                                style="border:0;"
-                                                allowfullscreen=""
-                                                loading="lazy"></iframe>
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3636.9814689672253!2d89.01034021412545!3d24.277377784332224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fc1b8ae205b7c5%3A0x173b7be9d02033ee!2sQadirabad%20Cantonment!5e0!3m2!1sen!2sbd!4v1633408529167!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                                         </div>
                                     </div>
                                 </div>
@@ -276,13 +262,14 @@
         </div>
     </section>
 
-    <!-- table -->
+
     <div class="container-fluid">
         <section class="bg_resizer">
             <div class="col-lg-12 bg-light">
                 <h6 class="text-dark px-4 py-2 bg-light mb-0 header_back">COURSE
                     DESCRIPTION</h6>
                 <div class="p-4 border-top">
+
 
                     <div class="accordion" id="accordion">
                         <div class="panel-group wrap" id="accordion"
@@ -296,8 +283,9 @@
                                             href="#collapseOne"
                                             aria-expanded="true"
                                             aria-controls="collapseOne">
-                                            Officers Gunnery Staff Course (Air
-                                            Defence)
+                                            Officers’ Basic Course
+                                            (Engineer)
+                                            
                                         </a>
                                     </h4>
                                 </div>
@@ -323,23 +311,21 @@
 
                                             </tr>
                                             <tr>
-                                                <td> Officers Gunnery Staff
-                                                    Course (Air Defence)</td>
-                                                <td> To train selected officers
-                                                    to be qualified as
-                                                    instructor Gunnery, staff
-                                                    officers of various
-                                                    Headquarters and Commanding
-                                                    Officer of field / medium
-                                                    regiment or Officer
-                                                    Commanding of locating
-                                                    battery</td>
+                                                <td>Officers’ Basic Course
+                                                    (Engineer)
+                                                    
+                                                </td>
+
+
+                                                <td>To impart basic field engineering and combat
+                                                    engineering knowledge to young officers of Corps of
+                                                    Engineers
+                                                    
+                                                </td>
 
                                                 <td>English</td>
-
-                                                <td>Captain/Major</td>
-
-                                                <td>40 Week (280day/10months)</td>
+                                                <td>Lieutenant/Captain</td>
+                                                <td>24 Week (168days/6months)</td>
                                                 <td>01</td>
 
                                             </tr>
@@ -359,8 +345,10 @@
                                             href="#collapseTwo"
                                             aria-expanded="false"
                                             aria-controls="collapseTwo">
-                                            Officers Basic Course (Air
-                                            Defence)
+                                            Officers’ Bomb
+                                            and Improvised
+                                            Explosives Device
+                                            Disposal Course
                                         </a>
                                     </h4>
                                 </div>
@@ -386,21 +374,24 @@
 
                                             </tr>
                                             <tr>
-                                                <td> Officers Basic Course
-                                                    (AirDefence)</td>
+                                                <td>Officers’ Bomb
+                                                    and Improvised
+                                                    Explosives Device
+                                                    Disposal Course
+                                                </td>
 
-                                                <td> To train newly commissioned
-                                                    officers of air defence
-                                                    branch of the Regiment of
-                                                    Artillery on
-                                                    equipment,drill,procedures
-                                                    and tactical doctrine of air
-                                                    defence artillery regiment.</td>
+
+                                                <td>To impart special knowledge on organizing
+                                                    reconnaissance, identify and disposal of Unexploded
+                                                    Bombs, Improvised Explosive Devices and Explosive
+                                                    Ordnance Disposal.
+                                                    
+                                                </td>
+
+                                                
                                                 <td>English</td>
-
-                                                <td>Lieutenant/Major</td>
-
-                                                <td>24 Week (168days/6months)</td>
+                                                <td>Captain/Major </td>
+                                                <td>12 Week (84days/3months)</td>
                                                 <td>01</td>
 
                                             </tr>
@@ -408,125 +399,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- end of panel -->
-                            <div class="panel">
-                                <div class="panel-heading" role="tab"
-                                    id="headingTwo">
-                                    <h4 class="panel-title">
-                                        <a class="collapsed" role="button"
-                                            data-toggle="collapse"
-                                            data-parent="#accordion"
-                                            href="#collapseThree"
-                                            aria-expanded="false"
-                                            aria-controls="collapseTwo">
-                                            Officers’ Basic Course (Field)
-                                        </a>
-                                    </h4>
-                                </div>
-                                <div id="collapseThree" class="panel-collapse
-                                    collapse" role="tabpanel"
-                                    aria-labelledby="headingTwo">
-                                    <div class="panel-body">
-                                        <table border="1" style="width:100%">
-                                            <tr>
-                                                <th>Name of
-                                                    Courses
-                                                </th>
-                                                <th>Aim</th>
-                                                <th>Medium</th>
-                                                <th>Applicable
-                                                    Rank
-                                                </th>
-                                                <th>Duration</th>
-                                                <th>Course
-                                                    Conducted
-                                                    in a year
-                                                </th>
-
-                                            </tr>
-                                            <tr>
-                                                <td> Officers’ Basic Course
-                                                    (Field)</td>
-
-                                                <td> To train newly commissioned
-                                                    officers of field branch of
-                                                    of the Regiment of Artillery
-                                                    on
-                                                    equipment,drill,procedures
-                                                    and tactical doctrine of
-                                                    sub-unit of field and medium
-                                                    Artillery Regiment. </td>
-                                                <td>English</td>
-
-                                                <td>Lieutenant/Captain</td>
-
-                                                <td>24 Week (168days/6months)</td>
-                                                <td>01</td>
-
-                                            </tr>
-                                        </table>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end of panel -->
-                            <div class="panel">
-                                <div class="panel-heading" role="tab"
-                                    id="headingTwo">
-                                    <h4 class="panel-title">
-                                        <a class="collapsed" role="button"
-                                            data-toggle="collapse"
-                                            data-parent="#accordion"
-                                            href="#collapseFour"
-                                            aria-expanded="false"
-                                            aria-controls="collapseTwo">
-                                            Mid Career Course (Field)
-                                        </a>
-                                    </h4>
-                                </div>
-                                <div id="collapseFour" class="panel-collapse
-                                    collapse" role="tabpanel"
-                                    aria-labelledby="headingTwo">
-                                    <div class="panel-body">
-                                        <table border="1" style="width:100%">
-                                            <tr>
-                                                <th>Name of
-                                                    Courses
-                                                </th>
-                                                <th>Aim</th>
-                                                <th>Medium</th>
-                                                <th>Applicable
-                                                    Rank
-                                                </th>
-                                                <th>Duration</th>
-                                                <th>Course
-                                                    Conducted
-                                                    in a year
-                                                </th>
-
-                                            </tr>
-                                            <tr>
-                                                <td> Mid Career Course (Field)</td>
-                                                <td> To prepare mid-level
-                                                    officers as effective
-                                                    battery / sub-unit commander
-                                                    and instructor Gunnery for
-                                                    Basic Section in the School
-                                                    of Artillery as well as
-                                                    unit, formation and other
-                                                    training establishments</td>
-                                                <td>English</td>
-
-                                                <td>Captain/Major</td>
-
-                                                <td>8 Week (56days/2months)</td>
-                                                <td>01</td>
-
-                                            </tr>
-                                        </table>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end of panel -->
+                            
 
                         </div>
                     </div>
@@ -538,36 +411,38 @@
         </section>
     </div>
 
+
+
     <?php include '../footer.php'; ?>
 
         <script>
-$('.owl-carousel').owlCarousel({
-    loop: false,
-    dots: false,
-    // margin:10,
-    nav: false,
-    responsive: {
-        0: {
-            items: 1
-        },
-        600: {
-            items: 2
-        },
-        1000: {
-            items: 2
+    $('.owl-carousel').owlCarousel({
+        loop: false,
+        dots: false,
+        // margin:10,
+        nav: false,
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 2
+            },
+            1000: {
+                items: 2
+            }
         }
-    }
-})
+    })
 
 
-$(document).ready(function () {
-    $('.collapse.in').prev('.panel-heading').addClass('active');
-    $('#accordion, #bs-collapse')
-        .on('show.bs.collapse', function (a) {
-            $(a.target).prev('.panel-heading').addClass('active');
-        })
-        .on('hide.bs.collapse', function (a) {
-            $(a.target).prev('.panel-heading').removeClass('active');
-        });
-});
+    $(document).ready(function () {
+        $('.collapse.in').prev('.panel-heading').addClass('active');
+        $('#accordion, #bs-collapse')
+            .on('show.bs.collapse', function (a) {
+                $(a.target).prev('.panel-heading').addClass('active');
+            })
+            .on('hide.bs.collapse', function (a) {
+                $(a.target).prev('.panel-heading').removeClass('active');
+            });
+    });
 </script>
