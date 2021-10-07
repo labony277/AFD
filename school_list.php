@@ -143,24 +143,103 @@
                 </div>
             </div>
         </div>
-
+        <!-- oc&s -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <img src="assets/img/school/8n.jpg" alt="image">
+                <a href="bangladesh_army/oc&s.php"><img src="assets/img/school/BA/8.  OC&S/1. First Pic (Double Page).jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>ARMY SCHOOL OF PHYSICAL TRAINING AND SPORTS (ASPTS)</h3>
-                <span><i class="fas fa-map-marker"></i>  Trishal Military Training Area.</span>
+                <h3>ORDNANCE CENTRE AND SCHOOL (OC&S)</h3>
+                <span><i class="fas fa-map-marker"></i>  Rajendrapur Cantonment, Gazipur.</span>
                 <ul class="social">
-                    <p>To conduct courses on ‘Physical Fitness’, ‘Unarmed Combat’ and to conduct official courses on selected ‘games and sports’ for the
-                        personnel of Bangladesh Army, Sister Services, Para Military .....</p>
+                    <p>To impart technical training to Ordnance
+                        Officers, Junior Commissioned Officers and
+                        Non- Commissioned Officers. .....</p>
                 </ul>
                 <br>
                 <div class="others-options">
-                    <a href="school_details.php" class="btn btn-primary">Read More</a>
+                    <a href="bangladesh_army/oc&s.php" class="btn btn-primary">Read More</a>
                 </div>
             </div>
         </div>
+        <!-- emec$S -->
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/emecs.php"><img src="assets/img/school/BA/9. EMEC&S/1. First Page (Double Page).jpg" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>ELECTRICAL AND MECHANICAL ENGINEERING CENTRE AND SCHOOL (EMEC&S)</h3>
+                <span><i class="fas fa-map-marker"></i>  West of Rangpur Town</span>
+                <ul class="social">
+                    <p>The aim of the institution is to provide Basic
+                        Military Training to recruits of the corps of EME,
+                        technical knowledge of all kind to all officers......</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/emecs.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+        <!-- cmpc&s -->
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/cmpc&s.php"><img src="assets/img/school/BA/10. CMPC&S. Correction need/2 .jpg" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>CORPS OF MILITARY POLICE CENTRE AND SCHOOL (CMPC&S)</h3>
+                <span><i class="fas fa-map-marker"></i>  Opposite of  Savar Cantonment</span>
+                <ul class="social">
+                    <p>To provide all types of provost training, conduct
+                        promotion and function of records for all ranks of
+                        Corps of Military Police.......</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/cmpc&s.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+        <!-- Asea -->
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/asea.php"><img src="assets/img/school/BA/11. ASEA/1. First Pic (Double Page).jpg" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>ARMY SCHOOL OF EDUCATION AND ADMINISTRATION (ASEA)</h3>
+                <span><i class="fas fa-map-marker"></i>  Opposite of  Savar Cantonment</span>
+                <ul class="social">
+                    <p>To conduct Administration Course for officers,
+                        courses for members of Army Education Corps,
+                        clerks, Personal Assistants (PA) of Bangladesh
+                        Army........</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/asea.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+        <!-- bispot -->
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/biospot.php"><img src="assets/img/school/BA/12. BIPSOT/2. Second Pic.jpg" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>BANGLADESH INSTITUTE OF PEACE SUPPORT OPERATION TRAINING (BIPSOT)</h3>
+                <span><i class="fas fa-map-marker"></i>  Rajendrapur Cantonment, Gazipur.</span>
+                <ul class="social">
+                    <p>To impart specialized training to potential
+                        peacekeepers on UN peace operations.........</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/biospot.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- smi -->
 
         <!-- start  -->
         <!-- <div class="col-lg-12 col-md-12">
