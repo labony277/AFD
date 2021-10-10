@@ -5,12 +5,12 @@
          <div class="col-1">
             <div class="logo" style="text-align: center">
                <img
-                  src="../assets/img/school/BA/1.bma/Ever_High_is_My_Head-removebg-preview.png"
+                  src="../assets/img/school/BA/17. RV&F Depot/l4-removebg-preview.png"
                   alt="logo" style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
-            <h2 class="details_header">SCHOOL OF MILITARY INTELLIGENCE (SMI)</h2>
+            <h2 class="details_header">REMOUNT VETERINARY AND FARM DEPOT (RV&F Depot)</h2>
          </div>
       </div>
    </div>
@@ -28,17 +28,17 @@
                   <div class="carousel-item active" style="height:
                      500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/13. SMI/3 .JPG"
+                        src="../assets/img/school/BA/17. RV&F Depot/1. First Pic (Double Page).jpg"
                         alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/13. SMI/4 .JPG"
+                        src="../assets/img/school/BA/17. RV&F Depot/4 .jpg"
                         alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/13. SMI/5 .JPG"
+                        src="../assets/img/school/BA/17. RV&F Depot/5 .jpg"
                         alt="Third slide">
                   </div>
                </div>
@@ -66,11 +66,12 @@
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">School of Military Intelligence was raised on 15 May 1978 at Dhaka Cantonment. It was relocated to Cumilla Cantonment on 11 July
-                        1981. This is the only intelligence training institute of Bangladesh Army. This institute has been imparting training on intelligence
-                        to the members of Bangladesh Armed Forces, other security and intelligence organizations and officers of our friendly countries
-                        since its inception. Till now, total 171 different types of courses and combined training have been conducted. A total of 1457 Officers,
-                        3368 Junior Commissioned Officers/Other Ranks and 80 Officers from friendly countries have been trained from this institute.
+                     <p class="mt-2 lead">Remount Veterinary and Farm Depot is acts as centre and school of Remount Veterinary and Farm Corps. It provides all sorts
+                        of basic and technical training to Officer, Junior commissioned officer, other ranks and civil employees. Beside training War Dog
+                        Detachment of this unit conduct WIP/VIP duty round the country. Every year this unit also actively participate national commitment
+                        like Victory day parade, Hardware display etc. In every training year number of officer's from friendly foreign countries are coming
+                        
+                        to this unit for different army level courses.
                      </p>
                   </div>
                </div>
@@ -79,18 +80,43 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">The missions of the
-                     School are:</span>
+                     <span class="lead fw-6">Objectives of RV&F Depot are as follow:</span>
                      <ul class="list-unstyled mt-3">
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">1. Become “Apremierlearning institution committedto
-                            training intelligence officers, Junior Commissioned
-                            Officers (SCO) and Other Ranks (OR), instilling
-                            insight with sound intelligence skills for services,
-                            inter services and other national organizations’.
+                           <p class="mr-4 lead">1. Hold and train 50-70 horses and up to 20
+                            dogs at a time.
                            </p>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                           border-bottom pb-3
+                           mb-3">
+                           <p class="mr-4 lead">2. Train and provide upto 10 dogs annually.
+                            </p>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                           border-bottom pb-3
+                           mb-3">
+                           <p class="mr-4 lead">3.Breed up to 30 horses and 10 dogs annually.
+                            </p>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                           border-bottom pb-3
+                           mb-3">
+                           <p class="mr-4 lead">4. Provide up to 10 trained horses annually to
+                            authorized units/establish in the Army.
+                            </p>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                           border-bottom pb-3
+                           mb-3">
+                           <p class="mr-4 lead">5. Carry out Research and Development
+
+                            on animal diseases and their diagnosis,
+                            prevention and treatment.
+                            
+                            </p>
                         </li>
                      </ul>
                   </div>
@@ -98,10 +124,11 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">To impart intelligence and security training to
-                        all ranks of the Army, specialized training to
-                        personnel of the Army and to a limited extent to
-                        the personnel of other two services.</span>
+                     <span class="lead fw-6">To carry out breeding of horses.To rear and train unbroken horses.
+                        To impart technical training to officer's, Junior
+                        commissioned officer's and other ranks of
+                        Remount Veterinary and Farm Crops. To carry out breeding and impart training to
+                        dogs and dog handlers.</span>
                   </div>
                </div>
             </div>
@@ -226,7 +253,7 @@
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
-                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.5809507590807!2d91.1310708143423!3d23.439500106500027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37547d929a2f6f33%3A0xbb93b15796514a3d!2sSchool%20of%20Military%20Intelligence%20Offr&#39;s%20Accomodation!5e0!3m2!1sen!2sbd!4v1633838059028!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.5811830199623!2d90.27806891435078!3d23.869001490153522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755e97fa79a9151%3A0x738f6d6e2c11e20d!2sRV%26F%20Depot!5e0!3m2!1sen!2sbd!4v1633851676557!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                            </div>
                         </div>
                      </div>
@@ -257,7 +284,7 @@
                               href="#collapseOne"
                               aria-expanded="true"
                               aria-controls="collapseOne">
-                              Basic Intelligence Course
+                              Basic War Dog Handlers’ Course
                            </a>
                         </h4>
                      </div>
@@ -282,17 +309,15 @@
                                  </th>
                               </tr>
                               <tr>
-                                 <td> Basic Intelligence Course
+                                 <td>Basic War Dog Handlers’ Course
                                  </td>
-                                 <td> To train selected officers of Armed Forces on basic
-                                    intelligence aspects.
+                                 <td>To train RV&FC personnel to handle and train War Dogs
                                    
                                  </td>
-                                 <td>English</td>
-                                 <td>Captain/Major
+                                 <td>English </td>
+                                 <td>Major/Captain/Lieutenant
                                  </td>
-                                 <td>17 week
-                                    (119days/4 Months)
+                                 <td>8week (556days/2moths)
                                  </td>
                                  <td>01</td>
                               </tr>
@@ -301,6 +326,60 @@
                      </div>
                   </div>
                   <!-- end of panel -->
+                  <div class="panel">
+                    <div class="panel-heading" role="tab"
+                       id="headingOne">
+                       <h4 class="panel-title">
+                          <a role="button" data-toggle="collapse"
+                             data-parent="#accordion"
+                             href="#collapseTwo"
+                             aria-expanded="true"
+                             aria-controls="collapseTwo">
+                             Unarmed Combat Course (UACC)
+                          </a>
+                       </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse
+                       collapse in" role="tabpanel"
+                       aria-labelledby="headingTwo">
+                       <div class="panel-body">
+                          <table style="width:100%">
+                             <tr>
+                                <th>Name of
+                                   Courses
+                                </th>
+                                <th>Aim</th>
+                                <th>Medium</th>
+                                <th>Applicable
+                                   Rank
+                                </th>
+                                <th>Duration</th>
+                                <th>Course
+                                   Conducted
+                                   in a year
+                                </th>
+                             </tr>
+                             <tr>
+                                <td> 
+                                    ‘Arms and Explosive Search Dog Training Course
+                                </td>
+                                <td> To train RV&FC personnel on handling and conducting
+                                    special training of War Dogs in Arms and Explosive
+                                    ‘Search ar Improvised Explosive Device Search.
+                                  
+                                </td>
+                                <td>English</td>
+                                <td>Major/Captain/Lieutenant
+                                </td>
+                                <td>24week(168days/6moths)
+                                </td>
+                                <td>01</td>
+                             </tr>
+                          </table>
+                       </div>
+                    </div>
+                 </div>
+                  <!-- end panel -->
                </div>
             </div>
          </div>

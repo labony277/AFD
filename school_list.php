@@ -240,7 +240,103 @@
         </div>
 
         <!-- smi -->
-
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/smi.php"><img src="assets/img/school/BA/13. SMI/2 .JPG" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>SCHOOL OF MILITARY INTELLIGENCE (SMI)</h3>
+                <span><i class="fas fa-map-marker"></i> southern part of Cumilla
+                    Cantonment.</span>
+                <ul class="social">
+                    <p>To impart intelligence and security training to
+                        all ranks of the Army, specialized training to
+                        personnel.........</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/smi.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+        <!-- aspts -->
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/aspts.php"><img src="assets/img/school/BA/14. ASPTS/2 .jpg" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>ARMY SCHOOL OF PHYSICAL TRAINING
+                    AND SPORTS (ASPTS)</h3>
+                <span><i class="fas fa-map-marker"></i> 
+                    Trishal Miltary Training Area.</span>
+                <ul class="social">
+                    <p>To conduct courses on ‘Physical Fitness’,
+                        “Unarmed Combat! and to conduct official courses
+                        on selected ‘games and sports’.........</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/aspts.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+        <!-- ncoa -->
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/ncoa.php"><img src="assets/img/school/BA/15. NCOA/2 .jpg" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>NON-COMMISSION OFFICERS’ ACADEMY-OTHERS (NCOA)</h3>
+                <span><i class="fas fa-map-marker"></i> Majhira Cantonment,
+                    Bogura.</span>
+                <ul class="social">
+                    <p>To train Non-Commissioned Officers of all arms and
+                        services with a view to enhancing their leadership
+                        qualities.........</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/ncoa.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+        <!-- asm -->
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/asm.php"><img src="assets/img/school/BA/16. Army School of Music N.C/1. First Page.jpg" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>ARMY SCHOOL OF MUSIC (ASM)</h3>
+                <span><i class="fas fa-map-marker"></i> Chattogram Cantonment.</span>
+                <ul class="social">
+                    <p>To train musician of BD Armed Forces, Para Mil
+                        Forces, Aux Forces and Clv def pers on Band music.........</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/asm.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+        <!-- rvf -->
+        <div class="single-team-member services-box">
+            <div class="member-image">
+                <a href="bangladesh_army/rvf.php"><img src="assets/img/school/BA/17. RV&F Depot/2 .jpeg" alt="image"></a>
+            </div>
+            <div class="member-content">
+                <h3>REMOUNT VETERINARY AND FARM DEPOT (RV&F Depot)</h3>
+                <span><i class="fas fa-map-marker"></i> Eastern side of
+                    the Dhaka-Aricha highway.</span>
+                <ul class="social">
+                    <p>To carry out breeding of horses.
+                        To rear and train unbroken horses..........</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_army/rvf.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
         <!-- start  -->
         <!-- <div class="col-lg-12 col-md-12">
             <div class="pagination-area">
