@@ -6,8 +6,8 @@
                     <div class="logo">
                         <img src="/AFD/assets/img/logo.png" alt="logo" style="max-width: 100px">
                         <p>ARMED FORCES DIVISION TRAINING INSTITUTIONS<br>
-                            info@afdtraining.gov.bd<br>
-                            +880 176 902 3820</p>
+                            info@afdtraining.com<br>
+                            +8801769014368 (Joint Training)</p>
                     </div>
                 </div>
             </div>
@@ -35,12 +35,12 @@
                 <div class="single-footer-widget">
                     <h3>Get In Touch</h3>
                     <div class="widget-contact-info">
+                        <p>General Staff Officer-2, Training Directorate</p>
                         <p>
-                            <a href="#">+88029834399,</a>
-                            <span>(FAX)</span>
-                            <a href="#">+8801769014353</a>
-                            <span>(G2)</span>
-                            infotraning.gov.bd
+                            <a href="#">+8801769014353,</a>
+                            <span>(Miscellaneous Training)</span>
+                            
+                            
                         </p>
                     </div>
                 </div>
@@ -48,9 +48,21 @@
             
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h3>Map</h3>
-                    <ul class="links-widget-list">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1868965.1839788307!2d90.400691!3d23.807124!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x69e5b057295dad8e!2sBangladesh%20Army%20Headquarter!5e0!3m2!1sen!2sus!4v1630209999723!5m2!1sen!2sus" width="100%" height="250px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    <h3>Postal Address</h3>
+                    <ul class="services-widget-list">
+                        <li>
+                            <a href="#" target="blank">Director General
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" target="blank">Training Directorate</a>
+                        </li>
+                        <li>
+                            <a href="#" target="blank">Armed Forces Division</a>
+                        </li>
+                        <li>
+                            <a href="#" target="blank">Dhaka cantonment</a>
+                        </li>
                     </ul>
                 </div>
             </div>

@@ -39,24 +39,6 @@
                     <div class="single-pricing-table">
                         <div class="pricing-header">
                             <div class="icon">
-                                <img src="assets/img/service/1n.jpg" alt="image"
-                                    width="100%">
-                            </div>
-                            <h3>TRI SERVICE INSTITUTION</h3>
-                        </div>
-                        <a href="school_list.php" class="view-plans-btn">View
-                            Details</a>
-                        <div class="image-box">
-                            <img src="assets/img/shape-image/2.png" alt="image">
-                            <img src="assets/img/shape-image/2.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-12">
-                    <div class="single-pricing-table">
-                        <div class="pricing-header">
-                            <div class="icon">
                                 <img src="assets/img/service/2n.jpg" alt="image"
                                     width="100%">
                             </div>
@@ -70,8 +52,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
@@ -89,7 +69,10 @@
                         </div>
                     </div>
                 </div>
-
+                
+            </div>
+            <div class="row justify-content-center">
+                
                 <div class="col-lg-4 col-md-12">
                     <div class="single-pricing-table">
                         <div class="pricing-header">
@@ -107,9 +90,24 @@
                         </div>
                     </div>
                 </div>
-
+                <div class="col-lg-4 col-md-12">
+                    <div class="single-pricing-table">
+                        <div class="pricing-header">
+                            <div class="icon">
+                                <img src="assets/img/service/1n.jpg" alt="image"
+                                    width="100%">
+                            </div>
+                            <h3>TRI SERVICE INSTITUTION</h3>
+                        </div>
+                        <a href="school_list.php" class="view-plans-btn">View
+                            Details</a>
+                        <div class="image-box">
+                            <img src="assets/img/shape-image/2.png" alt="image">
+                            <img src="assets/img/shape-image/2.png" alt="image">
+                        </div>
+                    </div>
+                </div>
             </div>
-
         </div>
     </div>
 </section>
