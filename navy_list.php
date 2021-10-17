@@ -2,16 +2,18 @@
 
 <section class="team-area ptb-100">
     <div class="container">
-
+        <!-- bna -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <img src="assets/img/school/navy/bna/4.jpg" alt="image">
+                <img src="assets/img/school/Bangladesh Navy/1.bna/1. First Pic (Double Page)-min.jpg" alt="image">
             </div>
             <div class="member-content">
                 <h3>Bangladesh Naval Academy</h3>
-                <span><i class="fas fa-map-marker"></i> M.A Aziz Rd, Chattogram </span>
+                <span><i class="fas fa-map-marker"></i>South Patenga area of
+                    Chattogram. </span>
                 <ul class="social">
-                    <p>The Bangladesh Naval Academy is situated at the mouth of the Karnaphuli River at Patenga, Chittagong District, Bangladesh. Bathed by the river Karnaphuli on the east and sheltered on the south by the Bay of Bengal,......</p>
+                    <p>To prepare young men and women joining
+                        Bangladesh Navy as junior officers and leaders.......</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -19,7 +21,7 @@
                 </div>
             </div>
         </div>
-
+         <!-- end bna -->
        <!-- pagination -->
         <!-- <div class="col-lg-12 col-md-12">
             <div class="pagination-area">

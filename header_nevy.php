@@ -99,7 +99,7 @@
                             <li class="nav-item"><a href="index.html" class="nav-link active">Training Institutions <i class="fas fa-chevron-down"></i></a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a href="school_list.php" class="nav-link">BANGLADESH ARMY</a></li>
-                                    <li class="nav-item"><a href="school_list.php" class="nav-link">BANGLADESH NAVY</a></li>
+                                    <li class="nav-item"><a href="navy_list.php" class="nav-link">BANGLADESH NAVY</a></li>
                                     <li class="nav-item"><a href="school_list.php" class="nav-link">TRI SERVICE INSTITUTION</a></li>
                                     <li class="nav-item"><a href="school_list.php" class="nav-link"> BANGLADESH AIR FORCE</a></li>
                                 </ul>
