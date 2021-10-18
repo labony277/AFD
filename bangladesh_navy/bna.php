@@ -3,7 +3,7 @@
 <style>
     .header_back {
         background: linear-gradient(#2fa8ad, #4c8781);
-        color: wheat !important;
+        color: black !important;
     }
 </style>
 <div class="page-title-area" style="    position: relative;
@@ -263,123 +263,260 @@
 </section>
 <!-- table -->
 <div class="container-fluid">
-  <section class="bg_resizer">
-     <div class="col-lg-12 bg-light">
-        <h6 class="text-dark px-4 py-2 bg-light mb-0 header_back">COURSE
-           DESCRIPTION
-        </h6>
-        <div class="p-4 border-top">
-           <div class="accordion" id="accordion">
-              <div class="panel-group wrap" id="accordion"
-                 role="tablist" aria-multiselectable="true">
-                 <div class="panel">
-                    <div class="panel-heading" role="tab"
-                       id="headingOne">
-                       <h4 class="panel-title">
-                          <a role="button" data-toggle="collapse"
-                             data-parent="#accordion"
-                             href="#collapseOne"
-                             aria-expanded="true"
-                             aria-controls="collapseOne">
-                          OFFICER
-                          </a>
-                       </h4>
-                    </div>
-                    <div id="collapseOne" class="panel-collapse
-                       collapse in" role="tabpanel"
-                       aria-labelledby="headingOne">
-                       <div class="panel-body">
-                          <table style="width:100%">
-                             <tr>
-                                <th>Name of
-                                   Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                   Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                   Conducted
-                                   in a year
-                                </th>
-                             </tr>
-                             <tr>
-                                <td>Bangladesh Military Academy Long Course
-                                </td>
-                                <td>To Prepare the Officer Cadet for grant of commision as others
-                                </td>
-                                <td>English</td>
-                                <td>Officer Cadet (Male)
-                                </td>
-                                <td>4 Years
-                                   (365*4=160days/48 Months)
-                                </td>
-                                <td>02</td>
-                             </tr>
-                          </table>
-                       </div>
-                    </div>
-                 </div>
-                 <!-- end of panel -->
-                 <div class="panel">
-                    <div class="panel-heading" role="tab"
-                       id="headingTwo">
-                       <h4 class="panel-title">
-                          <a class="collapsed" role="button"
-                             data-toggle="collapse"
-                             data-parent="#accordion"
-                             href="#collapseTwo"
-                             aria-expanded="false"
-                             aria-controls="collapseTwo">
-                          OTHERS
-                          </a>
-                       </h4>
-                    </div>
-                    <div id="collapseTwo" class="panel-collapse
-                       collapse" role="tabpanel"
-                       aria-labelledby="headingTwo">
-                       <div class="panel-body">
-                          <table border="1" style="width:100%">
-                             <tr>
-                                <th>Name of
-                                   Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                   Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                   Conducted
-                                   in a year
-                                </th>
-                             </tr>
-                             <tr>
-                                <td>Drill Instructor 
-                                   Course (Air Defence)
-                                </td>
-                                <td>To trained the Non Commissioned  officers/other Rank as efficiant Drill Instructor.
-                                </td>
-                                <td>English</td>
-                                <td>Non Commissioned  officers/other(Male)
-                                </td>
-                                <td>7 Week
-                                   (7*7=49 days)
-                                </td>
-                                <td>02</td>
-                             </tr>
-                          </table>
-                       </div>
-                    </div>
-                 </div>
-              </div>
-           </div>
-        </div>
-     </div>
-  </section>
+   <section class="bg_resizer">
+      <div class="col-lg-12 bg-light">
+         <h6 class="text-dark px-4 py-2 bg-light mb-0 header_back">COURSE
+            DESCRIPTION
+         </h6>
+         <div class="p-4 border-top">
+            <div class="accordion" id="accordion">
+               <div class="panel-group wrap" id="accordion"
+                  role="tablist" aria-multiselectable="true">
+                  <div class="panel">
+                     <div class="panel-heading" role="tab"
+                        id="headingOne">
+                        <h4 class="panel-title">
+                           <a role="button" data-toggle="collapse"
+                              data-parent="#accordion"
+                              href="#collapseOne"
+                              aria-expanded="true"
+                              aria-controls="collapseOne">
+                              Officers Basic
+                              Training
+                              (Semester: 1-8)
+                              Including BSc
+                              (Hons Degree)
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapseOne" class="panel-collapse
+                        collapse in" role="tabpanel"
+                        aria-labelledby="headingOne">
+                        <div class="panel-body">
+                           <table style="width:100%">
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                              <tr>
+                                 <td>Officers Basic
+                                    Training
+                                    (Semester: 1-8)
+                                    Including BSc
+                                    (Hons Degree)
+                                 </td>
+                                 <td>To prepare Officer Cadets to be qualified for commission
+                                    in the Navy with highest degree of morale and loyalty
+                                    bounded by mental and physical strength. To train the
+                                    Midshipman in sea environment for practical application
+                                    of the basic naval knowledge.
+                                 </td>
+                                 <td>English</td>
+                                 <td>Cadet
+                                 </td>
+                                 <td>208 Weeks
+                                    
+                                 </td>
+                                 <td>02</td>
+                              </tr>
+                           </table>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end of panel -->
+                  <div class="panel">
+                     <div class="panel-heading" role="tab"
+                        id="headingTwo">
+                        <h4 class="panel-title">
+                           <a class="collapsed" role="button"
+                              data-toggle="collapse"
+                              data-parent="#accordion"
+                              href="#collapseTwo"
+                              aria-expanded="false"
+                              aria-controls="collapseTwo">
+                              Pre Commission
+                              Training
+                              (Semester: 1-6)
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapseTwo" class="panel-collapse
+                        collapse" role="tabpanel"
+                        aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                           <table border="1" style="width:100%">
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                              <tr>
+                                 <td>Pre Commission
+                                    Training
+                                    (Semester: 1-6)
+                                 </td>
+                                 <td>To prepare Officer Cadets to be qualified for commission
+                                    in the Navy with highest degree of morale and loyalty
+                                    bounded by mental and physical strength. To train the
+                                    Midshipman in sea environment for practical application
+                                    of the basic naval knowledge.
+                                 </td>
+                                 <td>English</td>
+                                 <td>Cadet
+                                 </td>
+                                 <td>156 Weeks
+                                   
+                                 </td>
+                                 <td>02</td>
+                              </tr>
+                           </table>
+                        </div>
+                     </div>
+                  </div>
+                    <!-- end of panel -->
+                    <div class="panel">
+                     <div class="panel-heading" role="tab"
+                        id="headingThree">
+                        <h4 class="panel-title">
+                           <a class="collapsed" role="button"
+                              data-toggle="collapse"
+                              data-parent="#accordion"
+                              href="#collapseThree"
+                              aria-expanded="false"
+                              aria-controls="collapseThree">
+                              Junior Staff Course
+                              (JSC)
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapseThree" class="panel-collapse
+                        collapse" role="tabpanel"
+                        aria-labelledby="headingThree">
+                        <div class="panel-body">
+                           <table border="1" style="width:100%">
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                              <tr>
+                                 <td>Junior Staff Course
+                                    (JSC)
+                                 </td>
+                                 <td>To develop command and staff skills of the Junior Officers
+                                 </td>
+                                 <td>English</td>
+                                 <td>Lieutenant/
+                                    Lieutenant
+                                    Commander
+                                 </td>
+                                 <td>08 Weeks
+                                   
+                                 </td>
+                                 <td>02</td>
+                              </tr>
+                           </table>
+                        </div>
+                     </div>
+                  </div>
+                    <!-- end of panel -->
+                    <div class="panel">
+                     <div class="panel-heading" role="tab"
+                        id="headingFour">
+                        <h4 class="panel-title">
+                           <a class="collapsed" role="button"
+                              data-toggle="collapse"
+                              data-parent="#accordion"
+                              href="#collapseFour"
+                              aria-expanded="false"
+                              aria-controls="collapseFour">
+                              Bridge Watch
+                              Keeping Course
+                              (Semester: 7-8)
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapseFour" class="panel-collapse
+                        collapse" role="tabpanel"
+                        aria-labelledby="headingFour">
+                        <div class="panel-body">
+                           <table border="1" style="width:100%">
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                              <tr>
+                                 <td>Bridge Watch
+                                    Keeping Course
+                                    (Semester: 7-8)
+                                 </td>
+                                 <td>To train the newly commissioned executive branch
+                                    officers on professional and technical subjects.
+                                 </td>
+                                 <td>English</td>
+                                 <td>Lieutenants/
+                                    Sub
+                                    Lieutenants
+                                    of Executive/
+                                    Operation
+                                    Branch.
+                                 </td>
+                                 <td>52 Weeks
+                                   
+                                 </td>
+                                 <td>02</td>
+                              </tr>
+                           </table>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
 </div>
 <!-- end table -->
 <!-- js -->

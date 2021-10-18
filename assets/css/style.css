@@ -3656,6 +3656,7 @@ blockquote::before, .blockquote::before {
     height: 40px;
     font-size: 20px;
     font-weight: bold;
+    color: black;
 }
 
 .details_header {
@@ -7691,7 +7692,7 @@ blockquote::before, .blockquote::before {
           
           .widgets .widget-title {
             /* background: linear-gradient(#57a92e,#4c8781 ); */
-            color: wheat !important;
+            color: black !important;
             padding: 10px 20px;
             margin-bottom: 0; }
           

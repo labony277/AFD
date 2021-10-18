@@ -22,6 +22,27 @@
             </div>
         </div>
          <!-- end bna -->
+         <!-- gunnery -->
+         <div class="single-team-member services-box">
+            <div class="member-image">
+                <img src="assets/img/school/Bangladesh Navy/2.gunnery/1. First Pic (Double Page)-min.jpg" alt="image">
+            </div>
+            <div class="member-content">
+                <h3>GUNNERY SCHOOL</h3>
+                <span><i class="fas fa-map-marker"></i>South Patenga area of
+                    Chattogram. </span>
+                <ul class="social">
+                    <p>To impart training to officers and sailors of
+                        executive/operational branch on gunnery aspects
+                        of naval warfare with a view to.......</p>
+                </ul>
+                <br>
+                <div class="others-options">
+                    <a href="bangladesh_navy/gunnery.php" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+         <!-- end gunnery -->
        <!-- pagination -->
         <!-- <div class="col-lg-12 col-md-12">
             <div class="pagination-area">

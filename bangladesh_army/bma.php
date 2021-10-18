@@ -296,17 +296,17 @@
                         aria-labelledby="headingOne">
                         <div class="panel-body">
                            <table style="width:100%">
-                              <tr>
-                                 <th>Name of
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
                                     Courses
                                  </th>
-                                 <th>Aim</th>
-                                 <th>Medium</th>
-                                 <th>Applicable
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
                                     Rank
                                  </th>
-                                 <th>Duration</th>
-                                 <th>Course
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
                                     Conducted
                                     in a year
                                  </th>
@@ -320,7 +320,7 @@
                                  <td>Officer Cadet (Male)
                                  </td>
                                  <td>4 Years
-                                    (365*4=160days/48 Months)
+                                    
                                  </td>
                                  <td>02</td>
                               </tr>
@@ -348,17 +348,17 @@
                         aria-labelledby="headingTwo">
                         <div class="panel-body">
                            <table border="1" style="width:100%">
-                              <tr>
-                                 <th>Name of
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
                                     Courses
                                  </th>
-                                 <th>Aim</th>
-                                 <th>Medium</th>
-                                 <th>Applicable
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
                                     Rank
                                  </th>
-                                 <th>Duration</th>
-                                 <th>Course
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
                                     Conducted
                                     in a year
                                  </th>
@@ -373,7 +373,7 @@
                                  <td>Non Commissioned  officers/other(Male)
                                  </td>
                                  <td>7 Week
-                                    (7*7=49 days)
+                                   
                                  </td>
                                  <td>02</td>
                               </tr>
