@@ -245,12 +245,7 @@
                           </div>
                           <div class="tabs_item" style="display:
                              none;">
-                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5215.800004864782!2d91.75318877559856!3d22.42422445560544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd754c83a4c09%3A0x5a643c5a4c3037ba!2sBangladesh%20Military%20Academy!5e0!3m2!1sen!2sbd!4v1632202754569!5m2!1sen!2sbd"
-                                width="100%" height="215"
-                                style="border:0;"
-                                allowfullscreen=""
-                                loading="lazy"></iframe>
+                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3693.3100725303498!2d91.79749851431927!3d22.22831115112279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdfd61bc90c05%3A0x179e6e5e5d55645c!2sBangladesh%20Naval%20Academy!5e0!3m2!1sen!2sbd!4v1634615461533!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                           </div>
                        </div>
                     </div>

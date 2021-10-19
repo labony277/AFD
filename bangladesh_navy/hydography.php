@@ -26,7 +26,7 @@
                         margin: 0;
                         color: #fff;
                         text-align: center;
-                        text-shadow: 5px 4px 5px black;">TORPEDO ANTI SUBMARINE (TAS) SCHOOL</h2>
+                        text-shadow: 5px 4px 5px black;">HYDROGRAPHYEX CESLLENCCE THROHUGH TORAININGOL</h2>
                 </div>
             </div>
 
@@ -48,17 +48,17 @@
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/3.torpedo/2.jpg"
+                                    src="../assets/img/school/Bangladesh Navy/6.hydrography school/2.-min.JPG"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/3.torpedo/3..jpg"
+                                    src="../assets/img/school/Bangladesh Navy/6.hydrography school/3.-min.JPG"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/3.torpedo/4..jpg"
+                                    src="../assets/img/school/Bangladesh Navy/6.hydrography school/4..jpg"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -86,9 +86,11 @@
                         <div class="border mb-4 desc_box">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                             <div class="p-4 border-top">
-                                <p class="mt-2 lead">Torpedo Anti Submarine (TAS) School is the heart of the underwater warfare training in Bangladesh Navy which was established
-                                    in BNS ISSA KHAN at 1976. The role of this school is to impart training on various underwater aspects to officers and sailors of
-                                    Bangladesh Navy. However, every year the school deals with large number of trainees both from home and abroad.
+                                <p class="mt-2 lead">BN Hydrographic School was established on 04 May 1983 with the       foundation of BN hydrographic department. The school trains
+                                    all categories of personnel involved in the field of hydrographic surveying. Apart from providing training to BN officers and sailors,
+                                    the school imparts training to the personnel of other national maritime organizations and overseas students from different friendly
+                                    countries. The institute remains abreast with the International standards of competence for hydrographic surveyors promulgated
+                                    by the International Hydrographic Organization (IHO).
                                 </p>
                             </div>
                         </div>
@@ -97,46 +99,67 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">Objectives of TAS school are as follow:</span>
+                                <span class="lead fw-6">Objectives of Hydrographic School are as follow:</span>
                                 <ul class="list-unstyled mt-3">
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">1. To impart training on underwater systems,
-                                            torpedo, LDC/ RDC, TAS equipment, Sonar,
-                                            underwater explosives and Mine/ MCM
-                                            system used in naval warfare putting special
-                                            emphasis on BN.
+                                        <p class="mr-4 lead">1. To train officers and sailors for future
+                                            employment in the hydrographic service as a
+                                            hydrographic surveyor.
                                         </p>
                                     </li>
                                     <li class="d-sm-flex align-items-center
                                     border-bottom pb-3
                                     mb-3">
-                                    <p class="mr-4 lead">2.To provide a broad knowledge on TAS
-                                        organization, training and administration.
+                                    <p class="mr-4 lead">2.To prepare the officers and sailors for all
+                                        the tasks in future career as hydrographers
+                                        and survey recorders in BN/ respective
+                                        Hydrographic Department.
                                     </p>
                                 </li>
                                 <li class="d-sm-flex align-items-center
                                 border-bottom pb-3
                                 mb-3">
-                                <p class="mr-4 lead">3.To enhance working knowledge on underwater
-                                    tactics including submarine.
+                                <p class="mr-4 lead">3.To provide the students with a theoretical
+                                    and practical comprehension of hydrographic
+                                    and topographic surveying and with the
+                                    competence and skills to carry out the various
+                                    hydrographic surveying tasks.
                                 </p>
                             </li>
                             <li class="d-sm-flex align-items-center
                             border-bottom pb-3
                             mb-3">
-                            <p class="mr-4 lead">4.To familiarized student officers and sailors
-                                with modern torpedo and sonar system.
+                            <p class="mr-4 lead">4.To prepare officers and sailors for understanding
+                                of the principles, standard operation and use of
+                                hydrographic equipments and software available
+                                onboard BN hydrographic ships and units.
                             </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                         border-bottom pb-3
                         mb-3">
-                        <p class="mr-4 lead">5. To provide basic knowledge on Mine, Mine
-                            laying and MCM measures.
+                        <p class="mr-4 lead">5.To train the officers and sailors on hydrographic
+                            surveying standards and procedure of
+                            bathymetric surveying operation onboard
+                            survey ships and boats
                         </p>
-                    </li>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                        border-bottom pb-3
+                        mb-3">
+                        <p class="mr-4 lead">6. To train the officers and sailors on the basics of
+                            oceanography and oceanographic equipment.
+                        </p>
+                        </li>
+                        <li class="d-sm-flex align-items-center
+                        border-bottom pb-3
+                        mb-3">
+                        <p class="mr-4 lead">7. To train the officers and sailors on hydrographic
+                            data management system.
+                        </p>
+                        </li>
 
 
                                 </ul>
@@ -145,8 +168,9 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">To train officers and sailors of TAS branch including
-                                    principal warfare officer (underwater) course.</span>
+                                <span class="lead fw-6">To impart training to the selected officers and
+                                    sailors in the field of hydrography, oceanography
+                                    and cartography.</span>
                             </div>
                         </div>
                     </div>
@@ -289,7 +313,7 @@
             </div>
         </div>
     </section>
-     <!-- table -->
+    <!-- table -->
 <div class="container-fluid">
     <section class="bg_resizer">
        <div class="col-lg-12 bg-light">
@@ -309,7 +333,8 @@
                                href="#collapseOne"
                                aria-expanded="true"
                                aria-controls="collapseOne">
-                               Torpedo Anti Submarine Specialisation in PWO (TAS) Course
+                               Basic Hydrography
+                               Course (Cat- B)
 
                             </a>
                          </h4>
@@ -335,19 +360,18 @@
                                   </th>
                                </tr>
                                <tr>
-                                  <td>Torpedo Anti
-                                    Submarine
-                                    Specialisation in PWO
-                                    (TAS) Course
+                                  <td>Basic Hydrography
+                                    Course (Cat- B)
                                   </td>
-                                  <td>To prepare in undertaking the responsibility of TAS
-                                    Specialization Officer afloat and ashore.
+                                  <td>To enable officers to perform the duties of Junior
+                                    Hydrographer.
                                   </td>
                                   <td>English</td>
                                   <td>Lieutenant/
                                     Lieutenant
-                                    Commander of
-                                    Executive
+                                    Commander
+                                    of Executive/
+                                    Operation
                                     Branch
                                   </td>
                                   <td>26 Weeks
@@ -370,9 +394,9 @@
                                href="#collapseTwo"
                                aria-expanded="false"
                                aria-controls="collapseTwo">
-                               Torpedo Detector-I
-                               (TD-I) Qualifying
-                               Couse
+                               Survey Recorder
+                               Qualifying Course 1st
+                               Class (SR-I ‘Q’)
                             </a>
                          </h4>
                       </div>
@@ -397,19 +421,19 @@
                                   </th>
                                </tr>
                                <tr>
-                                  <td>Torpedo Detector-I
-                                    (TD-I) Qualifying
-                                    Couse
+                                  <td>Survey Recorder
+                                    Qualifying Course 1st
+                                    Class (SR-I ‘Q’)
                                   </td>
-                                  <td>To train senior Anti Submarine branch sailors to carryout
-                                    and supervise operation and maintenance of Anti
-                                    Submarine weapon and equipment.
+                                  <td>To train personnel for supervising the survey team
                                   </td>
                                   <td>English</td>
                                   <td>Leading
                                     Seaman
+                                    (SR-2nd Rate
+                                    qualified)
                                   </td>
-                                  <td>23 Weeks
+                                  <td>26 Weeks
                                     
                                   </td>
                                   <td>01</td>
@@ -418,8 +442,198 @@
                          </div>
                       </div>
                    </div>
-                     
+                     <!-- end of panel -->
+                     <div class="panel">
+                      <div class="panel-heading" role="tab"
+                         id="headingThree">
+                         <h4 class="panel-title">
+                            <a class="collapsed" role="button"
+                               data-toggle="collapse"
+                               data-parent="#accordion"
+                               href="#collapseThree"
+                               aria-expanded="false"
+                               aria-controls="collapseThree">
+                               Survey Recorder
+                               Qualifying Course
+                               2nd Class (SR-II ‘Q’ )
+                            </a>
+                         </h4>
+                      </div>
+                      <div id="collapseThree" class="panel-collapse
+                         collapse" role="tabpanel"
+                         aria-labelledby="headingThree">
+                         <div class="panel-body">
+                            <table border="1" style="width:100%">
+                               <tr style="text-align: center;">
+                                  <th style="width: 20%;">Name of
+                                     Courses
+                                  </th>
+                                  <th style="width: 40%;">Aim</th>
+                                  <th style="10%">Medium</th>
+                                  <th style="width: 10%;">Applicable
+                                     Rank
+                                  </th>
+                                  <th style="7%">Duration</th>
+                                  <th style="width: 10%;">Course
+                                     Conducted
+                                     in a year
+                                  </th>
+                               </tr>
+                               <tr>
+                                  <td>Survey Recorder
+                                    Qualifying Course
+                                    2nd Class (SR-II ‘Q’ )
+                                  </td>
+                                  <td>To train personnel to maintain the records for
+                                    hydrographic instruments, store, books and stationeries
+                                    and processing of survey data.
+                                  </td>
+                                  <td>English</td>
+                                  <td>Leading/
+                                    Able Seaman
+                                    (SR-3nd Rate
+                                    qualified)
+                                  </td>
+                                  <td>26 Weeks
+                                    
+                                  </td>
+                                  <td>01</td>
+                               </tr>
+                            </table>
+                         </div>
+                      </div>
+                   </div>
+                     <!-- end of panel -->
+                     <div class="panel">
+                      <div class="panel-heading" role="tab"
+                         id="headingFour">
+                         <h4 class="panel-title">
+                            <a class="collapsed" role="button"
+                               data-toggle="collapse"
+                               data-parent="#accordion"
+                               href="#collapseFour"
+                               aria-expanded="false"
+                               aria-controls="collapseFour">
+                               Basic Survey
+                               Recorder Qualifying
+                               Course (SR-III ‘Q’)
+                            </a>
+                         </h4>
+                      </div>
+                      <div id="collapseFour" class="panel-collapse
+                         collapse" role="tabpanel"
+                         aria-labelledby="headingFour">
+                         <div class="panel-body">
+                            <table border="1" style="width:100%">
+                               <tr style="text-align: center;">
+                                  <th style="width: 20%;">Name of
+                                     Courses
+                                  </th>
+                                  <th style="width: 40%;">Aim</th>
+                                  <th style="10%">Medium</th>
+                                  <th style="width: 10%;">Applicable
+                                     Rank
+                                  </th>
+                                  <th style="7%">Duration</th>
+                                  <th style="width: 10%;">Course
+                                     Conducted
+                                     in a year
+                                  </th>
+                               </tr>
+                               <tr>
+                                  <td> Basic Survey
+                                    Recorder Qualifying
+                                    Course (SR-III ‘Q’)
+                                  </td>
+                                  <td>The aim of SR-III course is to impart foundation theoretically
+                                    and practically knowledge about hydrographic survey
+                                    operation, surveying instruments and software to the
+                                    newly joined survey recorder sailor.
+                                  </td>
+                                  <td>English</td>
+                                  <td>Ordinary
+                                    seaman on
+                                    completion
+                                    of Basic
+                                    seamanship
+                                    training
+                                  </td>
+                                  <td>25 Weeks
+                                    
+                                  </td>
+                                  <td>01</td>
+                               </tr>
+                            </table>
+                         </div>
+                      </div>
+                   </div>
                    <!-- end panel -->
+                   <div class="panel">
+                    <div class="panel-heading" role="tab"
+                       id="headingFive">
+                       <h4 class="panel-title">
+                          <a class="collapsed" role="button"
+                             data-toggle="collapse"
+                             data-parent="#accordion"
+                             href="#collapseFive"
+                             aria-expanded="false"
+                             aria-controls="collapseFive">
+                             Multibeam Data
+                             Acquisition and
+                             Processing
+                          </a>
+                       </h4>
+                    </div>
+                    <div id="collapseFive" class="panel-collapse
+                       collapse" role="tabpanel"
+                       aria-labelledby="headingFive">
+                       <div class="panel-body">
+                          <table border="1" style="width:100%">
+                             <tr style="text-align: center;">
+                                <th style="width: 20%;">Name of
+                                   Courses
+                                </th>
+                                <th style="width: 40%;">Aim</th>
+                                <th style="10%">Medium</th>
+                                <th style="width: 10%;">Applicable
+                                   Rank
+                                </th>
+                                <th style="7%">Duration</th>
+                                <th style="width: 10%;">Course
+                                   Conducted
+                                   in a year
+                                </th>
+                             </tr>
+                             <tr>
+                                <td>  Multibeam Data
+                                    Acquisition and
+                                    Processing
+                                </td>
+                                <td>To impart training to selected BN Officers/ Sailors on
+                                    cartography with a view to enable them to planning,
+                                    preparation, data acquisition processing and assessment
+                                    of data as per IHO Standard/ Specification through using
+                                    the processing software (CARIS HIPS & SIPS and another
+                                    supporting software).
+                                </td>
+                                <td>English</td>
+                                <td>Lieutenant/
+                                    Sub
+                                    Lieutenant
+                                    &
+                                    Leading/ Able
+                                    Seaman
+                                </td>
+                                <td>02 Weeks
+                                  
+                                </td>
+                                <td>02</td>
+                             </tr>
+                          </table>
+                       </div>
+                    </div>
+                 </div>
+                 <!-- end panel -->
                 </div>
              </div>
           </div>

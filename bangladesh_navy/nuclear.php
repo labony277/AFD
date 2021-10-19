@@ -26,7 +26,8 @@
                         margin: 0;
                         color: #fff;
                         text-align: center;
-                        text-shadow: 5px 4px 5px black;">TORPEDO ANTI SUBMARINE (TAS) SCHOOL</h2>
+                        text-shadow: 5px 4px 5px black;">NUCLEAR BIOEXCLELLEONCE THGROUGHI TRCAININGAL
+                    & CHEMICAL DEFENCE (NBCD) SCHOOL</h2>
                 </div>
             </div>
 
@@ -48,17 +49,17 @@
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/3.torpedo/2.jpg"
+                                    src="../assets/img/school/Bangladesh Navy/7.nbcd school/2 -min.JPG"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/3.torpedo/3..jpg"
+                                    src="../assets/img/school/Bangladesh Navy/7.nbcd school/3 .jpg"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/3.torpedo/4..jpg"
+                                    src="../assets/img/school/Bangladesh Navy/7.nbcd school/4 .jpg"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -86,9 +87,10 @@
                         <div class="border mb-4 desc_box">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                             <div class="p-4 border-top">
-                                <p class="mt-2 lead">Torpedo Anti Submarine (TAS) School is the heart of the underwater warfare training in Bangladesh Navy which was established
-                                    in BNS ISSA KHAN at 1976. The role of this school is to impart training on various underwater aspects to officers and sailors of
-                                    Bangladesh Navy. However, every year the school deals with large number of trainees both from home and abroad.
+                                <p class="mt-2 lead">The NBCD School was established in 1990. The school provides training on various methods of major fire fighting and damage
+                                    control including NBC aspect of warfare to the officers and sailors of Bangladesh Navy. All course curricula are divided into two
+                                    parts. In the first part, theoretical classes are conducted in NBCD School block and in another part; practical fire fighting and
+                                    damage control classes are conducted in DC & FF Simulator.
                                 </p>
                             </div>
                         </div>
@@ -97,46 +99,17 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">Objectives of TAS school are as follow:</span>
+                                <span class="lead fw-6">Objectives of (NBCD) SCHOOL are as
+                                    follow:</span>
                                 <ul class="list-unstyled mt-3">
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">1. To impart training on underwater systems,
-                                            torpedo, LDC/ RDC, TAS equipment, Sonar,
-                                            underwater explosives and Mine/ MCM
-                                            system used in naval warfare putting special
-                                            emphasis on BN.
+                                        <p class="mr-4 lead">1. To enable an officer to perform the duties and
+                                            responsibilities of NBCDO/ NBCPO/Action NBCD
+                                            Officer on board frigate/ small craft.
                                         </p>
                                     </li>
-                                    <li class="d-sm-flex align-items-center
-                                    border-bottom pb-3
-                                    mb-3">
-                                    <p class="mr-4 lead">2.To provide a broad knowledge on TAS
-                                        organization, training and administration.
-                                    </p>
-                                </li>
-                                <li class="d-sm-flex align-items-center
-                                border-bottom pb-3
-                                mb-3">
-                                <p class="mr-4 lead">3.To enhance working knowledge on underwater
-                                    tactics including submarine.
-                                </p>
-                            </li>
-                            <li class="d-sm-flex align-items-center
-                            border-bottom pb-3
-                            mb-3">
-                            <p class="mr-4 lead">4.To familiarized student officers and sailors
-                                with modern torpedo and sonar system.
-                            </p>
-                        </li>
-                        <li class="d-sm-flex align-items-center
-                        border-bottom pb-3
-                        mb-3">
-                        <p class="mr-4 lead">5. To provide basic knowledge on Mine, Mine
-                            laying and MCM measures.
-                        </p>
-                    </li>
 
 
                                 </ul>
@@ -145,8 +118,9 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">To train officers and sailors of TAS branch including
-                                    principal warfare officer (underwater) course.</span>
+                                <span class="lead fw-6">To enable Bangladesh Navy officers and sailors
+                                    to carry out appropriate fire fighting and damage
+                                    control in ship and establishment when required</span>
                             </div>
                         </div>
                     </div>
@@ -278,7 +252,7 @@
                                         </div>
                                         <div class="tabs_item" style="display:
                                             none;">
-                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.848496690452!2d91.78945731432029!3d22.28372814912891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdefdb5c91905%3A0x5e47aeb896fb1585!2sBNS%20Issa%20Khan!5e0!3m2!1sen!2sbd!4v1634604110200!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29542.465557704512!2d91.79320318945965!3d22.247355083545628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdfc1ce204e61%3A0x359abd4c51238267!2s41%20No.%20South%20Patenga%20Ward%2C%20Chattogram!5e0!3m2!1sen!2sbd!4v1634615299703!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                                         </div>
                                     </div>
                                 </div>
@@ -309,7 +283,8 @@
                                href="#collapseOne"
                                aria-expanded="true"
                                aria-controls="collapseOne">
-                               Torpedo Anti Submarine Specialisation in PWO (TAS) Course
+                               NBCD Instructor
+                               (NBCDI) Course
 
                             </a>
                          </h4>
@@ -335,22 +310,21 @@
                                   </th>
                                </tr>
                                <tr>
-                                  <td>Torpedo Anti
-                                    Submarine
-                                    Specialisation in PWO
-                                    (TAS) Course
+                                  <td>NBCD Instructor
+                                    (NBCDI) Course
                                   </td>
-                                  <td>To prepare in undertaking the responsibility of TAS
-                                    Specialization Officer afloat and ashore.
+                                  <td>To enable a senior sailor to perform as NBCD Instructor
+                                    onboard ships and establishments/ schools.
                                   </td>
                                   <td>English</td>
-                                  <td>Lieutenant/
-                                    Lieutenant
-                                    Commander of
-                                    Executive
-                                    Branch
+                                  <td>PO/equivalent
+                                    and above
+                                    (Seaman,
+                                    Communication,
+                                    Technical &
+                                    Medical branch
                                   </td>
-                                  <td>26 Weeks
+                                  <td>04 Weeks
                                      
                                   </td>
                                   <td>01</td>
@@ -360,66 +334,7 @@
                       </div>
                    </div>
                    <!-- end of panel -->
-                   <div class="panel">
-                      <div class="panel-heading" role="tab"
-                         id="headingTwo">
-                         <h4 class="panel-title">
-                            <a class="collapsed" role="button"
-                               data-toggle="collapse"
-                               data-parent="#accordion"
-                               href="#collapseTwo"
-                               aria-expanded="false"
-                               aria-controls="collapseTwo">
-                               Torpedo Detector-I
-                               (TD-I) Qualifying
-                               Couse
-                            </a>
-                         </h4>
-                      </div>
-                      <div id="collapseTwo" class="panel-collapse
-                         collapse" role="tabpanel"
-                         aria-labelledby="headingTwo">
-                         <div class="panel-body">
-                            <table border="1" style="width:100%">
-                               <tr style="text-align: center;">
-                                  <th style="width: 20%;">Name of
-                                     Courses
-                                  </th>
-                                  <th style="width: 40%;">Aim</th>
-                                  <th style="10%">Medium</th>
-                                  <th style="width: 10%;">Applicable
-                                     Rank
-                                  </th>
-                                  <th style="7%">Duration</th>
-                                  <th style="width: 10%;">Course
-                                     Conducted
-                                     in a year
-                                  </th>
-                               </tr>
-                               <tr>
-                                  <td>Torpedo Detector-I
-                                    (TD-I) Qualifying
-                                    Couse
-                                  </td>
-                                  <td>To train senior Anti Submarine branch sailors to carryout
-                                    and supervise operation and maintenance of Anti
-                                    Submarine weapon and equipment.
-                                  </td>
-                                  <td>English</td>
-                                  <td>Leading
-                                    Seaman
-                                  </td>
-                                  <td>23 Weeks
-                                    
-                                  </td>
-                                  <td>01</td>
-                               </tr>
-                            </table>
-                         </div>
-                      </div>
-                   </div>
-                     
-                   <!-- end panel -->
+                   
                 </div>
              </div>
           </div>
