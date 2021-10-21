@@ -359,7 +359,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>Basic Hydrography
                                     Course (Cat- B)
                                   </td>
@@ -420,7 +420,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>Survey Recorder
                                     Qualifying Course 1st
                                     Class (SR-I ‘Q’)
@@ -479,7 +479,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>Survey Recorder
                                     Qualifying Course
                                     2nd Class (SR-II ‘Q’ )
@@ -540,7 +540,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td> Basic Survey
                                     Recorder Qualifying
                                     Course (SR-III ‘Q’)
@@ -604,7 +604,7 @@
                                    in a year
                                 </th>
                              </tr>
-                             <tr>
+                             <tr style="text-align: center;">
                                 <td>  Multibeam Data
                                     Acquisition and
                                     Processing

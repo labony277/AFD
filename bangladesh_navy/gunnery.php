@@ -271,7 +271,7 @@
                                         </div>
                                         <div class="tabs_item" style="display:
                                             none;">
-                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29542.465557704512!2d91.79320318945965!3d22.247355083545628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdfc1ce204e61%3A0x359abd4c51238267!2s41%20No.%20South%20Patenga%20Ward%2C%20Chattogram!5e0!3m2!1sen!2sbd!4v1634615299703!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.848496690452!2d91.78945731432029!3d22.28372814912891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdefdb5c91905%3A0x5e47aeb896fb1585!2sBNS%20Issa%20Khan!5e0!3m2!1sen!2sbd!4v1634604110200!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                                         </div>
                                     </div>
                                 </div>
@@ -328,7 +328,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>Gunnery
                                     Specialisation in PWO
                                     (G) Course
@@ -391,7 +391,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>Fire Control
                                     Qualifying Course 1st
                                     Class (FC-I ‘Q’)
@@ -451,7 +451,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>Fire Control Qualifying Course 2nd Class (FC-II ‘Q’)
                                   </td>
                                   <td>To act as fire Controller and train junior sailors on fire
@@ -507,7 +507,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>  Gunnery Instructor (GI ‘Q’) ‘Qualifying’ Course
                                   </td>
                                   <td>To act as Gunnery Instructor in the Navy.

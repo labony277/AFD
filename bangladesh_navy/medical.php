@@ -26,7 +26,7 @@
                         margin: 0;
                         color: #fff;
                         text-align: center;
-                        text-shadow: 5px 4px 5px black;">SIGNAL SCHOOL</h2>
+                        text-shadow: 5px 4px 5px black;">MEDICAL ASSISTANT TRAINING SCHOOL</h2>
                 </div>
             </div>
 
@@ -48,17 +48,17 @@
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/2..jpg"
+                                    src="../assets/img/school/Bangladesh Navy/16. medical assistant training school/1. First Pic (Double Page)-min.png"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/3 .jpg"
+                                    src="../assets/img/school/Bangladesh Navy/16. medical assistant training school/3 -min.jpg"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/4.jpg"
+                                    src="../assets/img/school/Bangladesh Navy/16. medical assistant training school/5.-min.jpg"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -86,8 +86,9 @@
                         <div class="border mb-4 desc_box">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                             <div class="p-4 border-top">
-                                <p class="mt-2 lead">The school was established in BNS ISSA KHAN as Signal School in 1975. The role of this school is to impart training on various
-                                    aspects of Naval communication to officers and sailors of Bangladesh Navy..
+                                <p class="mt-2 lead">The Medical Assistant Training School started its activities in 1976 under the administrative authority of BNS ISSA KHAN. It was
+                                    then shifted under supervision of BNS PATENGA since 01 January 1990. It was inaugurated by the Chief of the Naval Staff on 21
+                                    October 2019.
                                 </p>
                             </div>
                         </div>
@@ -96,29 +97,39 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">Objectives of Signal
-                                    SCHOOL are as
-                                    follow:</span>
+                                <span class="lead fw-6">Objectives of Medical Assistant Training School
+                                    are as follow:</span>
                                 <ul class="list-unstyled mt-3">
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">1. To prepare officers and sailors for carrying out
-                                            duties of Signal Communication Officer and Signal
-                                            Communication Operator respectively on board
-                                            Bangladesh Navy ships/establishments.
+                                        <p class="mr-4 lead">1. To enable the medical assistants to provide
+                                            first aid and management.
                                         </p>
                                     </li>
-
-
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">2. To make them able to manage/repair minor
+                                            injury.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">3. To train them to carry out all medical and
+                                            administrative duties in the hospital/sickbay.
+                                        </p>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">To plan and conduct training on various aspects of
-                                    communication for Bangladesh Navy.</span>
+                                <span class="lead fw-6">The aim of Medical Assistants Training School is
+                                    to enable the medical assistants to provide first
+                                    aid and management.</span>
                             </div>
                         </div>
                     </div>
@@ -250,7 +261,7 @@
                                         </div>
                                         <div class="tabs_item" style="display:
                                             none;">
-                                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.848496690452!2d91.78945731432029!3d22.28372814912891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdefdb5c91905%3A0x5e47aeb896fb1585!2sBNS%20Issa%20Khan!5e0!3m2!1sen!2sbd!4v1634604110200!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6352820949714!2d91.78803021432117!3d22.329629147473874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd92bd359c45b%3A0x8db3823f6c29fbb2!2sChittagong%20of%20medical%20technology%20and%20MATS!5e0!3m2!1sen!2sbd!4v1634800556862!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                                         </div>
                                     </div>
                                 </div>
@@ -261,7 +272,7 @@
             </div>
         </div>
     </section>
-     <!-- table -->
+    <!-- table -->
 <div class="container-fluid">
     <section class="bg_resizer">
        <div class="col-lg-12 bg-light">
@@ -281,9 +292,8 @@
                                href="#collapseOne"
                                aria-expanded="true"
                                aria-controls="collapseOne">
-                               Communication
-                               Specialisation in PWO
-                               (C) Course
+                               SAILOR
+
                             </a>
                          </h4>
                       </div>
@@ -308,81 +318,20 @@
                                   </th>
                                </tr>
                                <tr style="text-align: center;">
-                                  <td>Communication
-                                    Specialisation in PWO
-                                    (C) Course
+                                  <td>Petty Officer (Medical)
+                                    Qualifying Course
+                                    PO(Med) ‘Q’.
                                   </td>
-                                  <td>To impart specialized knowledge on signal communication
+                                  <td>To train medical personnel to carry out medical duties.
                                   </td>
                                   <td>English</td>
-                                  <td>Lieutenant/
-                                    Lieutenant
-                                    Commander of
-                                    Executive
-                                    Branch
+                                  <td>Leading
+                                    Medical
+                                    Assistant
+                                    (LMA)
                                   </td>
-                                  <td>26 Weeks
+                                  <td>19 Weeks
                                      
-                                  </td>
-                                  <td>01</td>
-                               </tr>
-                            </table>
-                         </div>
-                      </div>
-                   </div>
-                   <!-- end of panel -->
-                   <div class="panel">
-                      <div class="panel-heading" role="tab"
-                         id="headingTwo">
-                         <h4 class="panel-title">
-                            <a class="collapsed" role="button"
-                               data-toggle="collapse"
-                               data-parent="#accordion"
-                               href="#collapseTwo"
-                               aria-expanded="false"
-                               aria-controls="collapseTwo">
-                               Petty Officer Radio
-                                Supervisor PORS(G)
-                               ‘Q’ Course
-                            </a>
-                         </h4>
-                      </div>
-                      <div id="collapseTwo" class="panel-collapse
-                         collapse" role="tabpanel"
-                         aria-labelledby="headingTwo">
-                         <div class="panel-body">
-                            <table border="1" style="width:100%">
-                               <tr style="text-align: center;">
-                                  <th style="width: 20%;">Name of
-                                     Courses
-                                  </th>
-                                  <th style="width: 40%;">Aim</th>
-                                  <th style="10%">Medium</th>
-                                  <th style="width: 10%;">Applicable
-                                     Rank
-                                  </th>
-                                  <th style="7%">Duration</th>
-                                  <th style="width: 10%;">Course
-                                     Conducted
-                                     in a year
-                                  </th>
-                               </tr>
-                               <tr style="text-align: center;">
-                                  <td>Petty Officer Radio
-                                    Supervisor PORS(G)
-                                    ‘Q’ Course
-                                  </td>
-                                  <td>To train personnel to impart highest professional
-                                    knowledge required to the communication sailors.
-                                  </td>
-                                  <td>English</td>
-                                  <td>Leading Radio
-                                    Operator
-                                    (Communication
-                                    Sailors)
-                                  </td>
-                                  <td>24 Weeks
-                                    
                                   </td>
                                   <td>02</td>
                                </tr>
@@ -390,8 +339,7 @@
                          </div>
                       </div>
                    </div>
-                     
-                   <!-- end panel -->
+                   <!-- end of panel -->
                 </div>
              </div>
           </div>

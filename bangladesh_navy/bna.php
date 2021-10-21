@@ -304,7 +304,7 @@
                                     in a year
                                  </th>
                               </tr>
-                              <tr>
+                              <tr style="text-align: center;">
                                  <td>Officers Basic
                                     Training
                                     (Semester: 1-8)
@@ -366,7 +366,7 @@
                                     in a year
                                  </th>
                               </tr>
-                              <tr>
+                              <tr style="text-align: center;">
                                  <td>Pre Commission
                                     Training
                                     (Semester: 1-6)
@@ -425,7 +425,7 @@
                                     in a year
                                  </th>
                               </tr>
-                              <tr>
+                              <tr style="text-align: center;">
                                  <td>Junior Staff Course
                                     (JSC)
                                  </td>
@@ -482,7 +482,7 @@
                                     in a year
                                  </th>
                               </tr>
-                              <tr>
+                              <tr style="text-align: center;">
                                  <td>Bridge Watch
                                     Keeping Course
                                     (Semester: 7-8)

@@ -26,7 +26,7 @@
                         margin: 0;
                         color: #fff;
                         text-align: center;
-                        text-shadow: 5px 4px 5px black;">SIGNAL SCHOOL</h2>
+                        text-shadow: 5px 4px 5px black;">PHYSICAL TRAINING (PT) SCHOOL</h2>
                 </div>
             </div>
 
@@ -48,17 +48,17 @@
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/2..jpg"
+                                    src="../assets/img/school/Bangladesh Navy/8.PT school/1. First Pic (Double Page).jpg"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/3 .jpg"
+                                    src="../assets/img/school/Bangladesh Navy/8.PT school/2 .jpg"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/4.jpg"
+                                    src="../assets/img/school/Bangladesh Navy/8.PT school/3 .jpg"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -86,8 +86,8 @@
                         <div class="border mb-4 desc_box">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                             <div class="p-4 border-top">
-                                <p class="mt-2 lead">The school was established in BNS ISSA KHAN as Signal School in 1975. The role of this school is to impart training on various
-                                    aspects of Naval communication to officers and sailors of Bangladesh Navy..
+                                <p class="mt-2 lead">The Physical Training School was established in 1975 at BNS HAJI MOHSIN. However, it was shifted to BNS ISSA KHAN in 1976. The
+                                    school started with the noble aim to train officer and men on Physical Training.
                                 </p>
                             </div>
                         </div>
@@ -96,17 +96,48 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">Objectives of Signal
-                                    SCHOOL are as
-                                    follow:</span>
+                                <span class="lead fw-6">Objectives of PT School are as follow:</span>
                                 <ul class="list-unstyled mt-3">
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">1. To prepare officers and sailors for carrying out
-                                            duties of Signal Communication Officer and Signal
-                                            Communication Operator respectively on board
-                                            Bangladesh Navy ships/establishments.
+                                        <p class="mr-4 lead">1. To train naval personnel as Physical Training
+                                            Instructors, Physical Trainer and Physical &
+                                            Recreational Training Officer.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">2. To impart them knowledge on rules and
+                                            regulations of all games, sports, physical and
+                                            recreational activities.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">3. To make them capable of organizing and
+                                            conducting BN games, sports, physical and
+                                            recreational activities.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">4. To make them capable enough so that they act
+                                            as a Umpire/Referee/Coach /Assistant coach
+                                            during conducting Unit, Shore, Inter-Service,
+                                            Inter-Base, Area’s Game/ Sports/ Physical &
+                                            recreational competition.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">5.To train them for conducting Diving Suitability
+                                            Fitness Test for volunteers before attending
+                                            Diving course as per ref BR-51, Chapter- 06.
                                         </p>
                                     </li>
 
@@ -117,8 +148,8 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">To plan and conduct training on various aspects of
-                                    communication for Bangladesh Navy.</span>
+                                <span class="lead fw-6">To develop professional PT officers and sailors with
+                                    good carriage and posture for ships and shore.</span>
                             </div>
                         </div>
                     </div>
@@ -250,7 +281,7 @@
                                         </div>
                                         <div class="tabs_item" style="display:
                                             none;">
-                                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.848496690452!2d91.78945731432029!3d22.28372814912891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdefdb5c91905%3A0x5e47aeb896fb1585!2sBNS%20Issa%20Khan!5e0!3m2!1sen!2sbd!4v1634604110200!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.848496690452!2d91.78945731432029!3d22.28372814912891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdefdb5c91905%3A0x5e47aeb896fb1585!2sBNS%20Issa%20Khan!5e0!3m2!1sen!2sbd!4v1634604110200!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                                         </div>
                                     </div>
                                 </div>
@@ -261,7 +292,7 @@
             </div>
         </div>
     </section>
-     <!-- table -->
+    <!-- table -->
 <div class="container-fluid">
     <section class="bg_resizer">
        <div class="col-lg-12 bg-light">
@@ -281,9 +312,8 @@
                                href="#collapseOne"
                                aria-expanded="true"
                                aria-controls="collapseOne">
-                               Communication
-                               Specialisation in PWO
-                               (C) Course
+                               Physical Training-II Qualifying Course (PT-II ‘Q’)
+
                             </a>
                          </h4>
                       </div>
@@ -308,20 +338,17 @@
                                   </th>
                                </tr>
                                <tr style="text-align: center;">
-                                  <td>Communication
-                                    Specialisation in PWO
-                                    (C) Course
+                                  <td>Physical Training-II Qualifying Course (PT-II ‘Q’)
                                   </td>
-                                  <td>To impart specialized knowledge on signal communication
+                                  <td>To prepare instructor for physical training and games.
                                   </td>
                                   <td>English</td>
-                                  <td>Lieutenant/
-                                    Lieutenant
-                                    Commander of
-                                    Executive
-                                    Branch
+                                  <td>Able Seaman/
+                                    Leading
+                                    (PT-III Rate
+                                    Qualified)
                                   </td>
-                                  <td>26 Weeks
+                                  <td>19 Weeks
                                      
                                   </td>
                                   <td>01</td>
@@ -341,9 +368,7 @@
                                href="#collapseTwo"
                                aria-expanded="false"
                                aria-controls="collapseTwo">
-                               Petty Officer Radio
-                                Supervisor PORS(G)
-                               ‘Q’ Course
+                               Physical Training-III Qualifying (PT-III ‘Q’)
                             </a>
                          </h4>
                       </div>
@@ -368,18 +393,13 @@
                                   </th>
                                </tr>
                                <tr style="text-align: center;">
-                                  <td>Petty Officer Radio
-                                    Supervisor PORS(G)
-                                    ‘Q’ Course
+                                  <td> Physical Training-III Qualifying (PT-III ‘Q’)
                                   </td>
-                                  <td>To train personnel to impart highest professional
-                                    knowledge required to the communication sailors.
+                                  <td>To develop a well co-ordinate body and to make a sound
+                                    professional PT Sailors.
                                   </td>
                                   <td>English</td>
-                                  <td>Leading Radio
-                                    Operator
-                                    (Communication
-                                    Sailors)
+                                  <td>Able Seaman
                                   </td>
                                   <td>24 Weeks
                                     
@@ -390,8 +410,8 @@
                          </div>
                       </div>
                    </div>
+                     <!-- end of panel -->
                      
-                   <!-- end panel -->
                 </div>
              </div>
           </div>

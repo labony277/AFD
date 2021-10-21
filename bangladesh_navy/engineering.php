@@ -26,7 +26,7 @@
                         margin: 0;
                         color: #fff;
                         text-align: center;
-                        text-shadow: 5px 4px 5px black;">SIGNAL SCHOOL</h2>
+                        text-shadow: 5px 4px 5px black;">ENGINEERING SCHOOL</h2>
                 </div>
             </div>
 
@@ -48,17 +48,17 @@
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/2..jpg"
+                                    src="../assets/img/school/Bangladesh Navy/11.Engineering school/1. First Pic (Double Page)-min.jpg"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/3 .jpg"
+                                    src="../assets/img/school/Bangladesh Navy/11.Engineering school/3.-min.JPG"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/4.jpg"
+                                    src="../assets/img/school/Bangladesh Navy/11.Engineering school/4.-min.jpg"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -86,8 +86,9 @@
                         <div class="border mb-4 desc_box">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                             <div class="p-4 border-top">
-                                <p class="mt-2 lead">The school was established in BNS ISSA KHAN as Signal School in 1975. The role of this school is to impart training on various
-                                    aspects of Naval communication to officers and sailors of Bangladesh Navy..
+                                <p class="mt-2 lead">Engineering School provides basic and advanced training to Engineering and Shipwright branch sailors. In addition, this school
+                                    also conducts Marine Engineering Specialization Course (MESC), Acting Sub Lieutenant (Tech) Course, BRCC (E and SW) and other
+                                    special courses. Every year about 562 trainees complete different types of courses in this school.
                                 </p>
                             </div>
                         </div>
@@ -96,20 +97,42 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">Objectives of Signal
-                                    SCHOOL are as
-                                    follow:</span>
+                                <span class="lead fw-6">Objectives of Engineering School are as follow:</span>
                                 <ul class="list-unstyled mt-3">
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">1. To prepare officers and sailors for carrying out
-                                            duties of Signal Communication Officer and Signal
-                                            Communication Operator respectively on board
-                                            Bangladesh Navy ships/establishments.
+                                        <p class="mr-4 lead">1. To impart knowledge on operation and
+                                            maintenance of engineering equipment and
+                                            machinery used in the navy.
                                         </p>
                                     </li>
-
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">2. To enable the trainees to understand the
+                                            theoretical and practical aspects of naval
+                                            engineering and ship construction.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">3. To impart knowledge about life at sea.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">4. To enhance naval knowledge.
+                                        </p>
+                                    </li><li class="d-sm-flex align-items-center
+                                    border-bottom pb-3
+                                    mb-3">
+                                    <p class="mr-4 lead">5. To keep trainees physically and mentally fit to
+                                        shoulder responsibilities assigned to them.
+                                    </p>
+                                </li>
 
                                 </ul>
                             </div>
@@ -117,8 +140,8 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">To plan and conduct training on various aspects of
-                                    communication for Bangladesh Navy.</span>
+                                <span class="lead fw-6">To impart training to the technical branch officers
+                                    and sailors of Bangladesh Navy.</span>
                             </div>
                         </div>
                     </div>
@@ -250,7 +273,7 @@
                                         </div>
                                         <div class="tabs_item" style="display:
                                             none;">
-                                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.848496690452!2d91.78945731432029!3d22.28372814912891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdefdb5c91905%3A0x5e47aeb896fb1585!2sBNS%20Issa%20Khan!5e0!3m2!1sen!2sbd!4v1634604110200!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1883234.2256959062!2d91.1591196220259!3d22.795354126609986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3752ba825b22f935%3A0x16694440255859d5!2sRangamati%20Hill%20District!5e0!3m2!1sen!2sbd!4v1634791252451!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                                         </div>
                                     </div>
                                 </div>
@@ -261,7 +284,7 @@
             </div>
         </div>
     </section>
-     <!-- table -->
+    <!-- table -->
 <div class="container-fluid">
     <section class="bg_resizer">
        <div class="col-lg-12 bg-light">
@@ -281,9 +304,8 @@
                                href="#collapseOne"
                                aria-expanded="true"
                                aria-controls="collapseOne">
-                               Communication
-                               Specialisation in PWO
-                               (C) Course
+                               Marine Engineering Specialization Course (MESC)
+
                             </a>
                          </h4>
                       </div>
@@ -308,81 +330,21 @@
                                   </th>
                                </tr>
                                <tr style="text-align: center;">
-                                  <td>Communication
-                                    Specialisation in PWO
-                                    (C) Course
+                                  <td> Marine Engineering Specialization Course (MESC)
                                   </td>
-                                  <td>To impart specialized knowledge on signal communication
+                                  <td>To specialize the young officers of Engineering Branch
+                                    with sound professional and administrative knowledge to
+                                    meet the responsibilities of Engineer Officer (EO) afloat.
                                   </td>
                                   <td>English</td>
                                   <td>Lieutenant/
                                     Lieutenant
-                                    Commander of
-                                    Executive
+                                    Commander
+                                    of Engineering
                                     Branch
                                   </td>
-                                  <td>26 Weeks
+                                  <td>30 Weeks
                                      
-                                  </td>
-                                  <td>01</td>
-                               </tr>
-                            </table>
-                         </div>
-                      </div>
-                   </div>
-                   <!-- end of panel -->
-                   <div class="panel">
-                      <div class="panel-heading" role="tab"
-                         id="headingTwo">
-                         <h4 class="panel-title">
-                            <a class="collapsed" role="button"
-                               data-toggle="collapse"
-                               data-parent="#accordion"
-                               href="#collapseTwo"
-                               aria-expanded="false"
-                               aria-controls="collapseTwo">
-                               Petty Officer Radio
-                                Supervisor PORS(G)
-                               ‘Q’ Course
-                            </a>
-                         </h4>
-                      </div>
-                      <div id="collapseTwo" class="panel-collapse
-                         collapse" role="tabpanel"
-                         aria-labelledby="headingTwo">
-                         <div class="panel-body">
-                            <table border="1" style="width:100%">
-                               <tr style="text-align: center;">
-                                  <th style="width: 20%;">Name of
-                                     Courses
-                                  </th>
-                                  <th style="width: 40%;">Aim</th>
-                                  <th style="10%">Medium</th>
-                                  <th style="width: 10%;">Applicable
-                                     Rank
-                                  </th>
-                                  <th style="7%">Duration</th>
-                                  <th style="width: 10%;">Course
-                                     Conducted
-                                     in a year
-                                  </th>
-                               </tr>
-                               <tr style="text-align: center;">
-                                  <td>Petty Officer Radio
-                                    Supervisor PORS(G)
-                                    ‘Q’ Course
-                                  </td>
-                                  <td>To train personnel to impart highest professional
-                                    knowledge required to the communication sailors.
-                                  </td>
-                                  <td>English</td>
-                                  <td>Leading Radio
-                                    Operator
-                                    (Communication
-                                    Sailors)
-                                  </td>
-                                  <td>24 Weeks
-                                    
                                   </td>
                                   <td>02</td>
                                </tr>
@@ -390,8 +352,118 @@
                          </div>
                       </div>
                    </div>
-                     
-                   <!-- end panel -->
+                   <!-- end of panel -->
+                   <div class="panel">
+                    <div class="panel-heading" role="tab"
+                       id="headingTwo">
+                       <h4 class="panel-title">
+                          <a role="button" data-toggle="collapse"
+                             data-parent="#accordion"
+                             href="#collapseTwo"
+                             aria-expanded="true"
+                             aria-controls="collapseTwo">
+                             Chief Engine Room Artificer Qualifying
+                                    Course (CERA ‘Q’
+
+                          </a>
+                       </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse
+                       collapse in" role="tabpanel"
+                       aria-labelledby="headingTwo">
+                       <div class="panel-body">
+                          <table style="width:100%">
+                             <tr style="text-align: center;">
+                                <th style="width: 20%;">Name of
+                                   Courses
+                                </th>
+                                <th style="width: 40%;">Aim</th>
+                                <th style="10%">Medium</th>
+                                <th style="width: 10%;">Applicable
+                                   Rank
+                                </th>
+                                <th style="7%">Duration</th>
+                                <th style="width: 10%;">Course
+                                   Conducted
+                                   in a year
+                                </th>
+                             </tr>
+                             <tr style="text-align: center;">
+                                <td>Chief Engine Room
+                                    Artificer Qualifying
+                                    Course (CERA ‘Q’
+                                </td>
+                                <td>To enable engine room artificers to undertake the
+                                    responsibilities of Chief ERA onboard ship.
+                                </td>
+                                <td>English</td>
+                                <td>ERA-IV course
+                                    qualified
+                                </td>
+                                <td>10 Weeks
+                                   
+                                </td>
+                                <td>02</td>
+                             </tr>
+                          </table>
+                       </div>
+                    </div>
+                 </div>
+                 <!-- end of panel -->
+                 <div class="panel">
+                    <div class="panel-heading" role="tab"
+                       id="headingThree">
+                       <h4 class="panel-title">
+                          <a role="button" data-toggle="collapse"
+                             data-parent="#accordion"
+                             href="#collapseThree"
+                             aria-expanded="true"
+                             aria-controls="collapseThree">
+                             Engine Room Artificer Qualifying Course (ERA-IV ‘Q’).
+
+                          </a>
+                       </h4>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse
+                       collapse in" role="tabpanel"
+                       aria-labelledby="headingThree">
+                       <div class="panel-body">
+                          <table style="width:100%">
+                             <tr style="text-align: center;">
+                                <th style="width: 20%;">Name of
+                                   Courses
+                                </th>
+                                <th style="width: 40%;">Aim</th>
+                                <th style="10%">Medium</th>
+                                <th style="width: 10%;">Applicable
+                                   Rank
+                                </th>
+                                <th style="7%">Duration</th>
+                                <th style="width: 10%;">Course
+                                   Conducted
+                                   in a year
+                                </th>
+                             </tr>
+                             <tr style="text-align: center;">
+                                <td> Engine Room Artificer Qualifying Course (ERA-IV ‘Q’).
+                                </td>
+                                <td>To train Engine Room personnel on operation and
+                                    maintenance of ship borne machinery.
+                                </td>
+                                <td>English</td>
+                                <td>L/ME course
+                                    qualified
+                                </td>
+                                <td>62 Weeks
+                                   
+                                </td>
+                                <td>03</td>
+                             </tr>
+                          </table>
+                       </div>
+                    </div>
+                 </div>
+                 <!-- end of panel -->
                 </div>
              </div>
           </div>

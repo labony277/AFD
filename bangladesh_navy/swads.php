@@ -26,7 +26,8 @@
                         margin: 0;
                         color: #fff;
                         text-align: center;
-                        text-shadow: 5px 4px 5px black;">SIGNAL SCHOOL</h2>
+                        text-shadow: 5px 4px 5px black;">SCHOOL OF SPECIAL WARFARE & DIVING
+                        SALVAGE AND CENTRE (SWADS)</h2>
                 </div>
             </div>
 
@@ -48,17 +49,17 @@
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/2..jpg"
+                                    src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/2. Second Pic.jpg"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/3 .jpg"
+                                    src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/3..jpg"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/5.signal school/4.jpg"
+                                    src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/4 .jpg"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -86,8 +87,10 @@
                         <div class="border mb-4 desc_box">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                             <div class="p-4 border-top">
-                                <p class="mt-2 lead">The school was established in BNS ISSA KHAN as Signal School in 1975. The role of this school is to impart training on various
-                                    aspects of Naval communication to officers and sailors of Bangladesh Navy..
+                                <p class="mt-2 lead">Following the legacy of Naval Commando’s in Operation Jackpot        in      1971, Diving and Salvage School (D & S School) started its journey
+                                    in 1979. To build special operation force in Bangladesh Navy, US Operation Command, Pacific arranged a subject matter expert
+                                    exchange programme & showed a roadmap. As a result School of SWADS and Centre was inaugurated on 23 December 2008.
+                                    Finally, Special Warfare Diving and Salvage Command which is famously known as SWADS was inaugurated on 27 December 2011.
                                 </p>
                             </div>
                         </div>
@@ -96,29 +99,85 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">OBJECTIVE</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">Objectives of Signal
-                                    SCHOOL are as
-                                    follow:</span>
+                                <span class="lead fw-6">Objectives of School of SWADS are as follow:</span>
                                 <ul class="list-unstyled mt-3">
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">1. To prepare officers and sailors for carrying out
-                                            duties of Signal Communication Officer and Signal
-                                            Communication Operator respectively on board
-                                            Bangladesh Navy ships/establishments.
+                                        <p class="mr-4 lead">1. To provide training to volunteer officers & sailors for
+                                            special warfare and diving and salvage command.
                                         </p>
                                     </li>
-
-
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">2.To provide training on unconventional warfare.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">3. To conduct professional courses for diving
+                                            and commando branch sailors.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">4. To provide required training to sister services personnel.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">5.To provide required training to all members
+                                            under SWADS command to meet national crisis.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">6.To provide training on Diving Medicine and
+                                            Tactical Combat Casualty Care.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                        border-bottom pb-3
+                                        mb-3">
+                                        <p class="mr-4 lead">7.To provide training on Counter Terrorism, Anti-
+                                            Smuggling, Anti-Piracy and Fishery Protection.
+                                        </p>
+                                    </li>
+                                    <li class="d-sm-flex align-items-center
+                                    border-bottom pb-3
+                                    mb-3">
+                                    <p class="mr-4 lead">8.To provide training on Search, Neutralization and
+                                        Disposal of Explosive and Explosive Ordnance.
+                                    </p>
+                                </li>
+                                <li class="d-sm-flex align-items-center
+                                border-bottom pb-3
+                                mb-3">
+                                <p class="mr-4 lead">9.To provide training to armed forces members
+                                    of friendly countries.
+                                </p>
+                            </li>
+                            <li class="d-sm-flex align-items-center
+                            border-bottom pb-3
+                            mb-3">
+                            <p class="mr-4 lead">10.To facilitate coastal crime prevention and fisheries protection
+                            </p>
+                        </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">To plan and conduct training on various aspects of
-                                    communication for Bangladesh Navy.</span>
+                                <span class="lead fw-6">To provide special warfare, diving and salvage
+                                    training to Bangladesh Navy and other
+                                    organizations personnel to fulfill the operational
+                                    requirement of SWADS, Navy and the Nation.</span>
                             </div>
                         </div>
                     </div>
@@ -261,7 +320,7 @@
             </div>
         </div>
     </section>
-     <!-- table -->
+    <!-- table -->
 <div class="container-fluid">
     <section class="bg_resizer">
        <div class="col-lg-12 bg-light">
@@ -281,9 +340,8 @@
                                href="#collapseOne"
                                aria-expanded="true"
                                aria-controls="collapseOne">
-                               Communication
-                               Specialisation in PWO
-                               (C) Course
+                               OFFICER
+
                             </a>
                          </h4>
                       </div>
@@ -308,20 +366,18 @@
                                   </th>
                                </tr>
                                <tr style="text-align: center;">
-                                  <td>Communication
-                                    Specialisation in PWO
-                                    (C) Course
+                                  <td>Naval Commando
+                                    Basic Course (NCB)
                                   </td>
-                                  <td>To impart specialized knowledge on signal communication
+                                  <td>To impart foundation knowledge required to the Naval
+                                    Special Force.
                                   </td>
                                   <td>English</td>
-                                  <td>Lieutenant/
+                                  <td>Sub
+                                    Lieutenant/
                                     Lieutenant
-                                    Commander of
-                                    Executive
-                                    Branch
                                   </td>
-                                  <td>26 Weeks
+                                  <td>24 Weeks
                                      
                                   </td>
                                   <td>01</td>
@@ -329,6 +385,46 @@
                             </table>
                          </div>
                       </div>
+                      <div id="collapseOne" class="panel-collapse
+                      collapse in" role="tabpanel"
+                      aria-labelledby="headingOne">
+                      <div class="panel-body">
+                         <table style="width:100%">
+                            <tr style="text-align: center;">
+                               <th style="width: 20%;">Name of
+                                  Courses
+                               </th>
+                               <th style="width: 40%;">Aim</th>
+                               <th style="10%">Medium</th>
+                               <th style="width: 10%;">Applicable
+                                  Rank
+                               </th>
+                               <th style="7%">Duration</th>
+                               <th style="width: 10%;">Course
+                                  Conducted
+                                  in a year
+                               </th>
+                            </tr>
+                            <tr style="text-align: center;">
+                               <td>Basic Diving Officer
+                                (BDO) Course
+                               </td>
+                               <td>To train the officers on diving and diving supervision
+                                duties.
+                               </td>
+                               <td>English</td>
+                               <td>Sub
+                                Lieutenant/
+                                Lieutenant
+                               </td>
+                               <td>14 Weeks
+                                  
+                               </td>
+                               <td>01</td>
+                            </tr>
+                         </table>
+                      </div>
+                   </div>
                    </div>
                    <!-- end of panel -->
                    <div class="panel">
@@ -341,9 +437,7 @@
                                href="#collapseTwo"
                                aria-expanded="false"
                                aria-controls="collapseTwo">
-                               Petty Officer Radio
-                                Supervisor PORS(G)
-                               ‘Q’ Course
+                               SAILOR
                             </a>
                          </h4>
                       </div>
@@ -368,20 +462,19 @@
                                   </th>
                                </tr>
                                <tr style="text-align: center;">
-                                  <td>Petty Officer Radio
-                                    Supervisor PORS(G)
-                                    ‘Q’ Course
+                                  <td> Basic Diving &
+                                    Salvage (CD-III) ‘Q’
+                                    Course
                                   </td>
-                                  <td>To train personnel to impart highest professional
-                                    knowledge required to the communication sailors.
+                                  <td>To impart foundation knowledge to the Clearance Diver
+                                    Sailor.
                                   </td>
                                   <td>English</td>
-                                  <td>Leading Radio
-                                    Operator
-                                    (Communication
-                                    Sailors)
+                                  <td>Able Seaman/
+                                    Ordinary
+                                    Seaman
                                   </td>
-                                  <td>24 Weeks
+                                  <td>25 Weeks
                                     
                                   </td>
                                   <td>02</td>
@@ -389,9 +482,91 @@
                             </table>
                          </div>
                       </div>
+                      <div id="collapseTwo" class="panel-collapse
+                      collapse" role="tabpanel"
+                      aria-labelledby="headingTwo">
+                      <div class="panel-body">
+                         <table border="1" style="width:100%">
+                            <tr style="text-align: center;">
+                               <th style="width: 20%;">Name of
+                                  Courses
+                               </th>
+                               <th style="width: 40%;">Aim</th>
+                               <th style="10%">Medium</th>
+                               <th style="width: 10%;">Applicable
+                                  Rank
+                               </th>
+                               <th style="7%">Duration</th>
+                               <th style="width: 10%;">Course
+                                  Conducted
+                                  in a year
+                               </th>
+                            </tr>
+                            <tr style="text-align: center;">
+                               <td> Advance Diving
+                                & Salvage (CD-II)
+                                Qualifying’ Course
+                               </td>
+                               <td>To impart advanced knowledge to the Clearance Diver
+                                Sailor.
+                               </td>
+                               <td>English</td>
+                               <td>Leading/
+                                Able Seaman
+                                (CD-III course
+                                qualified)
+                               </td>
+                               <td>21 Weeks
+                                 
+                               </td>
+                               <td>01</td>
+                            </tr>
+                         </table>
+                      </div>
                    </div>
+                   <div id="collapseTwo" class="panel-collapse
+                   collapse" role="tabpanel"
+                   aria-labelledby="headingTwo">
+                   <div class="panel-body">
+                      <table border="1" style="width:100%">
+                         <tr style="text-align: center;">
+                            <th style="width: 20%;">Name of
+                               Courses
+                            </th>
+                            <th style="width: 40%;">Aim</th>
+                            <th style="10%">Medium</th>
+                            <th style="width: 10%;">Applicable
+                               Rank
+                            </th>
+                            <th style="7%">Duration</th>
+                            <th style="width: 10%;">Course
+                               Conducted
+                               in a year
+                            </th>
+                         </tr>
+                         <tr style="text-align: center;">
+                            <td>Basic Counter
+                                Terrorism Course
+                            </td>
+                            <td>To enable sailor to achieve competency to carry out any
+                                special operation against terrorism.
+                            </td>
+                            <td>English</td>
+                            <td>Officer and
+                                Sailors from
+                                Special Forces
+                            </td>
+                            <td>06 Weeks
+                              
+                            </td>
+                            <td>01</td>
+                         </tr>
+                      </table>
+                   </div>
+                </div>
+                   </div>
+                     <!-- end of panel -->
                      
-                   <!-- end panel -->
                 </div>
              </div>
           </div>

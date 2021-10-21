@@ -334,7 +334,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>Torpedo Anti
                                     Submarine
                                     Specialisation in PWO
@@ -396,7 +396,7 @@
                                      in a year
                                   </th>
                                </tr>
-                               <tr>
+                               <tr style="text-align: center;">
                                   <td>Torpedo Detector-I
                                     (TD-I) Qualifying
                                     Couse
