@@ -5,7 +5,7 @@
      <!-- start bafa -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="bangladesh_air_force/bafa.php">  <img src="assets/img/school/baf/bafa/1.jpg" alt="image"></a>
+                <a href="bangladesh_air_force/bafa.php">  <img src="assets/img/school/baf/1.BAFA/1. First Pic (Double Page).jpg" alt="image"></a>
             </div>
             <div class="member-content">
                 <h3>BANGLADESH AIR FORCE ACADEMY (BAFA)</h3>
@@ -13,7 +13,7 @@
                     Matiur Rahman, Jashore.</span>
                 <ul class="social">
                     <p>To impart basic military training to all Officer Cadets
-                        besides professional training.......</p>
+                        besides professional training........</p>
                 </ul>
                 <br>
                 <div class="others-options">
