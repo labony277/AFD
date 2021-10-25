@@ -5,7 +5,7 @@
      <!-- start bafa -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="bangladesh_air_force/bafa.php">  <img src="assets/img/school/baf/1.BAFA/1. First Pic (Double Page).jpg" alt="image"></a>
+                <a href="bangladesh_air_force/bafa.php">  <img src="assets/img/school/baf/1.BAFA/RESIZE/2.jpg" alt="image"></a>
             </div>
             <div class="member-content">
                 <h3>BANGLADESH AIR FORCE ACADEMY (BAFA)</h3>
@@ -24,14 +24,14 @@
        <!-- end bafa -->
        <div class="single-team-member services-box">
         <div class="member-image">
-            <a href="bangladesh_air_force/fis.php">  <img src="assets/img/school/baf/bafa/1.jpg" alt="image"></a>
+            <a href="bangladesh_air_force/fis.php">  <img src="assets/img/school/baf/4.FSI BAF/6 .jpg" alt="image"></a>
         </div>
         <div class="member-content">
             <h3>FLYING INSTRUCTORS' SCHOOL (FIS)</h3>
             <span><i class="fas fa-map-marker"></i>  FIS is located at Arulia, Bogura.</span>
             <ul class="social">
                 <p>To prepare 'Qualified Flying Instructor' for
-                    conducting Basic Flying Training in BAF........</p>
+                    conducting Basic Flying Training in BAF.........</p>
             </ul>
             <br>
             <div class="others-options">
@@ -42,7 +42,7 @@
        <!-- end fis -->
        <div class="single-team-member services-box">
         <div class="member-image">
-            <a href="bangladesh_air_force/hsti.php">  <img src="assets/img/school/baf/bafa/1.jpg" alt="image"></a>
+            <a href="bangladesh_air_force/hsti.php">  <img src="assets/img/school/baf/2.HSTI/resize/2.jpg" alt="image"></a>
         </div>
         <div class="member-content">
             <h3>HELICOPTER SIMULATOR TRAINING
@@ -62,16 +62,16 @@
        <!-- end hsti -->
        <div class="single-team-member services-box">
         <div class="member-image">
-            <a href="bangladesh_air_force/csti.php">  <img src="assets/img/school/baf/bafa/1.jpg" alt="image"></a>
+            <a href="bangladesh_air_force/csti.php">  <img src="assets/img/school/baf/3.CSTI BAF/resize/5.jpg" alt="image"></a>
         </div>
         <div class="member-content">
             <h3>COMMAND ANEXCELLDENCE T HSROUGHT TRAAINING FF
                 TRAINING INSTITUTE (CSTI)</h3>
-            <span><i class="fas fa-map-marker"></i> BAF Base Bashar, Dhaka
+            <span><i class="fas fa-map-marker"></i> located at BAF Base Bashar, Dhaka
                 Cantonment.</span>
             <ul class="social">
                 <p>To impart high standard training to Bangladesh
-                    Armed Forces and overseas officers for smooth........</p>
+                    Armed Forces and overseas officers for smooth.........</p>
             </ul>
             <br>
             <div class="others-options">
@@ -80,6 +80,144 @@
         </div>
     </div>
        <!-- end csti -->
+       <div class="single-team-member services-box">
+        <div class="member-image">
+            <a href="bangladesh_air_force/fsi.php">  <img src="assets/img/school/baf/4.FSI BAF/6 .jpg" alt="image"></a>
+        </div>
+        <div class="member-content">
+            <h3>FLIGHT SAFETY INSTITUTE (FSI)</h3>
+            <span><i class="fas fa-map-marker"></i> located at BAF Base Bashar, Dhaka
+                Cantonment.</span>
+            <ul class="social">
+                <p>To provide knowledge on flight safety, accident
+                    investigation and quality control inspection..........</p>
+            </ul>
+            <br>
+            <div class="others-options">
+                <a href="bangladesh_air_force/fsi.php" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+       <!-- end fsi -->
+       <div class="single-team-member services-box">
+        <div class="member-image">
+            <a href="bangladesh_air_force/ots.php">  <img src="assets/img/school/baf/5.OTS BAF/2-min.JPG" alt="image"></a>
+        </div>
+        <div class="member-content">
+            <h3>OFFICERS’ TRAINING SCHOOL (OTS)</h3>
+            <span><i class="fas fa-map-marker"></i> BAF Base Birsreshtho
+                Matiur Rahman, Jashore.</span>
+            <ul class="social">
+                <p>To provide basic professional training for officers
+                    of all the branches except GD (P), GD (N),..........</p>
+            </ul>
+            <br>
+            <div class="others-options">
+                <a href="bangladesh_air_force/ots.php" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+       <!-- end ots -->
+       <div class="single-team-member services-box">
+        <div class="member-image">
+            <a href="bangladesh_air_force/fctu.php">  <img src="assets/img/school/baf/6.FCTU BAF/resize/6.jpg" alt="image"></a>
+        </div>
+        <div class="member-content">
+            <h3>FIGHTER CONTROLLER
+                TRAINING UNIT (FCTU)</h3>
+            <span><i class="fas fa-map-marker"></i>BAF Base Bashar, Dhaka
+                Cantonment.</span>
+            <ul class="social">
+                <p>To provide professional training to BAF, overseas
+                    and sister services personnel employed in..........</p>
+            </ul>
+            <br>
+            <div class="others-options">
+                <a href="bangladesh_air_force/fctu.php" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+       <!-- end fctu -->
+       <div class="single-team-member services-box">
+        <div class="member-image">
+            <a href="bangladesh_air_force/ssi.php">  <img src="assets/img/school/baf/6.FCTU BAF/resize/6.jpg" alt="image"></a>
+        </div>
+        <div class="member-content">
+            <h3>FIGHTER CONTROLLER
+                TRAINING UNIT (FCTU)</h3>
+            <span><i class="fas fa-map-marker"></i>BAF Base Bashar, Dhaka
+                Cantonment.</span>
+            <ul class="social">
+                <p>To provide professional training to BAF, overseas
+                    and sister services personnel employed in..........</p>
+            </ul>
+            <br>
+            <div class="others-options">
+                <a href="bangladesh_air_force/ssi.php" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+       <!-- end ssi -->
+       <div class="single-team-member services-box">
+        <div class="member-image">
+            <a href="bangladesh_air_force/sats.php">  <img src="assets/img/school/baf/6.FCTU BAF/resize/6.jpg" alt="image"></a>
+        </div>
+        <div class="member-content">
+            <h3>FIGHTER CONTROLLER
+                TRAINING UNIT (FCTU)</h3>
+            <span><i class="fas fa-map-marker"></i>BAF Base Bashar, Dhaka
+                Cantonment.</span>
+            <ul class="social">
+                <p>To provide professional training to BAF, overseas
+                    and sister services personnel employed in..........</p>
+            </ul>
+            <br>
+            <div class="others-options">
+                <a href="bangladesh_air_force/sats.php" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+       <!-- end sats -->
+       <div class="single-team-member services-box">
+        <div class="member-image">
+            <a href="bangladesh_air_force/ati.php">  <img src="assets/img/school/baf/6.FCTU BAF/resize/6.jpg" alt="image"></a>
+        </div>
+        <div class="member-content">
+            <h3>FIGHTER CONTROLLER
+                TRAINING UNIT (FCTU)</h3>
+            <span><i class="fas fa-map-marker"></i>BAF Base Bashar, Dhaka
+                Cantonment.</span>
+            <ul class="social">
+                <p>To provide professional training to BAF, overseas
+                    and sister services personnel employed in..........</p>
+            </ul>
+            <br>
+            <div class="others-options">
+                <a href="bangladesh_air_force/ati.php" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+       <!-- end ati -->
+       <div class="single-team-member services-box">
+        <div class="member-image">
+            <a href="bangladesh_air_force/mtds.php">  <img src="assets/img/school/baf/6.FCTU BAF/resize/6.jpg" alt="image"></a>
+        </div>
+        <div class="member-content">
+            <h3>FIGHTER CONTROLLER
+                TRAINING UNIT (FCTU)</h3>
+            <span><i class="fas fa-map-marker"></i>BAF Base Bashar, Dhaka
+                Cantonment.</span>
+            <ul class="social">
+                <p>To provide professional training to BAF, overseas
+                    and sister services personnel employed in..........</p>
+            </ul>
+            <br>
+            <div class="others-options">
+                <a href="bangladesh_air_force/mtds.php" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+       <!-- end mtds -->
 
         <!-- <div class="col-lg-12 col-md-12">
             <div class="pagination-area">
