@@ -171,18 +171,18 @@
                                            owl-carousel owl-theme">
                                            <div class="single-tv-show">
                                               <img
-                                                 src="../assets/img/school/Bangladesh Navy/1.bna/resize/2.jpg"
+                                                 src="../assets/img/school/Bangladesh Navy/2.gunnery/resize/1.jpg"
                                                  alt="image">
                                               <a
-                                                 href="../assets/img/school/Bangladesh Navy/1.bna/resize/2.jpg"
+                                                 href="../assets/img/school/Bangladesh Navy/2.gunnery/resize/1.jpg"
                                                  class="popup-youtube"></a>
                                            </div>
                                            <div class="single-tv-show">
                                               <img
-                                                 src="../assets/img/school/Bangladesh Navy/1.bna/resize/3.jpg"
+                                                 src="../assets/img/school/Bangladesh Navy/2.gunnery/resize/2.jpg"
                                                  alt="image">
                                               <a
-                                                 href="../assets/img/school/Bangladesh Navy/1.bna/resize/3.jpg"
+                                                 href="../assets/img/school/Bangladesh Navy/2.gunnery/resize/2.jpg"
                                                  class="popup-youtube"></a>
                                            </div>
                                           
@@ -191,18 +191,18 @@
                                            owl-carousel owl-theme">
                                            <div class="single-tv-show">
                                               <img
-                                                 src="../assets/img/school/Bangladesh Navy/1.bna/resize/4.jpg"
+                                                 src="../assets/img/school/Bangladesh Navy/2.gunnery/resize/3.jpg"
                                                  alt="image">
                                               <a
-                                                 href="../assets/img/school/Bangladesh Navy/1.bna/resize/4.jpg"
+                                                 href="../assets/img/school/Bangladesh Navy/2.gunnery/resize/3.jpg"
                                                  class="popup-youtube"></a>
                                            </div>
                                           <div class="single-tv-show">
                                               <img
-                                                 src="../assets/img/school/Bangladesh Navy/1.bna/resize/5.jpg"
+                                                 src="../assets/img/school/Bangladesh Navy/2.gunnery/resize/4.jpg"
                                                  alt="image">
                                               <a
-                                                 href="../assets/img/school/Bangladesh Navy/1.bna/resize/5.jpg"
+                                                 href="../assets/img/school/Bangladesh Navy/2.gunnery/resize/4.jpg"
                                                  class="popup-youtube"></a>
                                            </div>
                                            
@@ -212,18 +212,18 @@
                                           
                                            <div class="single-tv-show">
                                               <img
-                                                 src="../assets/img/school/Bangladesh Navy/1.bna/resize/8.jpg"
+                                                 src="../assets/img/school/Bangladesh Navy/2.gunnery/resize/7.jpg"
                                                  alt="image">
                                               <a
-                                                 href="../assets/img/school/Bangladesh Navy/1.bna/resize/8.jpg"
+                                                 href="../assets/img/school/Bangladesh Navy/2.gunnery/resize/7.jpg"
                                                  class="popup-youtube"></a>
                                            </div>
                                            <div class="single-tv-show">
                                               <img
-                                                 src="../assets/img/school/Bangladesh Navy/1.bna/resize/2.jpg"
+                                                 src="../assets/img/school/Bangladesh Navy/2.gunnery/resize/1.jpg"
                                                  alt="image">
                                               <a
-                                                 href="../assets/img/school/Bangladesh Navy/1.bna/resize/2.jpg"
+                                                 href="../assets/img/school/Bangladesh Navy/2.gunnery/resize/1.jpg"
                                                  class="popup-youtube"></a>
                                            </div> 
                                         </div>
