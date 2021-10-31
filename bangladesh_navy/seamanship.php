@@ -139,109 +139,75 @@
                                 <div class="col-lg-12 col-md-12">
                                     <div class="tab_content desc_box">
                                         <div class="tabs_item" style="display:
-                                            block; width: 100%;">
-                                            <div class="tv-show-slides
-                                                owl-carousel owl-theme">
-                                                <div class="single-tv-show">
-                                                    <img
-                                                        src="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/8..jpg"
-                                                        alt="image">
-                                                    <a
-                                                        href="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/8..jpg"
-                                                        class="popup-youtube"></a>
-                                                </div>
-                                                <div class="single-tv-show">
-                                                    <img
-                                                        src="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/5..jpg"
-                                                        alt="image">
-                                                    <a
-                                                        href="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/5..jpg"
-                                                        class="popup-youtube"></a>
-                                                </div>
-                                                <!-- <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/Bangladesh Navy/1.bna/3..jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/Bangladesh Navy/1.bna/3..jpg"
-                                      class="popup-youtube"></a>
-                                </div> -->
-                                            </div>
-                                            <div class="tv-show-slides
-                                                owl-carousel owl-theme">
-                                                <div class="single-tv-show">
-                                                    <img
-                                                        src="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/6..jpg"
-                                                        alt="image">
-                                                    <a
-                                                        href="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/6..jpg"
-                                                        class="popup-youtube"></a>
-                                                </div>
-                                                <div class="single-tv-show">
-                                                    <img
-                                                        src="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/3..jpg"
-                                                        alt="image">
-                                                    <a
-                                                        href="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/3..jpg"
-                                                        class="popup-youtube"></a>
-                                                </div>
-
-                                            </div>
-                                            <div class="tv-show-slides
-                                                owl-carousel owl-theme">
-                                                <div class="single-tv-show">
-                                                    <img
-                                                        src="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/4..jpg"
-                                                        alt="image">
-                                                    <a
-                                                        href="../assets/img/schoolBangladesh
-                                                        Navy/1.bna/4..jpg"
-                                                        class="popup-youtube"></a>
-                                                </div>
-                                                <div class="single-tv-show">
-                                                    <img
-                                                        src="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/2. Second
-                                                        Pic.jpg"
-                                                        alt="image">
-                                                    <a
-                                                        href="../assets/img/school/Bangladesh
-                                                        Navy/1.bna/2. Second
-                                                        Pic.jpgg"
-                                                        class="popup-youtube"></a>
-                                                </div>
-                                                <!-- <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/bma/7.jpeg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/bma/7.jpeg"
-                                      class="popup-youtube"></a>
-                                </div> -->
-                                            </div>
+                                        block; width: 100%;">
+                                        <div class="tv-show-slides
+                                           owl-carousel owl-theme">
+                                           <div class="single-tv-show">
+                                              <img
+                                                 src="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/1.jpg"
+                                                 alt="image">
+                                              <a
+                                                 href="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/1.jpg"
+                                                 class="popup-youtube"></a>
+                                           </div>
+                                           <div class="single-tv-show">
+                                              <img
+                                                 src="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/2.jpg"
+                                                 alt="image">
+                                              <a
+                                                 href="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/2.jpg"
+                                                 class="popup-youtube"></a>
+                                           </div>
+                                          
                                         </div>
-                                        <div class="tabs_item" style="display:
-                                            none;">
-                                            <video width="100%" height="240"
-                                                controls="">
-                                                <source
-                                                    src="img/properties/bma/bma_video.mp4"
-                                                    type="video/mp4">
-                                                <source src="movie.ogg"
-                                                    type="video/ogg">
-                                                Your browser does not support
-                                                the video tag.
-                                            </video>
+                                        <div class="tv-show-slides
+                                           owl-carousel owl-theme">
+                                           <div class="single-tv-show">
+                                              <img
+                                                 src="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/3.jpg"
+                                                 alt="image">
+                                              <a
+                                                 href="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/3.jpg"
+                                                 class="popup-youtube"></a>
+                                           </div>
+                                          <div class="single-tv-show">
+                                              <img
+                                                 src="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/4.jpg"
+                                                 alt="image">
+                                              <a
+                                                 href="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/4.jpg"
+                                                 class="popup-youtube"></a>
+                                           </div>
+                                           
                                         </div>
+                                        <div class="tv-show-slides
+                                           owl-carousel owl-theme">
+                                          
+                                           <div class="single-tv-show">
+                                              <img
+                                                 src="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/5.jpg"
+                                                 alt="image">
+                                              <a
+                                                 href="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/5.jpg"
+                                                 class="popup-youtube"></a>
+                                           </div>
+                                           <div class="single-tv-show">
+                                              <img
+                                                 src="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/1.jpg"
+                                                 alt="image">
+                                              <a
+                                                 href="../assets/img/school/Bangladesh Navy/10.seamanship school/resize/1.jpg"
+                                                 class="popup-youtube"></a>
+                                           </div> 
+                                        </div>
+                                     </div>
+                                       <!-- video -->
+                          <div class="tabs_item" style="display:
+                          none;">
+                        
+                        <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                       </div>
+                                        <!-- map -->
                                         <div class="tabs_item" style="display:
                                             none;">
                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1883234.2256959062!2d91.1591196220259!3d22.795354126609986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3752ba825b22f935%3A0x16694440255859d5!2sRangamati%20Hill%20District!5e0!3m2!1sen!2sbd!4v1634791252451!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
