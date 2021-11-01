@@ -62,11 +62,11 @@
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">Corps of Military Police Centre and School (CMPC&S) was formally raised on 01 December 1990 at Ghatail Cantonment. Having
-                        passed about two years at different places of Ghatall Cantonment. On 01 January 2008, Corps of Military Police Centre and School
-                        was renamed as Centre & School of Military Police Education & Administration (CSMEA). On 05 October 2017, Corps of Military
-                        Police Centre and School was shifted to its present location at Savar Cantonment. This institution achieved prestigious National
-                        ‘Standard from Honourable Prime Minister on 23 November 2017.
+                     <p class="mt-2 lead">Crops of Military Police Centre and School (CMPC&S) was formally raised on 01 December 1990 at Ghatail Cantonment. It was unified
+with Army School of Education and Administration (ASEA) on 01 January 2008 as Centre and School of Military Police Education
+and Administration (CSMEA). On 25 September 2011, It continue functioning as separate institution. On 05 October 2017, It shifted
+to its present location as Corps of Military Police Centre and School (CMPC&S). This institution achieved national standard on 23
+November 2017.
                      </p>
                   </div>
                </div>
@@ -80,31 +80,34 @@
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">1. Impart Corps of Military Police Basic/conversion
-                            training to new trainees of various arms/
-                            services and recruits.
+                           <p class="mr-4 lead">1. To impart Corps of Military Police basic/
+conversion training to new trainees of various
+arms/services and recruits.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">2. Conduct Trade Training for All Corps of Military
-                            Police persons (ATT).
+                           <p class="mr-4 lead">2. To conduct trade training for all Military Police
+persons.
                             
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">3. impart basic provost training to other sister
-                            services provost persons including other
-                            agencies.
+                           <p class="mr-4 lead">3. To impart basic provost training to other sister
+services provost persons including other
+agencies.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                         border-bottom pb-3
                         mb-3">
-                        <p class="mr-4 lead">3. Impart Mechanical Transport, Mechanical Transport driving and vehicle Maintain Cadre for all ranks of Mechanical Transport.
+                        <p class="mr-4 lead">4. To impart Mechanical Transport training,
+Mechanical Transport driving and Vehicle
+Maintain Cadre for all ranks of Mechanical
+Transport.
                    
                         </p>
                      </li>
@@ -115,9 +118,9 @@
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                   <div class="p-4 border-top desc_box">
                      <span class="lead fw-6">
-                        To provide all types of provost training, conduct
-                        promotion and function of records for all ranks of
-                        Corps of Military Police.</span>
+                     To provide all types of provost training, conduct
+promotion and function of records for all ranks of
+Corps of Military Police.</span>
                   </div>
                </div>
             </div>
@@ -273,7 +276,8 @@
                               href="#collapseOne"
                               aria-expanded="true"
                               aria-controls="collapseOne">
-                              Officers’ Military Police Course
+                              Officers’ Military
+Police Course
                            </a>
                         </h4>
                      </div>
@@ -282,22 +286,22 @@
                         aria-labelledby="headingOne">
                         <div class="panel-body">
                            <table style="width:100%">
-                              <tr>
-                                 <th>Name of
+                           <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
                                     Courses
                                  </th>
-                                 <th>Aim</th>
-                                 <th>Medium</th>
-                                 <th>Applicable
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
                                     Rank
                                  </th>
-                                 <th>Duration</th>
-                                 <th>Course
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
                                     Conducted
                                     in a year
                                  </th>
                               </tr>
-                              <tr>
+                              <tr style="text-align: center;">
                                  <td>Officers’ Military Police Course
                                  </td>
                                  <td>To provide selected officers with the basic special
@@ -308,7 +312,7 @@
                                  <td>Captain/Major
                                  </td>
                                  <td>12 Week
-                                    (184 days/3 Months)
+                                    
                                  </td>
                                  <td>01</td>
                               </tr>

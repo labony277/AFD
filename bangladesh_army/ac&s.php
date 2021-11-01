@@ -70,15 +70,9 @@
                         <div class="border mb-4 desc_box">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                             <div class="p-4 border-top">
-                                <p class="mt-2 lead">School of Artillery
-                                    provides training to all officers,selected
-                                    Junior Commissioned and non Commissioned
-                                    Officers of the regiment of Artillery both
-                                    at basic and advance gunnery level.This is
-                                    the nerve center of all Artillery
-                                    Training.The glorious journey of the school
-                                    of Artillery started in the month of March
-                                    1974 in Jashore Cantonment.
+                                <p class="mt-2 lead">The glorious journey of the School of Artillery started in the month of March 1974 in Jashore Cantonment. School of Artillery
+                                provides training to all officers, selected Junior Commissioned and Non Commissioned Officers of the regiment of Artillery both at
+                                basic and advance gunnery level.
                                 </p>
                             </div>
                         </div>
@@ -96,10 +90,8 @@
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">1. To impart
-                                            lessons on basic and, advance
-                                            gunnery, survey, locating and target
-                                            acquisition.</p>
+                                        <p class="mr-4 lead">1. To impart lessons on basic and advance
+                                       gunnery, survey, locating and target acquisition.</p>
                                     </li>
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
@@ -127,11 +119,10 @@
                         <div class="border mb-4">
                             <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                             <div class="p-4 border-top desc_box">
-                                <span class="lead fw-6">‘The School of Artilery.
-                                    The aim of School of Arty is to train junior and mid-level
-                                    officers with a view to making them proficient on basic
-                                    and advance gunnery, tactics, command,
-                                    leadership and management.
+                                <span class="lead fw-6">The aim of School of Artillery is to train junior and
+                                mid-level officers with a view to making them
+                                proficient on basic and advance gunnery, tactics,
+                                command, leadership and management.
 
                                 </span>
                             </div>
@@ -306,40 +297,34 @@
                                     aria-labelledby="headingOne">
                                     <div class="panel-body">
                                         <table style="width:100%">
-                                            <tr>
-                                                <th>Name of
-                                                    Courses
-                                                </th>
-                                                <th>Aim</th>
-                                                <th>Medium</th>
-                                                <th>Applicable
-                                                    Rank
-                                                </th>
-                                                <th>Duration</th>
-                                                <th>Course
-                                                    Conducted
-                                                    in a year
-                                                </th>
-
-                                            </tr>
-                                            <tr>
+                                        <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                                            <tr style="text-align: center;">
                                                 <td> Officers Gunnery Staff
                                                     Course (Air Defence)</td>
-                                                <td> To train selected officers
-                                                    to be qualified as
-                                                    instructor Gunnery, staff
-                                                    officers of various
-                                                    Headquarters and Commanding
-                                                    Officer of field / medium
-                                                    regiment or Officer
-                                                    Commanding of locating
-                                                    battery</td>
+                                                <td> To train selected officers to be qualified as Instructor
+                                                Gunnery, staff officers of various Headquarters and
+                                                Commanding Officer of field / medium regiment or Officer
+                                                Commanding of locating battery.</td>
 
                                                 <td>English</td>
 
                                                 <td>Captain/Major</td>
 
-                                                <td>40 Week (280day/10months)</td>
+                                                <td>40 WeekS</td>
                                                 <td>01</td>
 
                                             </tr>
@@ -369,38 +354,35 @@
                                     aria-labelledby="headingTwo">
                                     <div class="panel-body">
                                         <table border="1" style="width:100%">
-                                            <tr>
-                                                <th>Name of
-                                                    Courses
-                                                </th>
-                                                <th>Aim</th>
-                                                <th>Medium</th>
-                                                <th>Applicable
-                                                    Rank
-                                                </th>
-                                                <th>Duration</th>
-                                                <th>Course
-                                                    Conducted
-                                                    in a year
-                                                </th>
-
-                                            </tr>
-                                            <tr>
+                                        <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                                            <tr style="text-align: center;">
                                                 <td> Officers Basic Course
                                                     (AirDefence)</td>
 
-                                                <td> To train newly commissioned
-                                                    officers of air defence
-                                                    branch of the Regiment of
-                                                    Artillery on
-                                                    equipment,drill,procedures
-                                                    and tactical doctrine of air
-                                                    defence artillery regiment.</td>
+                                                <td> To train newly commissioned officers of air defence
+                                                branch of the Regiment of Artillery on equipment, drill,
+                                                procedures and tactical doctrine of air defence artillery
+                                                regiment.</td>
                                                 <td>English</td>
 
-                                                <td>Lieutenant/Major</td>
+                                                <td>Lieutenant/
+                                                 Captain</td>
 
-                                                <td>24 Week (168days/6months)</td>
+                                                <td>24 Weeks</td>
                                                 <td>01</td>
 
                                             </tr>
@@ -428,23 +410,22 @@
                                     aria-labelledby="headingTwo">
                                     <div class="panel-body">
                                         <table border="1" style="width:100%">
-                                            <tr>
-                                                <th>Name of
-                                                    Courses
-                                                </th>
-                                                <th>Aim</th>
-                                                <th>Medium</th>
-                                                <th>Applicable
-                                                    Rank
-                                                </th>
-                                                <th>Duration</th>
-                                                <th>Course
-                                                    Conducted
-                                                    in a year
-                                                </th>
-
-                                            </tr>
-                                            <tr>
+                                        <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                                            <tr style="text-align: center;">
                                                 <td> Officers’ Basic Course
                                                     (Field)</td>
 
@@ -460,7 +441,7 @@
 
                                                 <td>Lieutenant/Captain</td>
 
-                                                <td>24 Week (168days/6months)</td>
+                                                <td>24 Weeks</td>
                                                 <td>01</td>
 
                                             </tr>
@@ -488,23 +469,22 @@
                                     aria-labelledby="headingTwo">
                                     <div class="panel-body">
                                         <table border="1" style="width:100%">
-                                            <tr>
-                                                <th>Name of
-                                                    Courses
-                                                </th>
-                                                <th>Aim</th>
-                                                <th>Medium</th>
-                                                <th>Applicable
-                                                    Rank
-                                                </th>
-                                                <th>Duration</th>
-                                                <th>Course
-                                                    Conducted
-                                                    in a year
-                                                </th>
-
-                                            </tr>
-                                            <tr>
+                                        <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                                            <tr style="text-align: center;">
                                                 <td> Mid Career Course (Field)</td>
                                                 <td> To prepare mid-level
                                                     officers as effective
@@ -516,9 +496,10 @@
                                                     training establishments</td>
                                                 <td>English</td>
 
-                                                <td>Captain/Major</td>
+                                                <td>Lieutenant/
+                                                 Captain</td>
 
-                                                <td>8 Week (56days/2months)</td>
+                                                <td>8 Weeks</td>
                                                 <td>01</td>
 
                                             </tr>

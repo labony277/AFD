@@ -4,9 +4,8 @@
       <div class="row justify-content-center">
          <div class="col-1">
             <div class="logo" style="text-align: center">
-               <img
-                  src="../assets/img/school/BA/7.  ASCC&S/l15-removebg-preview.png"
-                  alt="logo" style="max-width: 160px">
+               <img src="../assets/img/school/BA/7.  ASCC&S/l15-removebg-preview.png" alt="logo"
+                  style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
@@ -21,39 +20,26 @@
       justify">
       <div class="row">
          <div class="col-md-7 col-lg-12">
-            <div id="carouselExampleControls" class="carousel slide mt-3"
-               data-ride="carousel">
+            <div id="carouselExampleControls" class="carousel slide mt-3" data-ride="carousel">
                <div class="carousel-inner">
                   <div class="carousel-item active" style="height:
                      500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/BA/7.  ASCC&S/2. .jpg"
-                        alt="First slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/7.  ASCC&S/2. .jpg" alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/BA/7.  ASCC&S/5.jpg"
-                        alt="Second slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/7.  ASCC&S/5.jpg" alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/BA/7.  ASCC&S/6 .jpg"
-                        alt="Third slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/7.  ASCC&S/6 .jpg" alt="Third slide">
                   </div>
                </div>
-               <a class="carousel-control-prev"
-                  href="#carouselExampleControls" role="button"
-                  data-slide="prev">
-               <span class="carousel-control-prev-icon"
-                  aria-hidden="true"></span>
-               <span class="sr-only">Previous</span>
+               <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
                </a>
-               <a class="carousel-control-next"
-                  href="#carouselExampleControls" role="button"
-                  data-slide="next">
-               <span class="carousel-control-next-icon"
-                  aria-hidden="true"></span>
-               <span class="sr-only">Next</span>
+               <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
                </a>
             </div>
          </div>
@@ -64,9 +50,12 @@
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">Army Service Corps Centre and School (ASCC&S) was organized and raised on 16 December 1976 from "ASC Base Unit” in Dhaka
-                        Cantonment. It was shifted to its present location which is known as Jahanabad Cantonment. Army Service Corps Centre and
-                        School is comprised of four basic wings namely Army Service Corps School, Training Battalion, Army Service Corps Records and Administrative Wing.
+                     <p class="mt-2 lead">Army Service Corps Centre and School (ASCC&S) was organized and raised on 16
+                        December 1976 from “ASC Base Unit” in Dhaka
+                        Cantonment. It was shifted to its present location at Jahanabad Cantonment. Army Service Corps
+                        Centre and School is comprised
+                        of four basic wings namely Army Service Corps School, Training Battalion, Army Service Corps
+                        Records and Administrative Wing.
                      </p>
                   </div>
                </div>
@@ -80,29 +69,29 @@
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">1. Provide basic training to the newly
-                            commissioned officers of Army Service Corps.
+                           <p class="mr-4 lead">1.To Provide basic training to the newly
+                              commissioned officers of Army Service Corps.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">2. Conduct Sergeants’ Course and Warrant
-                            Officers’ Course.
+                           <p class="mr-4 lead">2.To Conduct Sergeants’ Course and Warrant
+                              Officers’ Course.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">3. Train drivers of infantry, Army Medical Corps
-                            and Military Police.
+                           <p class="mr-4 lead">3.To Train drivers of infantry, Army Medical Corps
+                              and Military Police.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">4. Conduct Catering Courses for the cook of all
-                            arms/services.
+                           <p class="mr-4 lead">4.To Conduct Catering Courses for the cook of all
+                              arms/services.
                            </p>
                         </li>
                      </ul>
@@ -111,10 +100,9 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">The aim of Army Service Corps Centre and School
-                        is to train officers’ and soldiers of Army Service
-                        Corp of Bangladesh Army to meet the combat
-                        support task both in peace and war.</span>
+                     <span class="lead fw-6">To train officers’ and soldiers of Army Service Corp
+                        of Bangladesh Army to meet the combat support
+                        task both in peace and war.</span>
                   </div>
                </div>
             </div>
@@ -124,15 +112,15 @@
                      <div class="col-lg-12 col-md-12">
                         <ul class="tabs active">
                            <li class="current"><a href="#">
-                              Gallery
+                                 Gallery
                               </a>
                            </li>
                            <li class=""><a href="#">
-                              Video
+                                 Video
                               </a>
                            </li>
                            <li class=""><a href="#">
-                              Map
+                                 Map
                               </a>
                            </li>
                         </ul>
@@ -144,101 +132,63 @@
                               <div class="tv-show-slides
                                  owl-carousel owl-theme">
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/3.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/3.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/4.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/4.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/7.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/7.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
                                  </div>
                               </div>
                               <div class="tv-show-slides
                                  owl-carousel owl-theme">
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/5.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/5.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/5.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/5.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/2.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/2.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/3.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/3.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
                                  </div>
                               </div>
                               <div class="tv-show-slides
                                  owl-carousel owl-theme">
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/2.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/2.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/4.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/4.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/7.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/7.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
                                  </div>
                               </div>
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
-                              <video width="100%" height="240"
-                                 controls="">
-                                 <source
-                                    src="img/properties/bma/bma_video.mp4"
-                                    type="video/mp4">
-                                 <source src="movie.ogg"
-                                    type="video/ogg">
+                              <video width="100%" height="240" controls="">
+                                 <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
+                                 <source src="movie.ogg" type="video/ogg">
                                  Your browser does not support
                                  the video tag.
                               </video>
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
-                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.732285860752!2d89.49666471409094!3d22.92324328500346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff996fab77a73f%3A0x2286abac6ee79961!2sASC%20Centre%20%26%20School!5e0!3m2!1sen!2sbd!4v1633421959471!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                              <iframe
+                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.732285860752!2d89.49666471409094!3d22.92324328500346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff996fab77a73f%3A0x2286abac6ee79961!2sASC%20Centre%20%26%20School!5e0!3m2!1sen!2sbd!4v1633421959471!5m2!1sen!2sbd"
+                                 width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                            </div>
                         </div>
                      </div>
@@ -257,55 +207,51 @@
          </h6>
          <div class="p-4 border-top">
             <div class="accordion" id="accordion">
-               <div class="panel-group wrap" id="accordion"
-                  role="tablist" aria-multiselectable="true">
+               <div class="panel-group wrap" id="accordion" role="tablist" aria-multiselectable="true">
                   <div class="panel">
-                     <div class="panel-heading" role="tab"
-                        id="headingOne">
+                     <div class="panel-heading" role="tab" id="headingOne">
                         <h4 class="panel-title">
-                           <a role="button" data-toggle="collapse"
-                              data-parent="#accordion"
-                              href="#collapseOne"
-                              aria-expanded="true"
-                              aria-controls="collapseOne">
-                           OFFICER
+                           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
+                              aria-expanded="true" aria-controls="collapseOne">
+                              OFFICER
                            </a>
                         </h4>
                      </div>
                      <div id="collapseOne" class="panel-collapse
-                        collapse in" role="tabpanel"
-                        aria-labelledby="headingOne">
+                        collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                            <table style="width:100%">
-                              <tr>
-                                 <th>Name of
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
                                     Courses
                                  </th>
-                                 <th>Aim</th>
-                                 <th>Medium</th>
-                                 <th>Applicable
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
                                     Rank
                                  </th>
-                                 <th>Duration</th>
-                                 <th>Course
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
                                     Conducted
                                     in a year
                                  </th>
                               </tr>
-                              <tr>
-                                 <td>Officers Basic Course (Army Supply Corps) 
+                              <tr style="text-align: center;">
+                                 <td>Officers Basic Course
                                  </td>
-                                 <td>To train newly commissioned Officers of Army Service  Corps on essential professional subjects and prepare them as capable and effective members of ASC to perform assigned duties and responsibilities in the unit.
+                                 <td>To train newly commissioned Officers of Army Service Corps on essential
+                                    professional subjects and prepare them as capable and effective members of ASC to
+                                    perform assigned duties and responsibilities in the unit.
                                  </td>
                                  <td>English</td>
                                  <td>Lieutenant
                                  </td>
                                  <td>224 week
-                                    (168days/6 Months)
+
                                  </td>
                                  <td>01</td>
                               </tr>
-                              
+
                            </table>
                         </div>
                      </div>
@@ -320,32 +266,32 @@
 <?php include '../footer.php'; ?>
 <script>
    $('.owl-carousel').owlCarousel({
-       loop: false,
-       dots: false,
-       // margin:10,
-       nav: false,
-       responsive: {
-           0: {
-               items: 1
-           },
-           600: {
-               items: 2
-           },
-           1000: {
-               items: 2
-           }
-       }
+      loop: false,
+      dots: false,
+      // margin:10,
+      nav: false,
+      responsive: {
+         0: {
+            items: 1
+         },
+         600: {
+            items: 2
+         },
+         1000: {
+            items: 2
+         }
+      }
    })
-   
-   
+
+
    $(document).ready(function () {
-       $('.collapse.in').prev('.panel-heading').addClass('active');
-       $('#accordion, #bs-collapse')
-           .on('show.bs.collapse', function (a) {
-               $(a.target).prev('.panel-heading').addClass('active');
-           })
-           .on('hide.bs.collapse', function (a) {
-               $(a.target).prev('.panel-heading').removeClass('active');
-           });
+      $('.collapse.in').prev('.panel-heading').addClass('active');
+      $('#accordion, #bs-collapse')
+         .on('show.bs.collapse', function (a) {
+            $(a.target).prev('.panel-heading').addClass('active');
+         })
+         .on('hide.bs.collapse', function (a) {
+            $(a.target).prev('.panel-heading').removeClass('active');
+         });
    });
 </script>

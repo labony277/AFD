@@ -4,9 +4,7 @@
       <div class="row justify-content-center">
          <div class="col-1">
             <div class="logo" style="text-align: center">
-               <img
-                  src="../assets/img/school/BA/6. SI&T/l12-removebg-preview.png"
-                  alt="logo" style="max-width: 160px">
+               <img src="../assets/img/school/BA/6. SI&T/l12-removebg-preview.png" alt="logo" style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
@@ -21,39 +19,26 @@
       justify">
       <div class="row">
          <div class="col-md-7 col-lg-12">
-            <div id="carouselExampleControls" class="carousel slide mt-3"
-               data-ride="carousel">
+            <div id="carouselExampleControls" class="carousel slide mt-3" data-ride="carousel">
                <div class="carousel-inner">
                   <div class="carousel-item active" style="height:
                      500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/BA/6. SI&T/2 .jpg"
-                        alt="First slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/6. SI&T/2 .jpg" alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/BA/6. SI&T/5 .jpg"
-                        alt="Second slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/6. SI&T/5 .jpg" alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/BA/6. SI&T/6.jpg"
-                        alt="Third slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/6. SI&T/6.jpg" alt="Third slide">
                   </div>
                </div>
-               <a class="carousel-control-prev"
-                  href="#carouselExampleControls" role="button"
-                  data-slide="prev">
-               <span class="carousel-control-prev-icon"
-                  aria-hidden="true"></span>
-               <span class="sr-only">Previous</span>
+               <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
                </a>
-               <a class="carousel-control-next"
-                  href="#carouselExampleControls" role="button"
-                  data-slide="next">
-               <span class="carousel-control-next-icon"
-                  aria-hidden="true"></span>
-               <span class="sr-only">Next</span>
+               <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
                </a>
             </div>
          </div>
@@ -64,7 +49,15 @@
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">School of Infantry and Tactics (S18) is called the ‘Home of Infantry’. It was raised on 19 March 1973 with Weapon Wing only in the name of ‘School of Infantry’ at Cumilla Cantonment. Later in 1974 the school was relocated at Jashore Cantonment. On 21 January 1974, Tactics Wing was raised and the school was renamed as ‘School of Infantry and Tactics’. In 1982, Special Warfare School was merged as one of the wings named Special Warfare Wing to its organogram. One enters into the School with the motto ‘Learn to Lead’. The ‘Bayonet’ mural placed at the main gate resembles the excellence and dignity of Infantry.
+                     <p class="mt-2 lead">School of Infantry and Tactics (SI&T) is known as the ‘Home of Infantry’. It
+                        was raised on 19 March 1973 with Weapon Wing only in
+                        the name of ‘School of Infantry’ at Cumilla Cantonment. Later, in 1974 the school was relocated
+                        at Jalalabad Cantonment. On 21
+                        January 1974, Tactics Wing was raised and the school was renamed as ‘School of Infantry and
+                        Tactics’. In 1982, Special Warfare
+                        School was merged as one of the wings named Special Warfare Wing to its organogram. The
+                        ‘Bayonet’ mural placed at the main
+                        gate resembles the excellence and dignity of Infantry.
                      </p>
                   </div>
                </div>
@@ -79,60 +72,60 @@
                            border-bottom pb-3
                            mb-3">
                            <p class="mr-4 lead">1. To train potential battalion / regiment
-                            commanders of all arms and services in tactics
-                            and handling of troops in the field.
+                              commanders of all arms and services in tactics
+                              and handling of troops in the field.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
                            <p class="mr-4 lead">2. To train young Officers of all arms and services
-                            as instructors in small arms and in infantry
-                            tactics to enable them to command sub-units
-                            in the field.
+                              as instructors in small arms and in infantry
+                              tactics to enable them to command sub-units
+                              in the field.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
                            <p class="mr-4 lead">3. Totrain Officers/Junior Commissioned Officers
-                            Non Commissioned Officers of all arms and
-                            services as instructors in commando tactics
-                            and counter insurgency warfare including
-                            parachute training.
+                              Non Commissioned Officers of all arms and
+                              services as instructors in commando tactics
+                              and counter insurgency warfare including
+                              parachute training.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
                            <p class="mr-4 lead">4. To train Officers i Junior Commissioned
-                            Officers | Non Commissioned Officers of
-                            infantry as instructors in infantry heavy
-                            weapons including Anti-Tank Guided Missile.
-                            
+                              Officers | Non Commissioned Officers of
+                              infantry as instructors in infantry heavy
+                              weapons including Anti-Tank Guided Missile.
+
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
                            <p class="mr-4 lead">5. To train Junior Commissioned Officers / Non
-                            Commissioned Officers of infantry in tactics
-                            and platoon leading.
+                              Commissioned Officers of infantry in tactics
+                              and platoon leading.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
                            <p class="mr-4 lead">6. To impart specialized military training to
-                            personnel of Bangladesh Army including
-                            sister services, overseas students and para
-                            military forces.
+                              personnel of Bangladesh Army including
+                              sister services, overseas students and para
+                              military forces.
                            </p>
                         </li>
                      </ul>
                   </div>
                </div>
-               
+
             </div>
             <div class="col-lg-4 col-md-12">
                <div class="tab products-details-tab">
@@ -140,15 +133,15 @@
                      <div class="col-lg-12 col-md-12">
                         <ul class="tabs active">
                            <li class="current"><a href="#">
-                              Gallery
+                                 Gallery
                               </a>
                            </li>
                            <li class=""><a href="#">
-                              Video
+                                 Video
                               </a>
                            </li>
                            <li class=""><a href="#">
-                              Map
+                                 Map
                               </a>
                            </li>
                         </ul>
@@ -160,101 +153,63 @@
                               <div class="tv-show-slides
                                  owl-carousel owl-theme">
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/3.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/3.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/4.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/4.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/7.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/7.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
                                  </div>
                               </div>
                               <div class="tv-show-slides
                                  owl-carousel owl-theme">
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/5.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/5.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/5.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/5.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/2.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/2.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/3.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/3.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
                                  </div>
                               </div>
                               <div class="tv-show-slides
                                  owl-carousel owl-theme">
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/2.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/2.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/4.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/4.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
                                  </div>
                                  <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/7.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/7.jpeg"
-                                       class="popup-youtube"></a>
+                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
+                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
                                  </div>
                               </div>
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
-                              <video width="100%" height="240"
-                                 controls="">
-                                 <source
-                                    src="img/properties/bma/bma_video.mp4"
-                                    type="video/mp4">
-                                 <source src="movie.ogg"
-                                    type="video/ogg">
+                              <video width="100%" height="240" controls="">
+                                 <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
+                                 <source src="movie.ogg" type="video/ogg">
                                  Your browser does not support
                                  the video tag.
                               </video>
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
-                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3617.8067255274373!2d91.98282031414293!3d24.938653284017054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750538d5ce453a3%3A0x58907c4f64160abf!2sSchool%20of%20Infantry%20and%20Tactics!5e0!3m2!1sen!2sbd!4v1633416929049!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                              <iframe
+                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3617.8067255274373!2d91.98282031414293!3d24.938653284017054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750538d5ce453a3%3A0x58907c4f64160abf!2sSchool%20of%20Infantry%20and%20Tactics!5e0!3m2!1sen!2sbd!4v1633416929049!5m2!1sen!2sbd"
+                                 width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                            </div>
                         </div>
                      </div>
@@ -265,6 +220,7 @@
       </div>
    </div>
 </section>
+<!-- table -->
 <div class="container-fluid">
    <section class="bg_resizer">
       <div class="col-lg-12 bg-light">
@@ -273,109 +229,157 @@
          </h6>
          <div class="p-4 border-top">
             <div class="accordion" id="accordion">
-               <div class="panel-group wrap" id="accordion"
-                  role="tablist" aria-multiselectable="true">
+               <div class="panel-group wrap" id="accordion" role="tablist" aria-multiselectable="true">
                   <div class="panel">
-                     <div class="panel-heading" role="tab"
-                        id="headingOne">
+                     <div class="panel-heading" role="tab" id="headingOne">
                         <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse"
-                               data-parent="#accordion"
-                               href="#collapseOne"
-                               aria-expanded="true"
-                               aria-controls="collapseOne">
-                            OFFICER
-                            </a>
-                         </h4>
-                      </div>
-                      <div id="collapseOne" class="panel-collapse
-                         collapse in" role="tabpanel"
-                         aria-labelledby="headingOne">
-                         <div class="panel-body">
-                            <table style="width:100%">
-                              <tr>
-                                 <th>Name of
+                           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
+                              aria-expanded="true" aria-controls="collapseOne">
+                              COURSES
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapseOne" class="panel-collapse
+                        collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                           <table style="width:100%">
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
                                     Courses
                                  </th>
-                                 <th>Aim</th>
-                                 <th>Medium</th>
-                                 <th>Applicable
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
                                     Rank
                                  </th>
-                                 <th>Duration</th>
-                                 <th>Course
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
                                     Conducted
                                     in a year
                                  </th>
                               </tr>
-                              <tr>
-                                 <td>Junior Command and Staff Course</td>
-                                 <td>To train officers of all arms and services with a view to enabling them to command an infantry company and function as Grade-3 Staff Officer in the formation Head quarters in both peace and war.</td>
+                              <tr style="text-align: center;">
+                                 <td>Junior Command and
+                                    Staff Course
+                                 </td>
+                                 <td>To train officers of all arms and services with a view to
+                                    enabling them to command an infantry company and
+                                    function as Grade-3 Staff Officer in the formation head
+                                    quarters in both peace and war.
+                                 </td>
                                  <td>English</td>
-                                 <td>Captain/Major</td>
-                                 <td>16week(16*7=112days)</td>
+                                 <td>Captain/ Major
+                                 </td>
+                                 <td>16 weeks
+
+                                 </td>
+                                 <td>02</td>
+                              </tr>
+                              <tr style="text-align: center;">
+                                 <td>Unit Command and
+                                    Staff Course
+                                 </td>
+                                 <td>To train selected officers of all arms and services as
+                                    effective unit commander and efficient staff officer.
+                                 </td>
+                                 <td>English</td>
+                                 <td>Major
+                                 </td>
+                                 <td>16 weeks
+
+                                 </td>
                                  <td>01</td>
                               </tr>
-                              <tr>
-                                <td>Unit Command and Staff Course</td>
-                                <td>To train selected officers of all arms and services as effective unit commander and efficient staff officer.
-                                </td>
-                                <td>English</td>
-                                <td>Major</td>
-                                <td>16week(112days/4months)</td>
-                                <td>01</td>
-                             </tr>
-                             <tr>
-                                <td>Basic Commando Course</td>
-                                <td>To prepare an officer to lead limited commando operations at tactical level including familiarization on counter insurgency operation and counter terrorist activities.
-                                </td>
-                                <td>English</td>
-                                <td>Lieutenant/Captain</td>
-                                <td>7week(7*7=49days)</td>
-                                <td>01</td>
-                             </tr>
-                             <tr>
-                                <td>Officers’ Weapon Course</td>
-                                <td>To train officers of all Arms and Services on small arms.</td>
-                                <<td>English</td>
-                                <td>Lieutenant/Captain</td>
-                                <td>7week(7*7=49days)</td>
-                                <td>01</td>
-                             <tr>
-                                <td>Officers’ Basic Course (Infantry) (Weapon Leg) </td>
-                                <td>
-                                    To train the YOs of Infantry in general handling and
-                                    tactical employment of all support weapons and to
-                                   impart basic knowledge on Armoured Personnel Carrier
-                                   </td>
-                                <td>English/Bangla</td>
-                                <td>Lieutenant/Captain</td>
-                                <td>13week(3days/91days)</td>
-                                <td>01</td>
-                             </tr>
-                             <tr>
-                                <td>Officers’ Basic Course (Infantry) (Tactics Leg)</td>
-                                <td>To train young officers of Infantry on handling of an Infantry Company both during peace and war, and prepare them to become effective Staff Officers at unit level</td>
-                                <td>English</td>
-                                <td>Lieutenant/Captain</td>
-                                <td>10week(68days/2.5 months)</td>
-                                <td>01</td>
-                             </tr>
-                             <tr>
-                                <td>Sniper Course</td>
-                                <td>To train officers and other ranks of infantry on sniping
-                                    </td>
-                                <td>English</td>
-                                <td>Captain and Below:: and Soinik</td>
-                                <td>16week(112day/4 months)</td>
-                                <td>01</td>
-                             </tr>
+                              <tr style="text-align: center;">
+                                 <td>Basic Commando
+                                    Course
+                                 </td>
+                                 <td>To prepare an officer to lead limited commando operations
+                                    at tactical level including familiarization on counter
+                                    insurgency operation and counter terrorist activities.
+                                 </td>
+                                 <td>English</td>
+                                 <td>Lieutenant/
+                                    Captain
+                                 </td>
+                                 <td>07 weeks
+
+                                 </td>
+                                 <td>02</td>
+                              </tr>
+                              <tr style="text-align: center;">
+                                 <td>Officers’ Weapon
+                                    Course
+                                 </td>
+                                 <td>To train officers of all arms and services on small arms
+                                 </td>
+                                 <td>English</td>
+                                 <td>Lieutenant/
+                                    Captain
+                                 </td>
+                                 <td>07 weeks
+
+                                 </td>
+                                 <td>03</td>
+                              </tr>
+                              <tr style="text-align: center;">
+                                 <td>Officers’ Basic Course
+                                    (Weapon Leg)
+                                 </td>
+                                 <td>To train the Young Officers of Infantry in general handling
+                                    and tactical employment of all support weapons and to
+                                    impart basic knowledge on Armoured Personnel Carrier.
+                                 </td>
+                                 <td>English/
+                                    Bangla</td>
+                                 <td>Lieutenant/
+                                    Captain
+                                 </td>
+                                 <td>13 weeks
+
+                                 </td>
+                                 <td>02</td>
+                              </tr>
+                              <tr style="text-align: center;">
+                                 <td>Officers’ Basic Course
+                                    (Tactics Leg)
+                                 </td>
+                                 <td>To train young officers of Infantry on handling of an
+                                    Infantry Company both during peace and war, and
+                                    prepare them to become effective staff officers at unit
+                                    level
+                                 </td>
+                                 <td>English</td>
+                                 <td>Lieutenant/
+                                    Captain
+                                 </td>
+                                 <td>10 weeks
+
+                                 </td>
+                                 <td>02</td>
+                              </tr>
+                              <tr style="text-align: center;">
+                                 <td>Sniper Course
+                                 </td>
+                                 <td>To train officers and other ranks of infantry on sniping.
+                                 </td>
+                                 <td>English</td>
+                                 <td>Captain and
+                                    below; and
+                                    other ranks
+                                 </td>
+                                 <td>16 weeks
+
+                                 </td>
+                                 <td>01</td>
+                              </tr>
                            </table>
                         </div>
                      </div>
                   </div>
                   <!-- end of panel -->
-                
+
+
                </div>
             </div>
          </div>
@@ -385,32 +389,32 @@
 <?php include '../footer.php'; ?>
 <script>
    $('.owl-carousel').owlCarousel({
-       loop: false,
-       dots: false,
-       // margin:10,
-       nav: false,
-       responsive: {
-           0: {
-               items: 1
-           },
-           600: {
-               items: 2
-           },
-           1000: {
-               items: 2
-           }
-       }
+      loop: false,
+      dots: false,
+      // margin:10,
+      nav: false,
+      responsive: {
+         0: {
+            items: 1
+         },
+         600: {
+            items: 2
+         },
+         1000: {
+            items: 2
+         }
+      }
    })
-   
-   
+
+
    $(document).ready(function () {
-       $('.collapse.in').prev('.panel-heading').addClass('active');
-       $('#accordion, #bs-collapse')
-           .on('show.bs.collapse', function (a) {
-               $(a.target).prev('.panel-heading').addClass('active');
-           })
-           .on('hide.bs.collapse', function (a) {
-               $(a.target).prev('.panel-heading').removeClass('active');
-           });
+      $('.collapse.in').prev('.panel-heading').addClass('active');
+      $('#accordion, #bs-collapse')
+         .on('show.bs.collapse', function (a) {
+            $(a.target).prev('.panel-heading').addClass('active');
+         })
+         .on('hide.bs.collapse', function (a) {
+            $(a.target).prev('.panel-heading').removeClass('active');
+         });
    });
 </script>
