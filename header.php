@@ -143,6 +143,7 @@
         box-shadow: 5px 6px 12px 2px;
         background: white;
     }
+   
     </style>
     </head>
     <body>
@@ -207,7 +208,7 @@
                                                     class="nav-link"> BANGLADESH
                                                     AIR FORCE</a></li>
                                             <li class="nav-item"><a
-                                                    href="/AFD/air_force_list.php"
+                                                    href="/AFD/tri_list.php"
                                                     class="nav-link">TRI SERVICE
                                                     INSTITUTION</a></li>
                                         </ul>

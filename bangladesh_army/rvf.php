@@ -4,9 +4,8 @@
       <div class="row justify-content-center">
          <div class="col-1">
             <div class="logo" style="text-align: center">
-               <img
-                  src="../assets/img/school/BA/17. RV&F Depot/l4-removebg-preview.png"
-                  alt="logo" style="max-width: 160px">
+               <img src="../assets/img/school/BA/17. RV&F Depot/l4-removebg-preview.png" alt="logo"
+                  style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
@@ -22,39 +21,27 @@
       <!-- slider start -->
       <div class="row">
          <div class="col-md-7 col-lg-12">
-            <div id="carouselExampleControls" class="carousel slide mt-3"
-               data-ride="carousel">
+            <div id="carouselExampleControls" class="carousel slide mt-3" data-ride="carousel">
                <div class="carousel-inner">
                   <div class="carousel-item active" style="height:
                      500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/17. RV&F Depot/1. First Pic (Double Page).jpg"
-                        alt="First slide">
+                        src="../assets/img/school/BA/17. RV&F Depot/1. First Pic (Double Page).jpg" alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/BA/17. RV&F Depot/4 .jpg"
-                        alt="Second slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/17. RV&F Depot/4 .jpg" alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/BA/17. RV&F Depot/5 .jpg"
-                        alt="Third slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/17. RV&F Depot/5 .jpg" alt="Third slide">
                   </div>
                </div>
-               <a class="carousel-control-prev"
-                  href="#carouselExampleControls" role="button"
-                  data-slide="prev">
-               <span class="carousel-control-prev-icon"
-                  aria-hidden="true"></span>
-               <span class="sr-only">Previous</span>
+               <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
                </a>
-               <a class="carousel-control-next"
-                  href="#carouselExampleControls" role="button"
-                  data-slide="next">
-               <span class="carousel-control-next-icon"
-                  aria-hidden="true"></span>
-               <span class="sr-only">Next</span>
+               <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
                </a>
             </div>
          </div>
@@ -66,12 +53,13 @@
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">Remount Veterinary and Farm Depot is acts as centre and school of Remount Veterinary and Farm Corps. It provides all sorts
-                        of basic and technical training to Officer, Junior commissioned officer, other ranks and civil employees. Beside training War Dog
-                        Detachment of this unit conduct WIP/VIP duty round the country. Every year this unit also actively participate national commitment
-                        like Victory day parade, Hardware display etc. In every training year number of officer's from friendly foreign countries are coming
-                        
-                        to this unit for different army level courses.
+                     <p class="mt-2 lead">Remount Veterinary and Farm Depot acts as centre and school of Remount
+                        Veterinary and Farm Corps. It provides all sorts of basic
+                        and technical training to Officer, Junior commissioned officer, other ranks and civil employees.
+                        Beside training War Dog Detachment
+                        of this unit conduct VVIP/ VIP duty round the country. In every training year number of
+                        officer’s from friendly foreign countries are
+                        coming to this unit for different army level courses.
                      </p>
                   </div>
                </div>
@@ -85,38 +73,37 @@
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">1. Hold and train 50-70 horses and up to 20
-                            dogs at a time.
+                           <p class="mr-4 lead">1. To hold and train 50-70 horses and up to 20
+                              dogs at a time.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">2. Train and provide upto 10 dogs annually.
-                            </p>
+                           <p class="mr-4 lead">2. To train and provide upto 10 dogs annually.
+                           </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">3.Breed up to 30 horses and 10 dogs annually.
-                            </p>
+                           <p class="mr-4 lead">3. To breed up to 30 horses and 10 dogs annually.
+                           </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">4. Provide up to 10 trained horses annually to
-                            authorized units/establish in the Army.
-                            </p>
+                           <p class="mr-4 lead">4. To provide up to 10 trained horses annually to
+                              authorized units/establishments in the Army.
+                           </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">5. Carry out Research and Development
+                           <p class="mr-4 lead">5. To carry out Research and Development
+                              on animal diseases and their diagnosis,
+                              prevention and treatment.
 
-                            on animal diseases and their diagnosis,
-                            prevention and treatment.
-                            
-                            </p>
+                           </p>
                         </li>
                      </ul>
                   </div>
@@ -124,10 +111,12 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">To carry out breeding of horses.To rear and train unbroken horses.
-                        To impart technical training to officer's, Junior
-                        commissioned officer's and other ranks of
-                        Remount Veterinary and Farm Crops. To carry out breeding and impart training to
+                     <span class="lead fw-6">To carry out breeding of horses.
+                        To rear and train unbroken horses.
+                        To impart technical training to officers, Junior
+                        Commissioned Officers and other ranks of
+                        Remount Veterinary and Farm Crops.
+                        To carry out breeding and impart training to
                         dogs and dog handlers.</span>
                   </div>
                </div>
@@ -139,121 +128,43 @@
                      <div class="col-lg-12 col-md-12">
                         <ul class="tabs active">
                            <li class="current"><a href="#">
-                              Gallery
+                                 Gallery
                               </a>
                            </li>
                            <li class=""><a href="#">
-                              Video
+                                 Video
                               </a>
                            </li>
                            <li class=""><a href="#">
-                              Map
+                                 Map
                               </a>
                            </li>
                         </ul>
                      </div>
+                     <!-- gallery -->
                      <div class="col-lg-12 col-md-12">
                         <div class="tab_content desc_box">
-                           <div class="tabs_item" style="display:
+                        <div class="tabs_item" style="display:
                               block; width: 100%;">
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/3.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/3.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/4.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/4.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/7.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/7.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                              </div>
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/5.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/5.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/2.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/2.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/3.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/3.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                              </div>
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/2.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/2.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/4.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/4.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img
-                                       src="../assets/img/school/bma/7.jpeg"
-                                       alt="image">
-                                    <a
-                                       href="../assets/img/school/bma/7.jpeg"
-                                       class="popup-youtube"></a>
-                                 </div>
-                              </div>
+                           
                            </div>
+                           <!-- 
+                           <!-- video -->
                            <div class="tabs_item" style="display:
                               none;">
-                              <video width="100%" height="240"
-                                 controls="">
-                                 <source
-                                    src="img/properties/bma/bma_video.mp4"
-                                    type="video/mp4">
-                                 <source src="movie.ogg"
-                                    type="video/ogg">
+                              <video width="100%" height="240" controls="">
+                                 <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
+                                 <source src="movie.ogg" type="video/ogg">
                                  Your browser does not support
                                  the video tag.
                               </video>
                            </div>
+                           <!-- map -->
                            <div class="tabs_item" style="display:
                               none;">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.5811830199623!2d90.27806891435078!3d23.869001490153522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755e97fa79a9151%3A0x738f6d6e2c11e20d!2sRV%26F%20Depot!5e0!3m2!1sen!2sbd!4v1633851676557!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                              <iframe
+                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.5811830199623!2d90.27806891435078!3d23.869001490153522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755e97fa79a9151%3A0x738f6d6e2c11e20d!2sRV%26F%20Depot!5e0!3m2!1sen!2sbd!4v1633851676557!5m2!1sen!2sbd"
+                                 width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                            </div>
                         </div>
                      </div>
@@ -273,51 +184,49 @@
          </h6>
          <div class="p-4 border-top">
             <div class="accordion" id="accordion">
-               <div class="panel-group wrap" id="accordion"
-                  role="tablist" aria-multiselectable="true">
+               <div class="panel-group wrap" id="accordion" role="tablist" aria-multiselectable="true">
                   <div class="panel">
-                     <div class="panel-heading" role="tab"
-                        id="headingOne">
+                     <div class="panel-heading" role="tab" id="headingOne">
                         <h4 class="panel-title">
-                           <a role="button" data-toggle="collapse"
-                              data-parent="#accordion"
-                              href="#collapseOne"
-                              aria-expanded="true"
-                              aria-controls="collapseOne">
-                              Basic War Dog Handlers’ Course
+                           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
+                              aria-expanded="true" aria-controls="collapseOne">
+                              Basic War Dog
+                              Handlers’ Course
                            </a>
                         </h4>
                      </div>
                      <div id="collapseOne" class="panel-collapse
-                        collapse in" role="tabpanel"
-                        aria-labelledby="headingOne">
+                        collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                            <table style="width:100%">
-                              <tr>
-                                 <th>Name of
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
                                     Courses
                                  </th>
-                                 <th>Aim</th>
-                                 <th>Medium</th>
-                                 <th>Applicable
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
                                     Rank
                                  </th>
-                                 <th>Duration</th>
-                                 <th>Course
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
                                     Conducted
                                     in a year
                                  </th>
                               </tr>
-                              <tr>
-                                 <td>Basic War Dog Handlers’ Course
+                              <tr style="text-align: center;">
+                                 <td>Basic War Dog
+                                    Handlers’ Course
                                  </td>
-                                 <td>To train RV&FC personnel to handle and train War Dogs
-                                   
+                                 <td>To train RV&FC personnel to handle and train War Dogs.
+
                                  </td>
                                  <td>English </td>
-                                 <td>Major/Captain/Lieutenant
+                                 <td>Major/
+                                    Captain/
+                                    Lieutenant
                                  </td>
-                                 <td>8week (556days/2moths)
+                                 <td>8weeks
                                  </td>
                                  <td>01</td>
                               </tr>
@@ -327,58 +236,57 @@
                   </div>
                   <!-- end of panel -->
                   <div class="panel">
-                    <div class="panel-heading" role="tab"
-                       id="headingOne">
-                       <h4 class="panel-title">
-                          <a role="button" data-toggle="collapse"
-                             data-parent="#accordion"
-                             href="#collapseTwo"
-                             aria-expanded="true"
-                             aria-controls="collapseTwo">
-                             Unarmed Combat Course (UACC)
-                          </a>
-                       </h4>
-                    </div>
-                    <div id="collapseTwo" class="panel-collapse
-                       collapse in" role="tabpanel"
-                       aria-labelledby="headingTwo">
-                       <div class="panel-body">
-                          <table style="width:100%">
-                             <tr>
-                                <th>Name of
-                                   Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                   Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                   Conducted
-                                   in a year
-                                </th>
-                             </tr>
-                             <tr>
-                                <td> 
-                                    ‘Arms and Explosive Search Dog Training Course
-                                </td>
-                                <td> To train RV&FC personnel on handling and conducting
-                                    special training of War Dogs in Arms and Explosive
-                                    ‘Search ar Improvised Explosive Device Search.
-                                  
-                                </td>
-                                <td>English</td>
-                                <td>Major/Captain/Lieutenant
-                                </td>
-                                <td>24week(168days/6moths)
-                                </td>
-                                <td>01</td>
-                             </tr>
-                          </table>
-                       </div>
-                    </div>
-                 </div>
+                     <div class="panel-heading" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
+                              aria-expanded="true" aria-controls="collapseTwo">
+                              Arms and Explosive
+                              Search Dog Training
+                              Course
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapseTwo" class="panel-collapse
+                       collapse in" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                           <table style="width:100%">
+                              <tr style="text-align: center;">
+                                 <th style="width: 20%;">Name of
+                                    Courses
+                                 </th>
+                                 <th style="width: 40%;">Aim</th>
+                                 <th style="10%">Medium</th>
+                                 <th style="width: 10%;">Applicable
+                                    Rank
+                                 </th>
+                                 <th style="7%">Duration</th>
+                                 <th style="width: 10%;">Course
+                                    Conducted
+                                    in a year
+                                 </th>
+                              </tr>
+                              <tr style="text-align: center;">
+                                 <td>
+                                    Arms and Explosive
+                                    Search Dog Training
+                                    Course
+                                 </td>
+                                 <td> To train RV&FC personnel on handling and conducting
+                                    special training of War Dogs in Arms and Explosive Search
+                                    or Improvised Explosive Device Search.
+
+                                 </td>
+                                 <td>English</td>
+                                 <td>Major/Captain/Lieutenant
+                                 </td>
+                                 <td>24weeks
+                                 </td>
+                                 <td>01</td>
+                              </tr>
+                           </table>
+                        </div>
+                     </div>
+                  </div>
                   <!-- end panel -->
                </div>
             </div>
@@ -391,32 +299,33 @@
 <?php include '../footer.php'; ?>
 <script>
    $('.owl-carousel').owlCarousel({
-       loop: false,
-       dots: false,
-       // margin:10,
-       nav: false,
-       responsive: {
-           0: {
-               items: 1
-           },
-           600: {
-               items: 2
-           },
-           1000: {
-               items: 2
-           }
-       }
+      loop: false,
+      dots: false,
+      // margin:10,
+      nav: false,
+      responsive: {
+         0: {
+            items: 1
+         },
+         600: {
+            items: 2
+         },
+         1000: {
+            items: 2
+         }
+      }
    })
-   
-   
+
+
    $(document).ready(function () {
-       $('.collapse.in').prev('.panel-heading').addClass('active');
-       $('#accordion, #bs-collapse')
-           .on('show.bs.collapse', function (a) {
-               $(a.target).prev('.panel-heading').addClass('active');
-           })
-           .on('hide.bs.collapse', function (a) {
-               $(a.target).prev('.panel-heading').removeClass('active');
-           });
+      $('.collapse.in').prev('.panel-heading').addClass('active');
+      $('#accordion, #bs-collapse')
+         .on('show.bs.collapse', function (a) {
+            $(a.target).prev('.panel-heading').addClass('active');
+         })
+         .on('hide.bs.collapse', function (a) {
+            $(a.target).prev('.panel-heading').removeClass('active');
+         });
    });
+  
 </script>

@@ -1,3 +1,7 @@
+
+
+
+<!-- footer -->
 <footer class="footer-area">
     <div class="container">
         <div class="row">
@@ -106,6 +110,7 @@
 <script src="/AFD/assets/js/main.js"></script>
 <script src="/AFD/assets/js/blue-slider.js"></script>
 <script src="/AFD/assets/js/slider.js"></script>
+
 
 </body>
 </html>
