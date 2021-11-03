@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 
     <style>
     .header_back {
@@ -159,7 +159,7 @@
                                                  href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg"
                                                  class="popup-youtube"></a>
                                            </div>
-                                          
+
                                         </div>
                                         <div class="tv-show-slides
                                            owl-carousel owl-theme">
@@ -179,11 +179,11 @@
                                                  href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg"
                                                  class="popup-youtube"></a>
                                            </div>
-                                           
+
                                         </div>
                                         <div class="tv-show-slides
                                            owl-carousel owl-theme">
-                                          
+
                                            <div class="single-tv-show">
                                               <img
                                                  src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/5.jpg"
@@ -199,13 +199,13 @@
                                               <a
                                                  href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg"
                                                  class="popup-youtube"></a>
-                                           </div> 
+                                           </div>
                                         </div>
                                      </div>
                                        <!-- video -->
                           <div class="tabs_item" style="display:
                           none;">
-                        
+
                         <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                        </div>
                                         <!-- map -->
@@ -285,7 +285,7 @@
                                     Branch
                                   </td>
                                   <td>30 Weeks
-                                     
+
                                   </td>
                                   <td>01</td>
                                </tr>
@@ -325,7 +325,7 @@
                                 qualified
                                </td>
                                <td>10 Weeks
-                                  
+
                                </td>
                                <td>02</td>
                             </tr>
@@ -365,7 +365,7 @@
                                 qualified
                             </td>
                             <td>10 Weeks
-                               
+
                             </td>
                             <td>02</td>
                          </tr>
@@ -406,7 +406,7 @@
                             qualified
                          </td>
                          <td>62 Weeks
-                            
+
                          </td>
                          <td>02</td>
                       </tr>
@@ -446,7 +446,7 @@
                         qualified
                       </td>
                       <td>62 Weeks
-                         
+
                       </td>
                       <td>02</td>
                    </tr>
@@ -464,7 +464,7 @@
  <!-- end table -->
 
     <!-- js -->
-    <?php include '../footer.php'; ?>
+    <?php include '../footer.php';?>
         <script>
   $('.owl-carousel').owlCarousel({
       loop: false,
@@ -483,8 +483,8 @@
           }
       }
   })
-  
-  
+
+
   $(document).ready(function () {
       $('.collapse.in').prev('.panel-heading').addClass('active');
       $('#accordion, #bs-collapse')

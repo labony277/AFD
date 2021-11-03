@@ -28,7 +28,11 @@
         <link rel="stylesheet" href="/AFD/assets/css/slider.min.css">
         <title>ARMED FORCES DIVISION</title>
         <link rel="icon" type="image/png" href="/AFD/assets/img/logo_2.png">
+        <link rel="stylesheet" href="/AFD/assets/dist/css/lightbox.min.css">
+
         <style>
+
+            /* in gallery */
         .section {
             position: relative;
             width: 100%;
@@ -49,7 +53,7 @@
             /*opacity: 0.7;*/
             color: white;
             margin-top: -30%;
-            
+
         }
 
         .video-container {
@@ -116,11 +120,11 @@
     .parallax2 {
         /* The image used */
         /*background-image: url("img/BH0mxZ.jpg");*/
-        
-    
+
+
         /* Full height */
         height: 10%;
-    
+
         /* Create the parallax scrolling effect */
         background-attachment: fixed;
         background-position: center;
@@ -128,7 +132,7 @@
         background-size: cover;
         /*position: relative;*/
     }
-    
+
     .parallax {
             width: 100%;
             padding: 30px;
@@ -143,7 +147,7 @@
         box-shadow: 5px 6px 12px 2px;
         background: white;
     }
-   
+
     </style>
     </head>
     <body>

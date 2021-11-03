@@ -34,7 +34,7 @@
                     </ul>
                 </div>
             </div>
-            
+
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
                     <h3>Get In Touch</h3>
@@ -43,13 +43,13 @@
                         <p>
                             <a href="#">+8801769014353,</a>
                             <span>(Miscellaneous Training)</span>
-                            
-                            
+
+
                         </p>
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
                     <h3>Postal Address</h3>
@@ -75,7 +75,7 @@
     <div class="copyright-area">
         <div class="container">
         <a href="https://www.tilbd.net/" target="_blank"><p>Developed by <strong>Trust Innovation Limited</strong></p></a>
-        </div> 
+        </div>
     </div>
 </footer>
 
