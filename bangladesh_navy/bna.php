@@ -149,39 +149,45 @@
                         <div class="tabs_item" style="display:
                                         block; width: 100%;">
 
-                              <div>
+                         
+                                 <div class="col-md-12">
                                  <div class="row">
-                                 <div class="column">
+                                 <div class="col-md-6">
                                     <a class="example-image-link"
-                                    href="http://lokeshdhakar.com/projects/lightbox2/images/image-3.jpg"
+                                    href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg"
                                     data-lightbox="example-set"
                                     data-title="Click the right half of the image to move forward."><img
                                        class="example-image"
-                                       src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-3.jpg" alt="" /></a>
-                                       <div class="column">
+                                       src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg" alt="" /></a> </div>
+                                       <div class="col-md-6">
                                  <a class="example-image-link"
-                                    href="http://lokeshdhakar.com/projects/lightbox2/images/image-4.jpg"
+                                    href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg"
                                     data-lightbox="example-set"
                                     data-title="Or press the right arrow on your keyboard."><img class="example-image"
-                                       src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-4.jpg" alt="" /></a></div>
-                                       <div class="row">
-                                       <div class="column">
-                                           <a class="example-image-link"
-                                    href="http://lokeshdhakar.com/projects/lightbox2/images/image-5.jpg"
+                                       src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg" alt="" /></a></div>
+                                 </div>
+                                    
+                                 </div>
+                                    
+                                 <div class="col-md-12">
+                                 <div class="row">
+                                 <div class="col-md-6">
+                                    <a class="example-image-link"
+                                    href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/3.jpg"
                                     data-lightbox="example-set"
-                                    data-title="The next image in the set is preloaded as you're viewing."><img
+                                    data-title="Click the right half of the image to move forward."><img
                                        class="example-image"
-                                       src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-5.jpg" alt="" /></a>
-                                       <div class="column">
+                                       src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/3.jpg" alt="" /></a> </div>
+                                       <div class="col-md-6">
                                  <a class="example-image-link"
-                                    href="http://lokeshdhakar.com/projects/lightbox2/images/image-6.jpg"
+                                    href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg"
                                     data-lightbox="example-set"
-                                    data-title="Click anywhere outside the image or the X to the right to close."><img
-                                       class="example-image"
-                                       src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-6.jpg" alt="" /></a></div>
-
-
-                              </div>
+                                    data-title="Or press the right arrow on your keyboard."><img class="example-image"
+                                       src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg" alt="" /></a></div>
+                                 </div>
+                                    
+                                 </div>
+                        </div>
                               <!-- video -->
                               <div class="tabs_item" style="display:
                              none;">
