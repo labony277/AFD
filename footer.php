@@ -1,6 +1,3 @@
-
-
-
 <!-- footer -->
 <footer class="footer-area">
     <div class="container">
@@ -74,7 +71,9 @@
     </div>
     <div class="copyright-area">
         <div class="container">
-        <a href="https://www.tilbd.net/" target="_blank"><p>Developed by <strong>Trust Innovation Limited</strong></p></a>
+            <a href="https://www.tilbd.net/" target="_blank">
+                <p>Developed by <strong>Trust Innovation Limited</strong></p>
+            </a>
         </div>
     </div>
 </footer>
@@ -110,7 +109,39 @@
 <script src="/AFD/assets/js/main.js"></script>
 <script src="/AFD/assets/js/blue-slider.js"></script>
 <script src="/AFD/assets/js/slider.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.collapse.in').prev('.panel-heading').addClass('active');
+        $('#accordion, #bs-collapse')
+            .on('show.bs.collapse', function(a) {
+                $(a.target).prev('.panel-heading').addClass('active');
+            })
+            .on('hide.bs.collapse', function(a) {
+                $(a.target).prev('.panel-heading').removeClass('active');
+            });
+    });
 
+    $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            tLoading: 'Loading image #%curr%...',
+            mainClass: 'mfp-img-mobile',
+            gallery: {
+                enabled: true,
+                navigateByImgClick: true,
+                preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+            },
+            image: {
+                tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                titleSrc: function(item) {
+                    //    return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+                }
+            }
+        });
+    });
+</script>
 
 </body>
+
 </html>

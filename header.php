@@ -148,6 +148,11 @@
         background: white;
     }
 
+    .popup-gallery img {
+      display: block;
+      height: 100px;
+    }
+
     </style>
     </head>
     <body>

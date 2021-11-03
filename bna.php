@@ -14,24 +14,24 @@
     background-repeat: no-repeat;
     padding-top: 190px;
     padding-bottom: 140px;">
-        <div class="page-title-content">
-            <div class="row justify-content-center">
-                <!--                <div class="col-1">-->
-                <!--                    <div class="logo" style="text-align: center">-->
-                <!--                        <img src="assets/img/bg/navy_bg.png" alt="logo" style="max-width: 100px">-->
-                <!--                    </div>-->
-                <!--                </div>-->
-                <div class="col-10">
-                    <h2 style="
+    <div class="page-title-content">
+        <div class="row justify-content-center">
+            <!--                <div class="col-1">-->
+            <!--                    <div class="logo" style="text-align: center">-->
+            <!--                        <img src="assets/img/bg/navy_bg.png" alt="logo" style="max-width: 100px">-->
+            <!--                    </div>-->
+            <!--                </div>-->
+            <div class="col-10">
+                <h2 style="
     font-weight: 800;text-transform: uppercase;
     margin: 0;
     color: #fff;
     text-align: center;
     text-shadow: 5px 4px 5px black;">Bangladesh Naval Academy</h2>
-                </div>
             </div>
-
         </div>
+
+    </div>
 </div>
 
 
@@ -184,8 +184,7 @@
 
                         <section class="widget widget_recent_entries">
                             <h3 class="widget-title">LOCATION</h3>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14773.240811830572!2d91.7996872!3d22.2283062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x179e6e5e5d55645c!2sBangladesh%20Naval%20Academy!5e0!3m2!1sen!2sbd!4v1631502155268!5m2!1sen!2sbd"
-                                    width="100%" height="215" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14773.240811830572!2d91.7996872!3d22.2283062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x179e6e5e5d55645c!2sBangladesh%20Naval%20Academy!5e0!3m2!1sen!2sbd!4v1631502155268!5m2!1sen!2sbd" width="100%" height="215" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </section>
 
                     </aside>
@@ -205,8 +204,7 @@
             <div class="card">
                 <div class="card-header" id="headingOne">
                     <h5 class="accordion-title mb-0">
-                        <button class="btn btn-link d-flex align-items-center" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
-                                aria-controls="collapseOne">Officers’
+                        <button class="btn btn-link d-flex align-items-center" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Officers’
                             Gunnery Staff Course (Air Defence)
                         </button>
                     </h5>
@@ -224,60 +222,60 @@
                         </style>
                         <table style="width:100%">
                             <tbody>
-                            <tr>
-                                <th>Name of
-                                    Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                    Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                    Conducted
-                                    in a year
-                                </th>
-                                <th>Tuition Fee (US $) if on payment</th>
-                            </tr>
-                            <tr>
-                                <td>Officers’ Gunnery Staff
-                                    Course (Air Defence)
-                                </td>
+                                <tr>
+                                    <th>Name of
+                                        Courses
+                                    </th>
+                                    <th>Aim</th>
+                                    <th>Medium</th>
+                                    <th>Applicable
+                                        Rank
+                                    </th>
+                                    <th>Duration</th>
+                                    <th>Course
+                                        Conducted
+                                        in a year
+                                    </th>
+                                    <th>Tuition Fee (US $) if on payment</th>
+                                </tr>
+                                <tr>
+                                    <td>Officers’ Gunnery Staff
+                                        Course (Air Defence)
+                                    </td>
 
 
-                                <td>To train selected officers to be qualified as
-                                    Instructor Gunnery, staff officers of various
-                                    Headquarters and Commanding Officer of field / medium
-                                    regiment
-                                    or Officer Commanding of locating battery
-                                </td>
+                                    <td>To train selected officers to be qualified as
+                                        Instructor Gunnery, staff officers of various
+                                        Headquarters and Commanding Officer of field / medium
+                                        regiment
+                                        or Officer Commanding of locating battery
+                                    </td>
 
-                                <td>English</td>
-
-
-                                <td>English
-                                    Captain/Major
-                                </td>
+                                    <td>English</td>
 
 
-                                <td>40 Week
-                                    (280 day/10 Months)
-                                </td>
+                                    <td>English
+                                        Captain/Major
+                                    </td>
 
 
-                                <td>01</td>
+                                    <td>40 Week
+                                        (280 day/10 Months)
+                                    </td>
 
 
-                                <td>Tuition Fee: $20×280 = $5600
-                                    Accommodation: $300x$10 = $3000 (Single)
-                                    Accommodation: $450x$10 = $4500 (Married)
-                                    Orderly: $75×10 = $750
-                                    Food: $400×10 months = $4000
-                                    Utility: Actual
-                                </td>
+                                    <td>01</td>
 
-                            </tr>
+
+                                    <td>Tuition Fee: $20×280 = $5600
+                                        Accommodation: $300x$10 = $3000 (Single)
+                                        Accommodation: $450x$10 = $4500 (Married)
+                                        Orderly: $75×10 = $750
+                                        Food: $400×10 months = $4000
+                                        Utility: Actual
+                                    </td>
+
+                                </tr>
                             </tbody>
                         </table>
                     </div>
@@ -306,60 +304,60 @@
                         </style>
                         <table style="width:100%">
                             <tbody>
-                            <tr>
-                                <th>Name of
-                                    Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                    Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                    Conducted
-                                    in a year
-                                </th>
-                                <th>Tuition Fee (US $) if on payment</th>
-                            </tr>
-                            <tr>
-                                <td>Officers’ Gunnery Staff
-                                    Course (Air Defence)
-                                </td>
+                                <tr>
+                                    <th>Name of
+                                        Courses
+                                    </th>
+                                    <th>Aim</th>
+                                    <th>Medium</th>
+                                    <th>Applicable
+                                        Rank
+                                    </th>
+                                    <th>Duration</th>
+                                    <th>Course
+                                        Conducted
+                                        in a year
+                                    </th>
+                                    <th>Tuition Fee (US $) if on payment</th>
+                                </tr>
+                                <tr>
+                                    <td>Officers’ Gunnery Staff
+                                        Course (Air Defence)
+                                    </td>
 
 
-                                <td>To train selected officers to be qualified as
-                                    Instructor Gunnery, staff officers of various
-                                    Headquarters and Commanding Officer of field / medium
-                                    regiment
-                                    or Officer Commanding of locating battery
-                                </td>
+                                    <td>To train selected officers to be qualified as
+                                        Instructor Gunnery, staff officers of various
+                                        Headquarters and Commanding Officer of field / medium
+                                        regiment
+                                        or Officer Commanding of locating battery
+                                    </td>
 
-                                <td>English</td>
-
-
-                                <td>English
-                                    Captain/Major
-                                </td>
+                                    <td>English</td>
 
 
-                                <td>40 Week
-                                    (280 day/10 Months)
-                                </td>
+                                    <td>English
+                                        Captain/Major
+                                    </td>
 
 
-                                <td>01</td>
+                                    <td>40 Week
+                                        (280 day/10 Months)
+                                    </td>
 
 
-                                <td>Tuition Fee: $20×280 = $5600
-                                    Accommodation: $300x$10 = $3000 (Single)
-                                    Accommodation: $450x$10 = $4500 (Married)
-                                    Orderly: $75×10 = $750
-                                    Food: $400×10 months = $4000
-                                    Utility: Actual
-                                </td>
+                                    <td>01</td>
 
-                            </tr>
+
+                                    <td>Tuition Fee: $20×280 = $5600
+                                        Accommodation: $300x$10 = $3000 (Single)
+                                        Accommodation: $450x$10 = $4500 (Married)
+                                        Orderly: $75×10 = $750
+                                        Food: $400×10 months = $4000
+                                        Utility: Actual
+                                    </td>
+
+                                </tr>
                             </tbody>
                         </table>
                     </div>
@@ -388,60 +386,60 @@
                         </style>
                         <table style="width:100%">
                             <tbody>
-                            <tr>
-                                <th>Name of
-                                    Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                    Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                    Conducted
-                                    in a year
-                                </th>
-                                <th>Tuition Fee (US $) if on payment</th>
-                            </tr>
-                            <tr>
-                                <td>Officers’ Gunnery Staff
-                                    Course (Air Defence)
-                                </td>
+                                <tr>
+                                    <th>Name of
+                                        Courses
+                                    </th>
+                                    <th>Aim</th>
+                                    <th>Medium</th>
+                                    <th>Applicable
+                                        Rank
+                                    </th>
+                                    <th>Duration</th>
+                                    <th>Course
+                                        Conducted
+                                        in a year
+                                    </th>
+                                    <th>Tuition Fee (US $) if on payment</th>
+                                </tr>
+                                <tr>
+                                    <td>Officers’ Gunnery Staff
+                                        Course (Air Defence)
+                                    </td>
 
 
-                                <td>To train selected officers to be qualified as
-                                    Instructor Gunnery, staff officers of various
-                                    Headquarters and Commanding Officer of field / medium
-                                    regiment
-                                    or Officer Commanding of locating battery
-                                </td>
+                                    <td>To train selected officers to be qualified as
+                                        Instructor Gunnery, staff officers of various
+                                        Headquarters and Commanding Officer of field / medium
+                                        regiment
+                                        or Officer Commanding of locating battery
+                                    </td>
 
-                                <td>English</td>
-
-
-                                <td>English
-                                    Captain/Major
-                                </td>
+                                    <td>English</td>
 
 
-                                <td>40 Week
-                                    (280 day/10 Months)
-                                </td>
+                                    <td>English
+                                        Captain/Major
+                                    </td>
 
 
-                                <td>01</td>
+                                    <td>40 Week
+                                        (280 day/10 Months)
+                                    </td>
 
 
-                                <td>Tuition Fee: $20×280 = $5600
-                                    Accommodation: $300x$10 = $3000 (Single)
-                                    Accommodation: $450x$10 = $4500 (Married)
-                                    Orderly: $75×10 = $750
-                                    Food: $400×10 months = $4000
-                                    Utility: Actual
-                                </td>
+                                    <td>01</td>
 
-                            </tr>
+
+                                    <td>Tuition Fee: $20×280 = $5600
+                                        Accommodation: $300x$10 = $3000 (Single)
+                                        Accommodation: $450x$10 = $4500 (Married)
+                                        Orderly: $75×10 = $750
+                                        Food: $400×10 months = $4000
+                                        Utility: Actual
+                                    </td>
+
+                                </tr>
                             </tbody>
                         </table>
                     </div>
@@ -469,60 +467,60 @@
                         </style>
                         <table style="width:100%">
                             <tbody>
-                            <tr>
-                                <th>Name of
-                                    Courses
-                                </th>
-                                <th>Aim</th>
-                                <th>Medium</th>
-                                <th>Applicable
-                                    Rank
-                                </th>
-                                <th>Duration</th>
-                                <th>Course
-                                    Conducted
-                                    in a year
-                                </th>
-                                <th>Tuition Fee (US $) if on payment</th>
-                            </tr>
-                            <tr>
-                                <td>Officers’ Gunnery Staff
-                                    Course (Air Defence)
-                                </td>
+                                <tr>
+                                    <th>Name of
+                                        Courses
+                                    </th>
+                                    <th>Aim</th>
+                                    <th>Medium</th>
+                                    <th>Applicable
+                                        Rank
+                                    </th>
+                                    <th>Duration</th>
+                                    <th>Course
+                                        Conducted
+                                        in a year
+                                    </th>
+                                    <th>Tuition Fee (US $) if on payment</th>
+                                </tr>
+                                <tr>
+                                    <td>Officers’ Gunnery Staff
+                                        Course (Air Defence)
+                                    </td>
 
 
-                                <td>To train selected officers to be qualified as
-                                    Instructor Gunnery, staff officers of various
-                                    Headquarters and Commanding Officer of field / medium
-                                    regiment
-                                    or Officer Commanding of locating battery
-                                </td>
+                                    <td>To train selected officers to be qualified as
+                                        Instructor Gunnery, staff officers of various
+                                        Headquarters and Commanding Officer of field / medium
+                                        regiment
+                                        or Officer Commanding of locating battery
+                                    </td>
 
-                                <td>English</td>
-
-
-                                <td>English
-                                    Captain/Major
-                                </td>
+                                    <td>English</td>
 
 
-                                <td>40 Week
-                                    (280 day/10 Months)
-                                </td>
+                                    <td>English
+                                        Captain/Major
+                                    </td>
 
 
-                                <td>01</td>
+                                    <td>40 Week
+                                        (280 day/10 Months)
+                                    </td>
 
 
-                                <td>Tuition Fee: $20×280 = $5600
-                                    Accommodation: $300x$10 = $3000 (Single)
-                                    Accommodation: $450x$10 = $4500 (Married)
-                                    Orderly: $75×10 = $750
-                                    Food: $400×10 months = $4000
-                                    Utility: Actual
-                                </td>
+                                    <td>01</td>
 
-                            </tr>
+
+                                    <td>Tuition Fee: $20×280 = $5600
+                                        Accommodation: $300x$10 = $3000 (Single)
+                                        Accommodation: $450x$10 = $4500 (Married)
+                                        Orderly: $75×10 = $750
+                                        Food: $400×10 months = $4000
+                                        Utility: Actual
+                                    </td>
+
+                                </tr>
                             </tbody>
                         </table>
                     </div>

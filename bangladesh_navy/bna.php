@@ -1,4 +1,4 @@
-<?php include '../header.php';?>
+<?php include '../header.php'; ?>
 
 <style>
    .header_back {
@@ -6,7 +6,7 @@
       color: black !important;
    }
 </style>
-<div class="page-title-area" style="    position: relative;
+<div class="page-title-area" style="position: relative;
     z-index: 1;
     background-image: url(../assets/img/bg/navy_bg.png);
     background-position: center;
@@ -44,17 +44,13 @@
                <div class="carousel-inner">
                   <div class="carousel-item active" style="height:
                     500px">
-                     <img class="d-block w-100" src="../assets/img/school/Bangladesh Navy/1.bna/2. Second Pic.jpg"
-                        alt="First slide">
+                     <img class="d-block w-100" src="../assets/img/school/Bangladesh Navy/1.bna/2. Second Pic.jpg" alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100"
-                        src="../assets/img/school/Bangladesh Navy/1.bna/1. First Pic (Double Page)-min.jpg"
-                        alt="Second slide">
+                     <img class="d-block w-100" src="../assets/img/school/Bangladesh Navy/1.bna/1. First Pic (Double Page)-min.jpg" alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100" src="../assets/img/school/Bangladesh Navy/1.bna/3..jpg"
-                        alt="Third slide">
+                     <img class="d-block w-100" src="../assets/img/school/Bangladesh Navy/1.bna/3..jpg" alt="Third slide">
                   </div>
                </div>
                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -146,65 +142,54 @@
                      </div>
                      <div class="col-lg-12 col-md-12">
                         <div class="tab_content desc_box">
-                        <div class="tabs_item" style="display:
-                                        block; width: 100%;">
+                           <div class="tabs_item popup-gallery" style="display:
+                              block; width: 100%;">
 
-                         
-                                 <div class="col-md-12">
+                              <div class="col-md-12">
                                  <div class="row">
-                                 <div class="col-md-6">
-                                    <a class="example-image-link"
-                                    href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg"
-                                    data-lightbox="example-set"
-                                    data-title="Click the right half of the image to move forward."><img
-                                       class="example-image"
-                                       src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg" alt="" /></a> </div>
-                                       <div class="col-md-6">
-                                 <a class="example-image-link"
-                                    href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg"
-                                    data-lightbox="example-set"
-                                    data-title="Or press the right arrow on your keyboard."><img class="example-image"
-                                       src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg" alt="" /></a></div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/7.jpeg">
+                                          <img src="../assets/img/school/bma/7.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/4.jpeg">
+                                          <img src="../assets/img/school/bma/4.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/3.jpeg">
+                                          <img src="../assets/img/school/bma/3.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/5.jpeg">
+                                          <img src="../assets/img/school/bma/5.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/2.jpeg">
+                                          <img src="../assets/img/school/bma/2.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/2.jpeg">
+                                          <img src="../assets/img/school/bma/2.jpeg" alt="" />
+                                       </a>
+                                    </div>
                                  </div>
-                                    
-                                 </div>
-                                    
-                                 <div class="col-md-12">
-                                 <div class="row">
-                                 <div class="col-md-6">
-                                    <a class="example-image-link"
-                                    href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/3.jpg"
-                                    data-lightbox="example-set"
-                                    data-title="Click the right half of the image to move forward."><img
-                                       class="example-image"
-                                       src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/3.jpg" alt="" /></a> </div>
-                                       <div class="col-md-6">
-                                 <a class="example-image-link"
-                                    href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg"
-                                    data-lightbox="example-set"
-                                    data-title="Or press the right arrow on your keyboard."><img class="example-image"
-                                       src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg" alt="" /></a></div>
-                                 </div>
-                                    
-                                 </div>
-                        </div>
-                              <!-- video -->
-                              <div class="tabs_item" style="display:
-                             none;">
+                              </div>
 
-                                 <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc"
-                                    frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                              </div>
-                              <!-- map -->
-                              <div class="tabs_item" style="display:
+                           </div>
+                           <!-- video -->
+                           <div class="tabs_item" style="display:
                              none;">
-                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3693.3100725303498!2d91.79749851431927!3d22.22831115112279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdfd61bc90c05%3A0x179e6e5e5d55645c!2sBangladesh%20Naval%20Academy!5e0!3m2!1sen!2sbd!4v1634615461533!5m2!1sen!2sbd"
-                                    width="100%" height="250" style="border:0;" allowfullscreen=""
-                                    loading="lazy"></iframe>
-                              </div>
+                              <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                           </div>
+                           <!-- map -->
+                           <div class="tabs_item" style="display:
+                             none;">
+                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3693.3100725303498!2d91.79749851431927!3d22.22831115112279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdfd61bc90c05%3A0x179e6e5e5d55645c!2sBangladesh%20Naval%20Academy!5e0!3m2!1sen!2sbd!4v1634615461533!5m2!1sen!2sbd" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                            </div>
                         </div>
                      </div>
@@ -213,6 +198,7 @@
             </div>
          </div>
       </div>
+   </div>
 </section>
 <!-- table -->
 <div class="container-fluid">
@@ -227,8 +213,7 @@
                   <div class="panel">
                      <div class="panel-heading" role="tab" id="headingOne">
                         <h4 class="panel-title">
-                           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
-                              aria-expanded="true" aria-controls="collapseOne">
+                           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                               Officers Basic
                               Training
                               (Semester: 1-8)
@@ -285,8 +270,7 @@
                   <div class="panel">
                      <div class="panel-heading" role="tab" id="headingTwo">
                         <h4 class="panel-title">
-                           <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
-                              href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                           <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                               Pre Commission
                               Training
                               (Semester: 1-6)
@@ -339,8 +323,7 @@
                   <div class="panel">
                      <div class="panel-heading" role="tab" id="headingThree">
                         <h4 class="panel-title">
-                           <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
-                              href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                           <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                               Junior Staff Course
                               (JSC)
                            </a>
@@ -389,8 +372,7 @@
                   <div class="panel">
                      <div class="panel-heading" role="tab" id="headingFour">
                         <h4 class="panel-title">
-                           <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
-                              href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                           <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                               Bridge Watch
                               Keeping Course
                               (Semester: 7-8)
@@ -449,36 +431,4 @@
 </div>
 <!-- end table -->
 <!-- js -->
-<?php include '../footer.php';?>
-
-<script src="/AFD/assets/dist/js/lightbox-plus-jquery.min.js">
-   $('.owl-carousel').owlCarousel({
-      loop: false,
-      dots: false,
-      // margin:10,
-      nav: false,
-      responsive: {
-         0: {
-            items: 1
-         },
-         600: {
-            items: 2
-         },
-         1000: {
-            items: 2
-         }
-      }
-   })
-
-
-   $(document).ready(function () {
-      $('.collapse.in').prev('.panel-heading').addClass('active');
-      $('#accordion, #bs-collapse')
-         .on('show.bs.collapse', function (a) {
-            $(a.target).prev('.panel-heading').addClass('active');
-         })
-         .on('hide.bs.collapse', function (a) {
-            $(a.target).prev('.panel-heading').removeClass('active');
-         });
-   });
-</script>
+<?php include '../footer.php'; ?>
