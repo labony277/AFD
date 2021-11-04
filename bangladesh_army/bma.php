@@ -138,54 +138,46 @@
                      </div>
                      <div class="col-lg-12 col-md-12">
                         <div class="tab_content desc_box">
-                           <div class="tabs_item" style="display:
+                           <div class="tabs_item popup-gallery" style="display:
                               block; width: 100%;">
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
-                                 </div>
-                              </div>
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/5.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/5.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
-                                 </div>
-                              </div>
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/1.bma/1. First Page (Double Page).jpeg" >
+                                          <img src="../assets/img/school/BA/1.bma/1. First Page (Double Page).jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/1.bma/2.jpeg" >
+                                          <img src="../assets/img/school/BA/1.bma/2.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/1.bma/3.jpeg">
+                                          <img src="../assets/img/school/BA/1.bma/3.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/1.bma/4.jpeg">
+                                          <img src="../assets/img/school/BA/1.bma/4.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/1.bma/5.jpeg">
+                                          <img src="../assets/img/school/BA/1.bma/5.jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/1.bma/7.jpeg">
+                                          <img src="../assets/img/school/BA/1.bma/7.jpeg" alt="" />
+                                       </a>
+                                    </div>
                                  </div>
                               </div>
+
                            </div>
+                           <!-- video -->
                            <div class="tabs_item" style="display:
                               none;">
                               <video width="100%" height="240" controls="">
@@ -197,6 +189,7 @@
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
+                              <!-- map -->
                               <iframe
                                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5215.800004864782!2d91.75318877559856!3d22.42422445560544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd754c83a4c09%3A0x5a643c5a4c3037ba!2sBangladesh%20Military%20Academy!5e0!3m2!1sen!2sbd!4v1632202754569!5m2!1sen!2sbd"
                                  width="100%" height="215" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -322,34 +315,3 @@
 <!-- end table -->
 <!-- js -->
 <?php include '../footer.php'; ?>
-<script>
-   $('.owl-carousel').owlCarousel({
-      loop: false,
-      dots: false,
-      // margin:10,
-      nav: false,
-      responsive: {
-         0: {
-            items: 1
-         },
-         600: {
-            items: 2
-         },
-         1000: {
-            items: 2
-         }
-      }
-   })
-
-
-   $(document).ready(function () {
-      $('.collapse.in').prev('.panel-heading').addClass('active');
-      $('#accordion, #bs-collapse')
-         .on('show.bs.collapse', function (a) {
-            $(a.target).prev('.panel-heading').addClass('active');
-         })
-         .on('hide.bs.collapse', function (a) {
-            $(a.target).prev('.panel-heading').removeClass('active');
-         });
-   });
-</script>

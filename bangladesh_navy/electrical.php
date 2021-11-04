@@ -138,70 +138,46 @@
                                     </ul>
                                 </div>
                                 <div class="col-lg-12 col-md-12">
-                                    <div class="tab_content desc_box">
-                                        <div class="tabs_item" style="display:
-                                        block; width: 100%;">
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
+                        <div class="tab_content desc_box">
+                           <div class="tabs_item popup-gallery" style="display:
+                              block; width: 100%;">
 
-                                        </div>
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/3.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/3.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                          <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg" >
+                                          <img src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg" >
+                                          <img src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/2.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/3.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/3.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/4.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/5.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/5.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
 
-                                        </div>
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/5.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/5.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/12. Electrical School/resize/1.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                        </div>
-                                     </div>
+                           </div>
                                        <!-- video -->
                           <div class="tabs_item" style="display:
                           none;">

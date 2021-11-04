@@ -1,19 +1,38 @@
 <?php include '../header.php'; ?>
-<div class="page-title-area">
-    <div class="page-title-content">
-        <div class="row justify-content-center">
-            <div class="col-1">
-                <div class="logo" style="text-align: center">
-                    <img src="../assets/img/school/BA/1.bma/Ever_High_is_My_Head-removebg-preview.png" alt="logo"
-                        style="max-width: 160px">
+
+    <style>
+    .header_back {
+        background: linear-gradient(#2fa8ad, #4c8781);
+        color: black !important;
+    }
+</style>
+    <div class="page-title-area" style="position: relative;
+        z-index: 1;
+        background-image: url(../assets/img/tri.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-top: 190px;
+        padding-bottom: 250px;">
+        <div class="page-title-content">
+            <div class="row justify-content-center">
+                <!--                <div class="col-1">-->
+                <!--                    <div class="logo" style="text-align: center">-->
+                <!--                        <img src="../assets/img/bg/navy_bg.png" alt="logo" style="max-width: 100px">-->
+                <!--                    </div>-->
+                <!--                </div>-->
+                <div class="col-10">
+                    <h2 style="font-weight: 800;text-transform: uppercase;
+                        margin: 0;
+                        color: #fff;
+                        text-align: center;
+                        text-shadow: 5px 4px 5px black;">NATIONAL DEFENCE COLLEGE (NDC)</h2>
                 </div>
             </div>
-            <div class="col-10">
-                <h2 class="details_header">NATIONAL DEFENCE COLLEGE (NDC)</h2>
-            </div>
+
         </div>
     </div>
-</div>
+
 <section class="services-details-area ptb-100 jarallax" data-jarallax='{"
    speed" : 0.2}'>
     <div class="container" style="box-shadow: 5px 6px 12px 2px;text-align:
@@ -25,13 +44,13 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active" style="height:
                      500px">
-                            <img class="d-block w-100" src="../assets/img/school/BA/1.bma/2.jpeg" alt="First slide">
+                            <img class="d-block w-100" src="../assets/img/school/TRI Service Institutions/1.NDC/1..jfif" alt="First slide">
                         </div>
                         <div class="carousel-item" style="height: 500px">
-                            <img class="d-block w-100" src="../assets/img/school/BA/1.bma/6 .jpg" alt="Second slide">
+                            <img class="d-block w-100" src="../assets/img/school/TRI Service Institutions/1.NDC/2-min.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item" style="height: 500px">
-                            <img class="d-block w-100" src="../assets/img/school/BA/1.bma/5.jpeg" alt="Third slide">
+                            <img class="d-block w-100" src="../assets/img/school/TRI Service Institutions/1.NDC/6. Last Page.jpg" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -145,55 +164,47 @@
                                 </ul>
                             </div>
                             <div class="col-lg-12 col-md-12">
-                                <div class="tab_content desc_box">
-                                    <div class="tabs_item" style="display:
+                        <div class="tab_content desc_box">
+                           <div class="tabs_item popup-gallery" style="display:
                               block; width: 100%;">
-                                        <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/3.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/4.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/7.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                        </div>
-                                        <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/5.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/5.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/2.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/3.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                        </div>
-                                        <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/2.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/4.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                            <div class="single-tv-show">
-                                                <img src="../assets/img/school/bma/7.jpeg" alt="image">
-                                                <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
-                                            </div>
-                                        </div>
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/TRI Service Institutions/1.NDC/1..jfif" >
+                                          <img src="../assets/img/school/TRI Service Institutions/1.NDC/1..jfif" alt="" />
+                                       </a>
                                     </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/TRI Service Institutions/1.NDC/2-min.jpg" >
+                                          <img src="../assets/img/school/TRI Service Institutions/1.NDC/2-min.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/TRI Service Institutions/1.NDC/3.jpg">
+                                          <img src="../assets/img/school/TRI Service Institutions/1.NDC/3.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/TRI Service Institutions/1.NDC/4.jpg">
+                                          <img src="../assets/img/school/TRI Service Institutions/1.NDC/4.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/TRI Service Institutions/1.NDC/5.jpg">
+                                          <img src="../assets/img/school/TRI Service Institutions/1.NDC/5.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/TRI Service Institutions/1.NDC/6. Last Page.jpg">
+                                          <img src="../assets/img/school/TRI Service Institutions/1.NDC/6. Last Page.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+
+                           </div>
+                           <!-- video -->
                                     <div class="tabs_item" style="display:
                               none;">
                                         <video width="100%" height="240" controls="">
@@ -393,34 +404,7 @@
 <!-- end table -->
 <!-- js -->
 <?php include '../footer.php'; ?>
-<script>
-    $('.owl-carousel').owlCarousel({
-        loop: false,
-        dots: false,
-        // margin:10,
-        nav: false,
-        responsive: {
-            0: {
-                items: 1
-            },
-            600: {
-                items: 2
-            },
-            1000: {
-                items: 2
-            }
-        }
-    })
 
 
-    $(document).ready(function () {
-        $('.collapse.in').prev('.panel-heading').addClass('active');
-        $('#accordion, #bs-collapse')
-            .on('show.bs.collapse', function (a) {
-                $(a.target).prev('.panel-heading').addClass('active');
-            })
-            .on('hide.bs.collapse', function (a) {
-                $(a.target).prev('.panel-heading').removeClass('active');
-            });
-    });
-</script>
+
+    

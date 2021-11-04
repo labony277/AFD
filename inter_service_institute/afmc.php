@@ -1,20 +1,38 @@
 <?php include '../header.php'; ?>
-<div class="page-title-area">
-    <div class="page-title-content">
-        <div class="row justify-content-center">
-            <div class="col-1">
-                <div class="logo" style="text-align: center">
-                    <img src="../assets/img/school/BA/1.bma/Ever_High_is_My_Head-removebg-preview.png" alt="logo"
-                        style="max-width: 160px">
+
+    <style>
+    .header_back {
+        background: linear-gradient(#2fa8ad, #4c8781);
+        color: black !important;
+    }
+</style>
+    <div class="page-title-area" style="position: relative;
+        z-index: 1;
+        background-image: url(../assets/img/tri.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-top: 190px;
+        padding-bottom: 250px;">
+        <div class="page-title-content">
+            <div class="row justify-content-center">
+                <!--                <div class="col-1">-->
+                <!--                    <div class="logo" style="text-align: center">-->
+                <!--                        <img src="../assets/img/bg/navy_bg.png" alt="logo" style="max-width: 100px">-->
+                <!--                    </div>-->
+                <!--                </div>-->
+                <div class="col-10">
+                    <h2 style="font-weight: 800;text-transform: uppercase;
+                        margin: 0;
+                        color: #fff;
+                        text-align: center;
+                        text-shadow: 5px 4px 5px black;">ARMED FORCES MEDICAL COLLEGE
+                       (AFMC)</h2>
                 </div>
             </div>
-            <div class="col-10">
-                <h2 class="details_header">ARMED FORCES MEDICAL COLLEGE
-                    (AFMC)</h2>
-            </div>
+
         </div>
     </div>
-</div>
 <section class="services-details-area ptb-100 jarallax" data-jarallax='{"
    speed" : 0.2}'>
     <div class="container" style="box-shadow: 5px 6px 12px 2px;text-align:

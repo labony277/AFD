@@ -111,7 +111,7 @@
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">2.To provide training on unconventional warfare.
+                                        <p class="mr-4 lead">2. To provide training on unconventional warfare.
                                         </p>
                                     </li>
                                     <li class="d-sm-flex align-items-center
@@ -130,42 +130,42 @@
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">5.To provide required training to all members
+                                        <p class="mr-4 lead">5. To provide required training to all members
                                             under SWADS command to meet national crisis.
                                         </p>
                                     </li>
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">6.To provide training on Diving Medicine and
+                                        <p class="mr-4 lead">6. To provide training on Diving Medicine and
                                             Tactical Combat Casualty Care.
                                         </p>
                                     </li>
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">7.To provide training on Counter Terrorism, Anti-
+                                        <p class="mr-4 lead">7. To provide training on Counter Terrorism, Anti-
                                             Smuggling, Anti-Piracy and Fishery Protection.
                                         </p>
                                     </li>
                                     <li class="d-sm-flex align-items-center
                                     border-bottom pb-3
                                     mb-3">
-                                    <p class="mr-4 lead">8.To provide training on Search, Neutralization and
+                                    <p class="mr-4 lead">8. To provide training on Search, Neutralization and
                                         Disposal of Explosive and Explosive Ordnance.
                                     </p>
                                 </li>
                                 <li class="d-sm-flex align-items-center
                                 border-bottom pb-3
                                 mb-3">
-                                <p class="mr-4 lead">9.To provide training to armed forces members
+                                <p class="mr-4 lead">9. To provide training to armed forces members
                                     of friendly countries.
                                 </p>
                             </li>
                             <li class="d-sm-flex align-items-center
                             border-bottom pb-3
                             mb-3">
-                            <p class="mr-4 lead">10.To facilitate coastal crime prevention and fisheries protection
+                            <p class="mr-4 lead">10. To facilitate coastal crime prevention and fisheries protection
                             </p>
                         </li>
                                 </ul>
@@ -202,70 +202,46 @@
                                     </ul>
                                 </div>
                                 <div class="col-lg-12 col-md-12">
-                                    <div class="tab_content desc_box">
-                                        <div class="tabs_item" style="display:
-                                        block; width: 100%;">
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/1.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/1.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/2.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/2.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                          
-                                        </div>
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/3.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/3.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                          <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/4.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/4.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                           
-                                        </div>
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-                                          
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/7.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/7.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/6.png"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/6.png"
-                                                 class="popup-youtube"></a>
-                                           </div> 
-                                        </div>
-                                     </div>
+                        <div class="tab_content desc_box">
+                           <div class="tabs_item popup-gallery" style="display:
+                              block; width: 100%;">
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/1.jpg" >
+                                          <img src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/1.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/3.jpg" >
+                                          <img src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/3.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/4.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/4.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/5.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/5.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/6.png">
+                                          <img src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/6.png" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/7.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/9.school of special warfare and diving salavage school/resize/7.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+
+                           </div>
                                        <!-- video -->
                           <div class="tabs_item" style="display:
                           none;">
@@ -543,34 +519,4 @@
 
     <!-- js -->
     <?php include '../footer.php'; ?>
-        <script>
-  $('.owl-carousel').owlCarousel({
-      loop: false,
-      dots: false,
-      // margin:10,
-      nav: false,
-      responsive: {
-          0: {
-              items: 1
-          },
-          600: {
-              items: 2
-          },
-          1000: {
-              items: 2
-          }
-      }
-  })
-  
-  
-  $(document).ready(function () {
-      $('.collapse.in').prev('.panel-heading').addClass('active');
-      $('#accordion, #bs-collapse')
-          .on('show.bs.collapse', function (a) {
-              $(a.target).prev('.panel-heading').addClass('active');
-          })
-          .on('hide.bs.collapse', function (a) {
-              $(a.target).prev('.panel-heading').removeClass('active');
-          });
-  });
-</script>
+       

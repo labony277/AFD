@@ -48,17 +48,17 @@
                             <div class="carousel-item active" style="height:
                                 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/15.naval provost and regulating school/1. First Pic (Double Page)-min.JPG"
+                                    src="../assets/img/school/Bangladesh Navy/15.npr school/1. First Pic (Double Page)-min.JPG"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/15.naval provost and regulating school/2-min.JPG"
+                                    src="../assets/img/school/Bangladesh Navy/15.npr school/2-min.JPG"
                                     alt="Second slide">
                             </div>
                             <div class="carousel-item" style="height: 500px">
                                 <img class="d-block w-100"
-                                    src="../assets/img/school/Bangladesh Navy/15.naval provost and regulating school/3.-min.JPG"
+                                    src="../assets/img/school/Bangladesh Navy/15.npr school/3.-min.JPG"
                                     alt="Third slide">
                             </div>
                         </div>
@@ -155,70 +155,46 @@
                                     </ul>
                                 </div>
                                 <div class="col-lg-12 col-md-12">
-                                    <div class="tab_content desc_box">
-                                        <div class="tabs_item" style="display:
-                                        block; width: 100%;">
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/15.npr school/resize/1.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/15.npr school/resize/1.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/15.npr school/resize/2.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/15.npr school/resize/2.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                          
-                                        </div>
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/15.npr school/resize/3.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/15.npr school/resize/3.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                          <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/15.npr school/resize/4.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/15.npr school/resize/4.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                           
-                                        </div>
-                                        <div class="tv-show-slides
-                                           owl-carousel owl-theme">
-                                          
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/15.npr school/resize/5.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/15.npr school/resize/5.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div>
-                                           <div class="single-tv-show">
-                                              <img
-                                                 src="../assets/img/school/Bangladesh Navy/15.npr school/resize/6.jpg"
-                                                 alt="image">
-                                              <a
-                                                 href="../assets/img/school/Bangladesh Navy/15.npr school/resize/6.jpg"
-                                                 class="popup-youtube"></a>
-                                           </div> 
-                                        </div>
-                                     </div>
+                        <div class="tab_content desc_box">
+                           <div class="tabs_item popup-gallery" style="display:
+                              block; width: 100%;">
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/15.npr school/resize/1.jpg" >
+                                          <img src="../assets/img/school/Bangladesh Navy/15.npr school/resize/1.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/15.npr school/resize/2.jpg" >
+                                          <img src="../assets/img/school/Bangladesh Navy/15.npr school/resize/2.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/15.npr school/resize/3.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/15.npr school/resize/3.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/15.npr school/resize/4.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/15.npr school/resize/4.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/15.npr school/resize/5.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/15.npr school/resize/5.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/15.npr school/resize/6.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/15.npr school/resize/6.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+
+                           </div>
                                        <!-- video -->
                           <div class="tabs_item" style="display:
                           none;">
@@ -316,34 +292,4 @@
 
     <!-- js -->
     <?php include '../footer.php'; ?>
-        <script>
-  $('.owl-carousel').owlCarousel({
-      loop: false,
-      dots: false,
-      // margin:10,
-      nav: false,
-      responsive: {
-          0: {
-              items: 1
-          },
-          600: {
-              items: 2
-          },
-          1000: {
-              items: 2
-          }
-      }
-  })
-  
-  
-  $(document).ready(function () {
-      $('.collapse.in').prev('.panel-heading').addClass('active');
-      $('#accordion, #bs-collapse')
-          .on('show.bs.collapse', function (a) {
-              $(a.target).prev('.panel-heading').addClass('active');
-          })
-          .on('hide.bs.collapse', function (a) {
-              $(a.target).prev('.panel-heading').removeClass('active');
-          });
-  });
-</script>
+      

@@ -183,7 +183,7 @@
          <!-- end swads school -->
          <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="bangladesh_navy/seamanship.php"> <img src="assets/img/school/Bangladesh Navy/10. bns shaheed mozzam seamanship school/2 -min.JPG" alt="image"></a> 
+                <a href="bangladesh_navy/seamanship.php"> <img src="assets/img/school/Bangladesh Navy/10.seamanship school/resize/1.jpg" alt="image"></a> 
             </div>
             <div class="member-content">
                 <h3>SEAMANSHIP SCHOOL</h3>
@@ -279,7 +279,7 @@
          <!-- end solam -->
          <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="bangladesh_navy/npr.php"> <img src="assets/img/school/Bangladesh Navy/15.naval provost and regulating school/2-min.JPG" alt="image"></a> 
+                <a href="bangladesh_navy/npr.php"> <img src="assets/img/school/Bangladesh Navy/15.npr school/2-min.JPG" alt="image"></a> 
             </div>
             <div class="member-content">
                 <h3>NAVAL PROVOST AND REGULATING SCHOOL</h3>

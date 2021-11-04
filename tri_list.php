@@ -5,7 +5,7 @@
         <!-- start ndc -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="inter_service_institute/ndc.php"> <img src="assets/img/school/baf/1.BAFA/RESIZE/2.jpg"
+                <a href="inter_service_institute/ndc.php"> <img src="assets/img/school/TRI Service Institutions/1.NDC/2-min.jpg"
                         alt="image"></a>
             </div>
             <div class="member-content">
@@ -25,7 +25,7 @@
         <!-- end NDC -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="inter_service_institute/dscsc.php"> <img src="assets/img/school/baf/4.FSI BAF/6 .jpg"
+                <a href="inter_service_institute/dscsc.php"> <img src="assets/img/school/TRI Service Institutions/2.DSCSC/1.jpg"
                         alt="image"></a>
             </div>
             <div class="member-content">

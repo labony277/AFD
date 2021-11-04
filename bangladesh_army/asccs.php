@@ -30,7 +30,7 @@
                      <img class="d-block w-100" src="../assets/img/school/BA/7.  ASCC&S/5.jpg" alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100" src="../assets/img/school/BA/7.  ASCC&S/6 .jpg" alt="Third slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/7.  ASCC&S/1. First Pic (Double Page).jpg" alt="Third slide">
                   </div>
                </div>
                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -69,28 +69,28 @@
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">1.To Provide basic training to the newly
+                           <p class="mr-4 lead">1. To Provide basic training to the newly
                               commissioned officers of Army Service Corps.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">2.To Conduct Sergeants’ Course and Warrant
+                           <p class="mr-4 lead">2. To Conduct Sergeants’ Course and Warrant
                               Officers’ Course.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">3.To Train drivers of infantry, Army Medical Corps
+                           <p class="mr-4 lead">3. To Train drivers of infantry, Army Medical Corps
                               and Military Police.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">4.To Conduct Catering Courses for the cook of all
+                           <p class="mr-4 lead">4. To Conduct Catering Courses for the cook of all
                               arms/services.
                            </p>
                         </li>
@@ -127,54 +127,46 @@
                      </div>
                      <div class="col-lg-12 col-md-12">
                         <div class="tab_content desc_box">
-                           <div class="tabs_item" style="display:
+                           <div class="tabs_item popup-gallery" style="display:
                               block; width: 100%;">
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
-                                 </div>
-                              </div>
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/5.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/5.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
-                                 </div>
-                              </div>
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/7.  ASCC&S/1. First Pic (Double Page).jpg" >
+                                          <img src="../assets/img/school/BA/7.  ASCC&S/1. First Pic (Double Page).jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/7.  ASCC&S/2. .jpg" >
+                                          <img src="../assets/img/school/BA/7.  ASCC&S/2. .jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/7.  ASCC&S/3.jpg">
+                                          <img src="../assets/img/school/BA/7.  ASCC&S/3.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/7.  ASCC&S/5.jpg">
+                                          <img src="../assets/img/school/BA/7.  ASCC&S/5.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/7.  ASCC&S/6 .jpg">
+                                          <img src="../assets/img/school/BA/7.  ASCC&S/6 .jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/7.  ASCC&S/1. First Pic (Double Page).jpg">
+                                          <img src="../assets/img/school/BA/7.  ASCC&S/1. First Pic (Double Page).jpg" alt="" />
+                                       </a>
+                                    </div>
                                  </div>
                               </div>
+
                            </div>
+                           <!-- video -->
                            <div class="tabs_item" style="display:
                               none;">
                               <video width="100%" height="240" controls="">
@@ -184,6 +176,7 @@
                                  the video tag.
                               </video>
                            </div>
+                           <!-- map -->
                            <div class="tabs_item" style="display:
                               none;">
                               <iframe
@@ -264,34 +257,3 @@
    </section>
 </div>
 <?php include '../footer.php'; ?>
-<script>
-   $('.owl-carousel').owlCarousel({
-      loop: false,
-      dots: false,
-      // margin:10,
-      nav: false,
-      responsive: {
-         0: {
-            items: 1
-         },
-         600: {
-            items: 2
-         },
-         1000: {
-            items: 2
-         }
-      }
-   })
-
-
-   $(document).ready(function () {
-      $('.collapse.in').prev('.panel-heading').addClass('active');
-      $('#accordion, #bs-collapse')
-         .on('show.bs.collapse', function (a) {
-            $(a.target).prev('.panel-heading').addClass('active');
-         })
-         .on('hide.bs.collapse', function (a) {
-            $(a.target).prev('.panel-heading').removeClass('active');
-         });
-   });
-</script>

@@ -101,7 +101,7 @@
                        <li class="d-sm-flex align-items-center
                           border-bottom pb-3
                           mb-3">
-                          <p class="mr-4 lead">1.To conduct professional courses for BAF
+                          <p class="mr-4 lead">1. To conduct professional courses for BAF
                             airmen.
                           </p>
                        </li>
@@ -150,33 +150,33 @@
                               <div class="col-md-12">
                                  <div class="row">
                                     <div class="col-md-6 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/2.jpg" >
-                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/2.jpg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/9.ATI BAF/resize/2.jpg" >
+                                          <img src="../assets/img/school/baf/9.ATI BAF/resize/2.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 m-0 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/1.jpg" >
-                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/1.jpg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/9.ATI BAF/resize/3.jpg" >
+                                          <img src="../assets/img/school/baf/9.ATI BAF/resize/3.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/3.jpg">
-                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/3.jpg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/9.ATI BAF/resize/4.jpg">
+                                          <img src="../assets/img/school/baf/9.ATI BAF/resize/4.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 m-0 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/4.jpg">
-                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/4.jpg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/9.ATI BAF/resize/5.jpg">
+                                          <img src="../assets/img/school/baf/9.ATI BAF/resize/5.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/5.jpg">
-                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/5.jpg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/9.ATI BAF/resize/6.jpg">
+                                          <img src="../assets/img/school/baf/9.ATI BAF/resize/6.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 m-0 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/7.jpg">
-                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/7.jpg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/9.ATI BAF/resize/7.jpg">
+                                          <img src="../assets/img/school/baf/9.ATI BAF/resize/7.jpg" alt="" />
                                        </a>
                                     </div>
                                  </div>

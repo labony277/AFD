@@ -94,7 +94,7 @@
                         </div>
                         <h3>TRI SERVICE INSTITUTION</h3>
                     </div>
-                    <a href="school_list.php" class="view-plans-btn">View
+                    <a href="tri_list.php" class="view-plans-btn">View
                         Details</a>
                     <div class="image-box">
                         <img src="assets/img/shape-image/2.png" alt="image">

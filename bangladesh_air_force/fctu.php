@@ -102,7 +102,7 @@
                        <li class="d-sm-flex align-items-center
                           border-bottom pb-3
                           mb-3">
-                          <p class="mr-4 lead">1.To impart basic professional training to
+                          <p class="mr-4 lead">1. To impart basic professional training to
                             Bangladesh, Overseas and sister services
                             officers of air defence branch.
                           </p>
@@ -117,21 +117,21 @@
                        <li class="d-sm-flex align-items-center
                           border-bottom pb-3
                           mb-3">
-                          <p class="mr-4 lead">3.To impart trade training of Radar Operator of
+                          <p class="mr-4 lead">3. To impart trade training of Radar Operator of
                             BAF.
                           </p>
                        </li>
                        <li class="d-sm-flex align-items-center
                           border-bottom pb-3
                           mb-3">
-                          <p class="mr-4 lead">4.To evaluate and update air defence tactics
+                          <p class="mr-4 lead">4. To evaluate and update air defence tactics
                             and techniques.
                           </p>
                        </li>
                        <li class="d-sm-flex align-items-center
                           border-bottom pb-3
                           mb-3">
-                          <p class="mr-4 lead">5.To carry out training support activities like
+                          <p class="mr-4 lead">5. To carry out training support activities like
                             assisting in holding central categorization
                             test for ADWC branch officers.
                           </p>
@@ -139,7 +139,7 @@
                        <li class="d-sm-flex align-items-center
                           border-bottom pb-3
                           mb-3">
-                          <p class="mr-4 lead">6.To conduct flight following courses for the
+                          <p class="mr-4 lead">6. To conduct flight following courses for the
                             deployment of BAF personnel in UN missions.
                           </p>
                        </li>
@@ -176,70 +176,46 @@
                        </ul>
                     </div>
                     <div class="col-lg-12 col-md-12">
-                       <div class="tab_content desc_box">
-                          <div class="tabs_item" style="display:
-                             block; width: 100%;">
-                             <div class="tv-show-slides
-                                owl-carousel owl-theme">
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/6.FCTU BAF/resize/5.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/6.FCTU BAF/resize/5.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/6.FCTU BAF/resize/4.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/6.FCTU BAF/resize/4.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                               
-                             </div>
-                             <div class="tv-show-slides
-                                owl-carousel owl-theme">
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/6.FCTU BAF/resize/6.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/6.FCTU BAF/resize/6.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                               <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/6.FCTU BAF/resize/1.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/6.FCTU BAF/resize/1.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                                
-                             </div>
-                             <div class="tv-show-slides
-                                owl-carousel owl-theme">
-                               
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/6.FCTU BAF/resize/2.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/6.FCTU BAF/resize/2.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/6.FCTU BAF/resize/3.png"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/6.FCTU BAF/resize/3.png"
-                                      class="popup-youtube"></a>
-                                </div> 
-                             </div>
-                          </div>
+                        <div class="tab_content desc_box">
+                           <div class="tabs_item popup-gallery" style="display:
+                              block; width: 100%;">
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/6.FCTU BAF/resize/1.jpg" >
+                                          <img src="../assets/img/school/baf/6.FCTU BAF/resize/1.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/6.FCTU BAF/resize/2.jpg" >
+                                          <img src="../assets/img/school/baf/6.FCTU BAF/resize/2.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/6.FCTU BAF/resize/3.png">
+                                          <img src="../assets/img/school/baf/6.FCTU BAF/resize/3.png" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/6.FCTU BAF/resize/4.jpg">
+                                          <img src="../assets/img/school/baf/6.FCTU BAF/resize/4.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/6.FCTU BAF/resize/5.jpg">
+                                          <img src="../assets/img/school/baf/6.FCTU BAF/resize/5.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/6.FCTU BAF/resize/6.jpg">
+                                          <img src="../assets/img/school/baf/6.FCTU BAF/resize/6.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+
+                           </div>
                           <!-- video -->
                           <div class="tabs_item" style="display:
                              none;">
@@ -449,34 +425,3 @@
 <!-- end table -->
 <!-- js -->
 <?php include '../footer.php'; ?>
-<script>
-  $('.owl-carousel').owlCarousel({
-      loop: false,
-      dots: false,
-      // margin:10,
-      nav: false,
-      responsive: {
-          0: {
-              items: 1
-          },
-          600: {
-              items: 2
-          },
-          1000: {
-              items: 2
-          }
-      }
-  })
-  
-  
-  $(document).ready(function () {
-      $('.collapse.in').prev('.panel-heading').addClass('active');
-      $('#accordion, #bs-collapse')
-          .on('show.bs.collapse', function (a) {
-              $(a.target).prev('.panel-heading').addClass('active');
-          })
-          .on('hide.bs.collapse', function (a) {
-              $(a.target).prev('.panel-heading').removeClass('active');
-          });
-  });
-</script>
