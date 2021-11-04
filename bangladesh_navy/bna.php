@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 
 <style>
    .header_back {
@@ -148,33 +148,33 @@
                               <div class="col-md-12">
                                  <div class="row">
                                     <div class="col-md-6 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/7.jpeg">
-                                          <img src="../assets/img/school/bma/7.jpeg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/1.bna/resize/2.jpg" >
+                                          <img src="../assets/img/school/Bangladesh Navy/1.bna/resize/2.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 m-0 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/4.jpeg">
-                                          <img src="../assets/img/school/bma/4.jpeg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/1.bna/resize/3.jpg" >
+                                          <img src="../assets/img/school/Bangladesh Navy/1.bna/resize/3.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/3.jpeg">
-                                          <img src="../assets/img/school/bma/3.jpeg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/1.bna/resize/4.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/1.bna/resize/4.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 m-0 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/5.jpeg">
-                                          <img src="../assets/img/school/bma/5.jpeg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/1.bna/resize/5.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/1.bna/resize/5.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/2.jpeg">
-                                          <img src="../assets/img/school/bma/2.jpeg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/1.bna/resize/8.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/1.bna/resize/8.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 m-0 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/bma/2.jpeg">
-                                          <img src="../assets/img/school/bma/2.jpeg" alt="" />
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/Bangladesh Navy/1.bna/resize/3.jpg">
+                                          <img src="../assets/img/school/Bangladesh Navy/1.bna/resize/3.jpg" alt="" />
                                        </a>
                                     </div>
                                  </div>
@@ -431,4 +431,4 @@
 </div>
 <!-- end table -->
 <!-- js -->
-<?php include '../footer.php'; ?>
+<?php include '../footer.php';?>

@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 
 <style>
     .header_back {
@@ -180,74 +180,50 @@
                        </ul>
                     </div>
                     <div class="col-lg-12 col-md-12">
-                       <div class="tab_content desc_box">
-                          <div class="tabs_item" style="display:
-                             block; width: 100%;">
-                             <div class="tv-show-slides
-                                owl-carousel owl-theme">
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/1.BAFA/RESIZE/4.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/1.BAFA/RESIZE/4.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/1.BAFA/RESIZE/5.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/1.BAFA/RESIZE/5.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                               
-                             </div>
-                             <div class="tv-show-slides
-                                owl-carousel owl-theme">
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/1.BAFA/RESIZE/3.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/1.BAFA/RESIZE/3.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                               <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/1.BAFA/RESIZE/2.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/1.BAFA/RESIZE/2.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                                
-                             </div>
-                             <div class="tv-show-slides
-                                owl-carousel owl-theme">
-                               
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/1.BAFA/RESIZE/1.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/1.BAFA/RESIZE/1.jpg"
-                                      class="popup-youtube"></a>
-                                </div>
-                                <div class="single-tv-show">
-                                   <img
-                                      src="../assets/img/school/baf/1.BAFA/RESIZE/7.jpg"
-                                      alt="image">
-                                   <a
-                                      href="../assets/img/school/baf/1.BAFA/RESIZE/7.jpg"
-                                      class="popup-youtube"></a>
-                                </div> 
-                             </div>
-                          </div>
+                        <div class="tab_content desc_box">
+                           <div class="tabs_item popup-gallery" style="display:
+                              block; width: 100%;">
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/2.jpg" >
+                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/2.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/1.jpg" >
+                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/1.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/3.jpg">
+                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/3.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/4.jpg">
+                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/4.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/5.jpg">
+                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/5.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/baf/1.BAFA/RESIZE/7.jpg">
+                                          <img src="../assets/img/school/baf/1.BAFA/RESIZE/7.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+
+                           </div>
                           <!-- video -->
                           <div class="tabs_item" style="display:
                              none;">
-                           
+
                            <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </div>
                           <!-- map -->
@@ -322,7 +298,7 @@
                                  <td>Officer Cadet
                                  </td>
                                  <td>208 Weeks
-                                    
+
                                  </td>
                                  <td>02</td>
                               </tr>
@@ -331,9 +307,9 @@
                      </div>
                   </div>
                   <!-- end of panel -->
-                
-                   
-                   
+
+
+
                </div>
             </div>
          </div>
@@ -342,35 +318,4 @@
 </div>
 <!-- end table -->
 <!-- js -->
-<?php include '../footer.php'; ?>
-<script>
-  $('.owl-carousel').owlCarousel({
-      loop: false,
-      dots: false,
-      // margin:10,
-      nav: false,
-      responsive: {
-          0: {
-              items: 1
-          },
-          600: {
-              items: 2
-          },
-          1000: {
-              items: 2
-          }
-      }
-  })
-  
-  
-  $(document).ready(function () {
-      $('.collapse.in').prev('.panel-heading').addClass('active');
-      $('#accordion, #bs-collapse')
-          .on('show.bs.collapse', function (a) {
-              $(a.target).prev('.panel-heading').addClass('active');
-          })
-          .on('hide.bs.collapse', function (a) {
-              $(a.target).prev('.panel-heading').removeClass('active');
-          });
-  });
-</script>
+<?php include '../footer.php';?>
