@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 
     <style>
     .header_back {
@@ -118,7 +118,7 @@
                                     <li class="d-sm-flex align-items-center
                                         border-bottom pb-3
                                         mb-3">
-                                        <p class="mr-4 lead">3. TTo build up professional ability for shouldering
+                                        <p class="mr-4 lead">3. To build up professional ability for shouldering
                                             higher responsibilities in and outside the
                                             military environment
                                         </p>
@@ -198,8 +198,8 @@
                                        <!-- video -->
                           <div class="tabs_item" style="display:
                           none;">
-                        
-                        <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                        <iframe width="100%" height="215" src="https://www.youtube.com/embed/_eqTI5yCLjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                        </div>
                                         <!-- map -->
                                         <div class="tabs_item" style="display:
@@ -273,7 +273,7 @@
                                     rate sailor
                                   </td>
                                   <td>20 Weeks
-                                     
+
                                   </td>
                                   <td>02</td>
                                </tr>
@@ -291,5 +291,4 @@
  <!-- end table -->
 
     <!-- js -->
-    <?php include '../footer.php'; ?>
-      
+    <?php include '../footer.php';?>

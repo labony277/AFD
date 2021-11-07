@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 <div class="page-title-area">
    <div class="page-title-content">
       <div class="row justify-content-center">
@@ -180,16 +180,18 @@
                            <!-- video -->
                            <div class="tabs_item" style="display:
                               none;">
-                              <video width="100%" height="240" controls="">
+                              <!-- <video width="100%" height="240" controls="">
                                  <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
                                  <source src="movie.ogg" type="video/ogg">
                                  Your browser does not support
                                  the video tag.
-                              </video>
+                              </video> -->
+                              <iframe width="100%" height="215" src="https://www.youtube.com/embed/OCOPgiIbbbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                            </div>
+                            <!-- map -->
                            <div class="tabs_item" style="display:
                               none;">
-                              <!-- map -->
+
                               <iframe
                                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5215.800004864782!2d91.75318877559856!3d22.42422445560544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd754c83a4c09%3A0x5a643c5a4c3037ba!2sBangladesh%20Military%20Academy!5e0!3m2!1sen!2sbd!4v1632202754569!5m2!1sen!2sbd"
                                  width="100%" height="215" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -314,4 +316,4 @@
 </div>
 <!-- end table -->
 <!-- js -->
-<?php include '../footer.php'; ?>
+<?php include '../footer.php';?>

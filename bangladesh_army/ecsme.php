@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 <div class="page-title-area">
     <div class="page-title-content">
         <div class="row justify-content-center">
@@ -14,7 +14,7 @@
 
     </div>
 </div>
-
+<!-- slider -->
 
 <section class="services-details-area ptb-100 jarallax" data-jarallax='{"
         speed" : 0.2}'>
@@ -123,24 +123,27 @@
                     </div>
                 </div>
 
-
-                <div class="col-lg-4 col-md-12">
-                    <div class="tab products-details-tab">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-12 col-md-12">
-                                <ul class="tabs active">
-                                    <li class="current"><a href="#">
-                                            Gallery
-                                        </a></li>
-                                    <li class=""><a href="#">
-                                            Video
-                                        </a></li>
-                                    <li class=""><a href="#">
-                                            Map
-                                        </a></li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-12 col-md-12">
+            <!-- gallery,map,vdeo -->
+               <div class="col-lg-4 col-md-12">
+               <div class="tab products-details-tab">
+                  <div class="row justify-content-center">
+                     <div class="col-lg-12 col-md-12">
+                        <ul class="tabs active">
+                           <li class="current"><a href="#">
+                                 Gallery
+                              </a>
+                           </li>
+                           <li class=""><a href="#">
+                                 Video
+                              </a>
+                           </li>
+                           <li class=""><a href="#">
+                                 Map
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="col-lg-12 col-md-12">
                         <div class="tab_content desc_box">
                            <div class="tabs_item popup-gallery" style="display:
                               block; width: 100%;">
@@ -158,23 +161,23 @@
                                        </a>
                                     </div>
                                     <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/4. ECSME/3 -min.jpg">
+                                          <img src="../assets/img/school/BA/4. ECSME/3 -min.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
                                        <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/4. ECSME/4.jpg">
                                           <img src="../assets/img/school/BA/4. ECSME/4.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/4. ECSME/5-min.jpg">
+                                          <img src="../assets/img/school/BA/4. ECSME/5-min.jpg" alt="" />
                                        </a>
                                     </div>
                                     <div class="col-md-6 m-0 p-1">
                                        <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/4. ECSME/6 Last Page.jpg">
                                           <img src="../assets/img/school/BA/4. ECSME/6 Last Page.jpg" alt="" />
-                                       </a>
-                                    </div>
-                                    <div class="col-md-6 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/4. ECSME/2 .jpg">
-                                          <img src="../assets/img/school/BA/4. ECSME/2 .jpg" alt="" />
-                                       </a>
-                                    </div>
-                                    <div class="col-md-6 m-0 p-1">
-                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/4. ECSME/1. First Pic (Double Page).jpg">
-                                          <img src="../assets/img/school/BA/4. ECSME/1. First Pic (Double Page).jpg" alt="" />
                                        </a>
                                     </div>
                                  </div>
@@ -184,12 +187,7 @@
                                     <!-- video -->
                                     <div class="tabs_item" style="display:
                                             none;">
-                                        <video width="100%" height="240" controls="">
-                                            <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
-                                            <source src="movie.ogg" type="video/ogg">
-                                            Your browser does not support
-                                            the video tag.
-                                        </video>
+                                        <iframe width="100%" height="215" src="https://www.youtube.com/embed/OCOPgiIbbbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                     <!-- map -->
                                     <div class="tabs_item" style="display:
@@ -199,7 +197,7 @@
                                             width="100%" height="250" style="border:0;" allowfullscreen=""
                                             loading="lazy"></iframe>
                                     </div>
-                                </div>
+                                </>
                             </div>
                         </div>
                     </div>
@@ -345,5 +343,5 @@
 
 
 
-<?php include '../footer.php'; ?>
+<?php include '../footer.php';?>
 

@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 <div class="page-title-area">
    <div class="page-title-content">
       <div class="row justify-content-center">
@@ -121,62 +121,48 @@
                      </div>
                      <div class="col-lg-12 col-md-12">
                         <div class="tab_content desc_box">
-                           <div class="tabs_item" style="display:
+                           <div class="tabs_item popup-gallery" style="display:
                               block; width: 100%;">
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
-                                 </div>
-                              </div>
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/5.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/5.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/3.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/3.jpeg" class="popup-youtube"></a>
-                                 </div>
-                              </div>
-                              <div class="tv-show-slides
-                                 owl-carousel owl-theme">
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/2.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/2.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/4.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/4.jpeg" class="popup-youtube"></a>
-                                 </div>
-                                 <div class="single-tv-show">
-                                    <img src="../assets/img/school/bma/7.jpeg" alt="image">
-                                    <a href="../assets/img/school/bma/7.jpeg" class="popup-youtube"></a>
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/14. ASPTS/2 .jpg" >
+                                          <img src="../assets/img/school/BA/14. ASPTS/2 .jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/14. ASPTS/3 .jpg" >
+                                          <img src="../assets/img/school/BA/14. ASPTS/3 .jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/14. ASPTS/4.jpg">
+                                          <img src="../assets/img/school/BA/14. ASPTS/4.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/14. ASPTS/5.jpg">
+                                          <img src="../assets/img/school/BA/14. ASPTS/5.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/14. ASPTS/6 .jpg">
+                                          <img src="../assets/img/school/BA/14. ASPTS/6 .jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/14. ASPTS/7 .jpg">
+                                          <img src="../assets/img/school/BA/14. ASPTS/7 .jpg" alt="" />
+                                       </a>
+                                    </div>
                                  </div>
                               </div>
+
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
-                              <video width="100%" height="240" controls="">
-                                 <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
-                                 <source src="movie.ogg" type="video/ogg">
-                                 Your browser does not support
-                                 the video tag.
-                              </video>
+                              <iframe width="100%" height="215" src="https://www.youtube.com/embed/OCOPgiIbbbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                            </div>
                            <div class="tabs_item" style="display:
                               none;">
@@ -308,7 +294,7 @@
 </div>
 <!-- end table -->
 <!-- js -->
-<?php include '../footer.php'; ?>
+<?php include '../footer.php';?>
 <script>
    $('.owl-carousel').owlCarousel({
       loop: false,

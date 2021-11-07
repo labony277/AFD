@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 <div class="page-title-area">
    <div class="page-title-content">
       <div class="row justify-content-center">
@@ -190,12 +190,7 @@
                            <!-- video -->
                            <div class="tabs_item" style="display:
                               none;">
-                              <video width="100%" height="240" controls="">
-                                 <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
-                                 <source src="movie.ogg" type="video/ogg">
-                                 Your browser does not support
-                                 the video tag.
-                              </video>
+                              <iframe width="100%" height="215" src="https://www.youtube.com/embed/OCOPgiIbbbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                            </div>
                            <!-- video -->
                            <div class="tabs_item" style="display:
@@ -379,4 +374,4 @@
       </div>
    </section>
 </div>
-<?php include '../footer.php'; ?>
+<?php include '../footer.php';?>

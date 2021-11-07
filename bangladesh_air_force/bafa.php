@@ -118,33 +118,33 @@
                        <li class="d-sm-flex align-items-center
                           border-bottom pb-3
                           mb-3">
-                          <p class="mr-4 lead">3.To impart academic training to the cadets and
+                          <p class="mr-4 lead">3. To impart academic training to the cadets and
                             under trainee officers.
                           </p>
                        </li>
                        <li class="d-sm-flex align-items-center
                        border-bottom pb-3
                        mb-3">
-                       <p class="mr-4 lead">4.To impart flying training to the Officer Cadets.
+                       <p class="mr-4 lead">4. To impart flying training to the Officer Cadets.
                        </p>
                     </li>
                     <li class="d-sm-flex align-items-center
                     border-bottom pb-3
                     mb-3">
-                    <p class="mr-4 lead">5.To conduct technical training (Level-1).
+                    <p class="mr-4 lead">5. To conduct technical training (Level-1).
                     </p>
                  </li>
                  <li class="d-sm-flex align-items-center
                  border-bottom pb-3
                  mb-3">
-                 <p class="mr-4 lead">6.To impart training to the trainees of foreign
+                 <p class="mr-4 lead">6. To impart training to the trainees of foreign
                     countries/other services/organization.
                  </p>
               </li>
               <li class="d-sm-flex align-items-center
               border-bottom pb-3
               mb-3">
-              <p class="mr-4 lead">7.To conduct any other training and activities as
+              <p class="mr-4 lead">7. To conduct any other training and activities as
                 directed by Air Headquarters.
               </p>
            </li>
@@ -224,7 +224,7 @@
                           <div class="tabs_item" style="display:
                              none;">
 
-                           <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                           <iframe width="100%" height="215" src="https://www.youtube.com/embed/6rMkULUBTXk" title="YouTube video                            player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;                            picture-in-picture" allowfullscreen></iframe>
                           </div>
                           <!-- map -->
                           <div class="tabs_item" style="display:

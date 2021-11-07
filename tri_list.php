@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';?>
 
 <section class="team-area ptb-100">
     <div class="container">
@@ -46,7 +46,7 @@
         <!-- end dscsc -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="inter_service_institute/afmc.php"> <img src="assets/img/school/baf/2.HSTI/resize/2.jpg"
+                <a href="inter_service_institute/afmc.php"> <img src="assets/img/school/TRI Service Institutions/3.AFMC/1.jpg"
                         alt="image"></a>
             </div>
             <div class="member-content">
@@ -82,4 +82,4 @@
 </section>
 
 
-<?php include 'footer.php'; ?>
+<?php include 'footer.php';?>

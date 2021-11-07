@@ -1,17 +1,17 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';?>
 
 <section class="team-area ptb-100">
     <div class="container">
         <!-- bma -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="bangladesh_army/bma.php"> <img src="assets/img/school/BA/1.bma/2.jpeg" alt="image"></a> 
+                <a href="bangladesh_army/bma.php"> <img src="assets/img/school/BA/1.bma/2.jpeg" alt="image"></a>
             </div>
             <div class="member-content">
                 <h3>BANGLADESH MILITARY ACADEMY (BMA)</h3>
                 <span><i class="fas fa-map-marker"></i> Bhatiary, Chattogram</span>
                 <ul class="social">
-                    <p>To prepare officer cadets/Trainee officers for grant of commission as officers in Bangladesh Army......</p>
+                    <p>To prepare officer cadets/Trainee officers for grant of commission as officers in Bangladesh Army.......</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -19,7 +19,7 @@
                 </div>
             </div>
         </div>
-        
+
         <!-- acc&s -->
         <div class="single-team-member services-box">
             <div class="member-image">
@@ -29,10 +29,7 @@
                 <h3>ARMOURED CORPS CENTRE AND SCHOOL (ACC & S)</h3>
                 <span><i class="fas fa-map-marker"></i>  Majhira Cantonment, Bogura.</span>
                 <ul class="social">
-                    <p>To impart fundamental miltary training to the recruits
-                        a5 well as to impart basic and advance training to
-                        young officers, mid-levelofticers, Junior Commissioned
-                        Officers and Non-Commissioned officers ....</p>
+                    <p>To impart fundamental military training to the recruits as well as to impart basic and advance training ....</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -49,11 +46,7 @@
                 <h3>ARTILLERY CENTER AND SCHOOL (AC & S)</h3>
                 <span><i class="fas fa-map-marker"></i>  Halishahar in the port city of Chattogram</span>
                 <ul class="social">
-                    <p>T‘The School of Artilery.
-                        The aim of School of Arty is to train junior and mid-level
-                        officers with a view to making them proficient on basic
-                        and advance gunnery, tactics, command,
-                        leadership and management......</p>
+                    <p>The aim of School of Artillery is to train junior and mid-level officers with a view to making them proficient......</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -70,13 +63,7 @@
                 <h3>ENGINEER CENTRE AND SCHOOL OF MILITARY ENGINEERING (ECSME)</h3>
                 <span><i class="fas fa-map-marker"></i>  Qadirabad Cantonment,Dayarampur,Bagatipara, Natore.</span>
                 <ul class="social">
-                    <p>The aim of this institution is to provide basic
-                        military and combat engineering training, initial
-                        trade training, Advance Engineering and Technical
-                        Training to all ranks (Officers, junior commissioned
-                        officer, Others ranks including Military Engineering
-                        Services (MES) personnel and recruits)
-                        ......</p>
+                    <p>The aim of this institution is to provide basic military and combat engineering training, initial trade training, advance......</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -94,8 +81,7 @@
                 <h3>SIGNAL TRAINING CENTRE AND SCHOOL (STC&S)</h3>
                 <span><i class="fas fa-map-marker"></i>Eastern side of Jashore-Kustia Highway.</span>
                 <ul class="social">
-                    <p>Toprovide signal training facilities for all ranks of the
-                        Corps of Signals and other Arms signal personnel......</p>
+                    <p>To provide signal training facilities for all ranks of the Corps of Signals and signal personnel of other Arms and Services.......</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -113,9 +99,7 @@
                 <span><i class="fas fa-map-marker"></i>  Jalalabad Cantonment at
                     Sylhet eight divisional headquarters</span>
                 <ul class="social">
-                    <p>To train potential battalion / regiment
-                        commanders of all arms and services in tactics
-                        and handling of troops in the field.</p>
+                    <p>To train potential battalion / regiment commanders of all arms and services in tactics and handling of troops in the field.......</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -133,9 +117,7 @@
                 <span><i class="fas fa-map-marker"></i>  Khulna city at the river bank
                     of river “BHOIRAB”</span>
                 <ul class="social">
-                    <p>The aim of Army Service Corps Centre and School
-                        is to train officers’ and soldiers of Army Service
-                        Corp of Bangladesh Army......</p>
+                    <p>To train officers’ and soldiers of Army Service Corp of Bangladesh Army to meet the combat support task both in peace and war.......</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -152,9 +134,7 @@
                 <h3>ORDNANCE CENTRE AND SCHOOL (OC&S)</h3>
                 <span><i class="fas fa-map-marker"></i>  Rajendrapur Cantonment, Gazipur.</span>
                 <ul class="social">
-                    <p>To impart technical training to Ordnance
-                        Officers, Junior Commissioned Officers and
-                        Non- Commissioned Officers. .....</p>
+                    <p>To impart technical training to Ordnance Officers, Junior Commissioned Officers and Non- Commissioned Officers.. .....</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -171,9 +151,7 @@
                 <h3>ELECTRICAL AND MECHANICAL ENGINEERING CENTRE AND SCHOOL (EMEC&S)</h3>
                 <span><i class="fas fa-map-marker"></i>  West of Rangpur Town</span>
                 <ul class="social">
-                    <p>The aim of the institution is to provide Basic
-                        Military Training to recruits of the corps of EME,
-                        technical knowledge of all kind to all officers......</p>
+                    <p>To provide basic military training to recruits of the corps of EME, technical knowledge of all kind to all officers and men of......</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -190,9 +168,7 @@
                 <h3>CORPS OF MILITARY POLICE CENTRE AND SCHOOL (CMPC&S)</h3>
                 <span><i class="fas fa-map-marker"></i>  Opposite of  Savar Cantonment</span>
                 <ul class="social">
-                    <p>To provide all types of provost training, conduct
-                        promotion and function of records for all ranks of
-                        Corps of Military Police.......</p>
+                    <p>To provide all types of provost training, conduct promotion and function of records for all ranks of Corps of Military Police........</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -209,10 +185,7 @@
                 <h3>ARMY SCHOOL OF EDUCATION AND ADMINISTRATION (ASEA)</h3>
                 <span><i class="fas fa-map-marker"></i>  Opposite of  Savar Cantonment</span>
                 <ul class="social">
-                    <p>To conduct Administration Course for officers,
-                        courses for members of Army Education Corps,
-                        clerks, Personal Assistants (PA) of Bangladesh
-                        Army........</p>
+                    <p>To conduct Administration Course for officers, clerks, Personal Assistants (PA) of Bangladesh Army.........</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -229,8 +202,7 @@
                 <h3>BANGLADESH INSTITUTE OF PEACE SUPPORT OPERATION TRAINING (BIPSOT)</h3>
                 <span><i class="fas fa-map-marker"></i>  Rajendrapur Cantonment, Gazipur.</span>
                 <ul class="social">
-                    <p>To impart specialized training to potential
-                        peacekeepers on UN peace operations.........</p>
+                    <p>To impart specialized training to potential peacekeepers on UN peace operations..........</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -249,9 +221,7 @@
                 <span><i class="fas fa-map-marker"></i> southern part of Cumilla
                     Cantonment.</span>
                 <ul class="social">
-                    <p>To impart intelligence and security training to
-                        all ranks of the Army, specialized training to
-                        personnel.........</p>
+                    <p>To impart intelligence and security training to all ranks of Army personnel, specialized training to personnel of the Army.........</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -267,12 +237,10 @@
             <div class="member-content">
                 <h3>ARMY SCHOOL OF PHYSICAL TRAINING
                     AND SPORTS (ASPTS)</h3>
-                <span><i class="fas fa-map-marker"></i> 
+                <span><i class="fas fa-map-marker"></i>
                     Trishal Miltary Training Area.</span>
                 <ul class="social">
-                    <p>To conduct courses on ‘Physical Fitness’,
-                        “Unarmed Combat! and to conduct official courses
-                        on selected ‘games and sports’.........</p>
+                    <p>To conduct courses on ‘Physical Fitness’, ‘Unarmed Combat’ and to conduct official courses on selected ‘games and sports’.........</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -290,9 +258,7 @@
                 <span><i class="fas fa-map-marker"></i> Majhira Cantonment,
                     Bogura.</span>
                 <ul class="social">
-                    <p>To train Non-Commissioned Officers of all arms and
-                        services with a view to enhancing their leadership
-                        qualities.........</p>
+                    <p>To train Non-Commissioned Officers of all arms and services with a view to enhancing their leadership qualities and professional.........</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -309,8 +275,7 @@
                 <h3>ARMY SCHOOL OF MUSIC (ASM)</h3>
                 <span><i class="fas fa-map-marker"></i> Chattogram Cantonment.</span>
                 <ul class="social">
-                    <p>To train musician of BD Armed Forces, Para Mil
-                        Forces, Aux Forces and Clv def pers on Band music.........</p>
+                    <p>To train musician of BD Armed Forces, Para Military Forces and civil defence personnel on band music and development of military .........</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -328,8 +293,7 @@
                 <span><i class="fas fa-map-marker"></i> Eastern side of
                     the Dhaka-Aricha highway.</span>
                 <ul class="social">
-                    <p>To carry out breeding of horses.
-                        To rear and train unbroken horses..........</p>
+                    <p>To carry out breeding of horses. To rear and train unbroken horses. To impart technical training to officers, Junior Commissioned Officers..........</p>
                 </ul>
                 <br>
                 <div class="others-options">
@@ -353,4 +317,4 @@
 </section>
 
 
-<?php include 'footer.php'; ?>
+<?php include 'footer.php';?>

@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 
 <style>
     .header_back {
@@ -196,8 +196,8 @@
                           <!-- video -->
                           <div class="tabs_item" style="display:
                              none;">
-                           
-                           <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                           <iframe width="100%" height="215" src="https://www.youtube.com/embed/6rMkULUBTXk" title="YouTube video                            player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;                            picture-in-picture" allowfullscreen></iframe>
                           </div>
                           <!-- map -->
                           <div class="tabs_item" style="display:
@@ -276,7 +276,7 @@
                                     least 1-2 years
                                  </td>
                                  <td>08 Weeks
-                                    
+
                                  </td>
                                  <td>01`</td>
                               </tr>
@@ -340,7 +340,7 @@
                                 </td>
                                 <td>
                                     08 Weeks
-                                   
+
                                 </td>
                                 <td>02</td>
                              </tr>
@@ -401,7 +401,7 @@
                                     least 1-2 years
                                 </td>
                                 <td>08 Weeks
-                                   
+
                                 </td>
                                 <td>01</td>
                              </tr>
@@ -418,4 +418,4 @@
 </div>
 <!-- end table -->
 <!-- js -->
-<?php include '../footer.php'; ?>
+<?php include '../footer.php';?>

@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 
     <style>
     .header_back {
@@ -186,8 +186,8 @@
                                        <!-- video -->
                           <div class="tabs_item" style="display:
                           none;">
-                        
-                        <iframe width="100%" height="250" src="https://www.youtube.com/embed/Zi4LMpSDccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                        <iframe width="100%" height="215" src="https://www.youtube.com/embed/_eqTI5yCLjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                        </div>
                                         <!-- map -->
                                         <div class="tabs_item" style="display:
@@ -264,7 +264,7 @@
                                     Branch
                                   </td>
                                   <td>26 Weeks
-                                     
+
                                   </td>
                                   <td>01</td>
                                </tr>
@@ -324,7 +324,7 @@
                                     Sailors)
                                   </td>
                                   <td>24 Weeks
-                                    
+
                                   </td>
                                   <td>02</td>
                                </tr>
@@ -332,7 +332,7 @@
                          </div>
                       </div>
                    </div>
-                     
+
                    <!-- end panel -->
                 </div>
              </div>
@@ -343,5 +343,4 @@
  <!-- end table -->
 
     <!-- js -->
-    <?php include '../footer.php'; ?>
-       
+    <?php include '../footer.php';?>

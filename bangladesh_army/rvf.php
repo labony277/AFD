@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../header.php';?>
 <div class="page-title-area">
    <div class="page-title-content">
       <div class="row justify-content-center">
@@ -26,7 +26,7 @@
                   <div class="carousel-item active" style="height:
                      500px">
                      <img class="d-block w-100"
-                        src="../assets/img/school/BA/17. RV&F Depot/1. First Pic (Double Page).jpg" alt="First slide">
+                        src="../assets/img/school/BA/17. RV&F Depot/1.jpg" alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100" src="../assets/img/school/BA/17. RV&F Depot/4 .jpg" alt="Second slide">
@@ -144,20 +144,50 @@
                      <!-- gallery -->
                      <div class="col-lg-12 col-md-12">
                         <div class="tab_content desc_box">
-                        <div class="tabs_item" style="display:
+                           <div class="tabs_item popup-gallery" style="display:
                               block; width: 100%;">
-                           
+
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/17. RV&F Depot/1.jpg" >
+                                          <img src="../assets/img/school/BA/17. RV&F Depot/1.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/17. RV&F Depot/2 .jpeg" >
+                                          <img src="../assets/img/school/BA/17. RV&F Depot/2 .jpeg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/17. RV&F Depot/3.jpg">
+                                          <img src="../assets/img/school/BA/17. RV&F Depot/3.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/17. RV&F Depot/4 .jpg">
+                                          <img src="../assets/img/school/BA/17. RV&F Depot/4 .jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/17. RV&F Depot/5 .jpg">
+                                          <img src="../assets/img/school/BA/17. RV&F Depot/5 .jpg" alt="" />
+                                       </a>
+                                    </div>
+                                    <div class="col-md-6 m-0 p-1">
+                                       <a title="The Cleaner" class="example-image-link" href="../assets/img/school/BA/17. RV&F Depot/1.jpg">
+                                          <img src="../assets/img/school/BA/17. RV&F Depot/1.jpg" alt="" />
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+
                            </div>
-                           <!-- 
+
                            <!-- video -->
                            <div class="tabs_item" style="display:
                               none;">
-                              <video width="100%" height="240" controls="">
-                                 <source src="img/properties/bma/bma_video.mp4" type="video/mp4">
-                                 <source src="movie.ogg" type="video/ogg">
-                                 Your browser does not support
-                                 the video tag.
-                              </video>
+                               <iframe width="100%" height="215" src="https://www.youtube.com/embed/OCOPgiIbbbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                            </div>
                            <!-- map -->
                            <div class="tabs_item" style="display:
@@ -296,7 +326,7 @@
 </div>
 <!-- end table -->
 <!-- js -->
-<?php include '../footer.php'; ?>
+<?php include '../footer.php';?>
 <script>
    $('.owl-carousel').owlCarousel({
       loop: false,
@@ -327,5 +357,5 @@
             $(a.target).prev('.panel-heading').removeClass('active');
          });
    });
-  
+
 </script>
