@@ -20,7 +20,6 @@
         <link rel="stylesheet" href="/AFD/assets/css/meanmenu.css">
 
         <link rel="stylesheet" href="/AFD/assets/css/owl.carousel.min.css">
-
         <link rel="stylesheet" href="/AFD/assets/css/style.css">
 
         <link rel="stylesheet" href="/AFD/assets/css/responsive.css">
@@ -29,7 +28,8 @@
         <title>ARMED FORCES DIVISION</title>
         <link rel="icon" type="image/png" href="/AFD/assets/img/logo_2.png">
         <link rel="stylesheet" href="/AFD/assets/dist/css/lightbox.min.css">
-
+        <!-- favicon -->
+        <link rel="icon" type="image/png" href="/AFD/assets/img/logo.png" />
         <style>
 
             /* in gallery */
@@ -196,7 +196,8 @@
                                 id="navbarSupportedContent">
                                 <ul class="navbar-nav">
 
-                                    <li class="nav-item"><a href="/AFD/index.php"
+                                    <li class="nav-item"><a
+                                            href="/AFD/index.php"
                                             class="nav-link">Home</a></li>
 
                                     <li class="nav-item"><a href="#"
@@ -222,7 +223,8 @@
                                                     INSTITUTION</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="/AFD/contact.php"
+                                    <li class="nav-item"><a
+                                            href="/AFD/contact.php"
                                             class="nav-link">Contact</a></li>
                                 </ul>
                             </div>
