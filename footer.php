@@ -52,17 +52,17 @@
                     <h3>Postal Address</h3>
                     <ul class="services-widget-list">
                         <li>
-                            <a href="#" target="blank">Director General
+                            <a target="blank">Director General
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="blank">Training Directorate</a>
+                            <a target="blank">Training Directorate</a>
                         </li>
                         <li>
-                            <a href="#" target="blank">Armed Forces Division</a>
+                            <a target="blank">Armed Forces Division</a>
                         </li>
                         <li>
-                            <a href="#" target="blank">Dhaka cantonment</a>
+                            <a target="blank">Dhaka cantonment</a>
                         </li>
                     </ul>
                 </div>
@@ -140,6 +140,17 @@
             }
         });
     });
+    $('.count').each(function () {
+            $(this).prop('Counter', 0).animate({
+                Counter: $(this).text()
+            }, {
+                duration: 5000,
+                easing: 'swing',
+                step: function (now) {
+                    $(this).text(Math.ceil(now));
+                }
+            });
+        });
 </script>
 
 </body>

@@ -1,5 +1,4 @@
 <?php include 'header.php'; ?>
-
     <div class="section">
 
 
@@ -117,16 +116,39 @@
 
 <section class="feedback-area bg-image pt-5">
     <div class="container">
-        <div class="section-title">
+        <!-- <div class="section-title">
             <h2>ACTIVITIES</h2>
             <hr style="border-top: 3px solid rgb(38 93 59);">
-        </div>
+        </div> -->
         <div class="row">
             <div class="slider-container first-sample">
                 <div class="slider">
                     <div class="item"><img
-                            src="assets/img/school/BA/1.bma/2.jpeg"
+                            src="assets/img/school/BA/1.bma/2.jpeg"alt=""></div>
+                    <div class="item"><img
+                            src="assets/img/school/5n.jpg" alt=""></div>
+                    <div class="item"><img src="assets/img/school/4n.jpg"
                             alt=""></div>
+                    <div class="item"><img src="assets/img/school/14.jpg"
+                            alt=""></div>
+                    <div class="item"><img
+                            src="assets/img/school/1n.jpeg" alt=""></div>
+                    <div class="item"><img src="assets/img/school/2n.jpg"
+                            alt=""></div>
+                    <div class="item"><img src="assets/img/school/6n.jpg"
+                            alt=""></div>
+                    <div class="item"><img
+                            src="assets/img/school/3n.jpg" alt=""></div>
+                    <div class="item"><img src="assets/img/school/7n.jpeg"
+                            alt=""></div>
+                    <div class="item"><img src="assets/img/school/8n.jpg"
+                            alt=""></div>
+                    <div class="item"><img
+                            src="assets/img/school/5n.jpg" alt=""></div>
+                    <div class="item"><img src="assets/img/school/4n.jpg"
+                            alt=""></div>
+                    <div class="item"><img
+                            src="assets/img/school/BA/1.bma/2.jpeg"alt=""></div>
                     <div class="item"><img
                             src="assets/img/school/5n.jpg" alt=""></div>
                     <div class="item"><img src="assets/img/school/4n.jpg"
@@ -150,8 +172,8 @@
                     <div class="item"><img src="assets/img/school/4n.jpg"
                             alt=""></div>
                 </div>
-                <i class="fas fa-arrow-left prev-slide"></i>
-                <i class="fas fa-arrow-right next-slide"></i>
+                <!-- <i class="fas fa-arrow-left prev-slide"></i>
+                <i class="fas fa-arrow-right next-slide"></i> -->
             </div>
         </div>
     </section>
@@ -162,7 +184,7 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="cta-content">
                         <h3>Total Visitor</h3>
-                        <a href="#">30,0000</a>
+                        <a href="#" class="count">3065334</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12">
