@@ -5,7 +5,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
                     <div class="logo">
-                        <img src="assets/img/logo.png" alt="logo" style="max-width: 100px">
+                        <img src="/AFD/assets/img/logo.png" alt="logo" style="max-width: 100px">
                         <p>ARMED FORCES DIVISION TRAINING INSTITUTIONS<br>
                             infotraining.com<br>
                             +8801769014368 (Joint Training)</p>
@@ -80,35 +80,35 @@
 
 <div class="go-top"><i class="fas fa-arrow-up"></i></div>
 
-<script src="assets/js/jquery.min.js"></script>
+<script src="/AFD/assets/js/jquery.min.js"></script>
 
-<script src="assets/js/popper.min.js"></script>
+<script src="/AFD/assets/js/popper.min.js"></script>
 
-<script src="assets/js/bootstrap.min.js"></script>
+<script src="/AFD/assets/js/bootstrap.min.js"></script>
 
-<script src="assets/js/jquery.meanmenu.js"></script>
+<script src="/AFD/assets/js/jquery.meanmenu.js"></script>
 
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="/AFD/assets/js/jquery.magnific-popup.min.js"></script>
 
-<script src="assets/js/owl.carousel.min.js"></script>
+<script src="/AFD/assets/js/owl.carousel.min.js"></script>
 
-<script src="assets/js/parallax.min.js"></script>
+<script src="/AFD/assets/js/parallax.min.js"></script>
 
-<script src="assets/js/jquery.nice-select.min.js"></script>
+<script src="/AFD/assets/js/jquery.nice-select.min.js"></script>
 
-<script src="assets/js/wow.min.js"></script>
+<script src="/AFD/assets/js/wow.min.js"></script>
 
-<script src="assets/js/jquery.ajaxchimp.min.js"></script>
+<script src="/AFD/assets/js/jquery.ajaxchimp.min.js"></script>
 
-<script src="assets/js/form-validator.min.js"></script>
+<script src="/AFD/assets/js/form-validator.min.js"></script>
 
-<script src="assets/js/contact-form-script.js"></script>
+<script src="/AFD/assets/js/contact-form-script.js"></script>
 
-<script src="assets/js/bahama-map.js"></script>
+<script src="/AFD/assets/js/bahama-map.js"></script>
 
-<script src="assets/js/main.js"></script>
-<script src="assets/js/blue-slider.js"></script>
-<script src="assets/js/slider.js"></script>
+<script src="/AFD/assets/js/main.js"></script>
+<script src="/AFD/assets/js/blue-slider.js"></script>
+<script src="/AFD/assets/js/slider.js"></script>
 <script>
     $(document).ready(function() {
         $('.collapse.in').prev('.panel-heading').addClass('active');
