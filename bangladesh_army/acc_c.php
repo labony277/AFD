@@ -2,10 +2,10 @@
 <div class="page-title-area">
     <div class="page-title-content">
         <div class="row justify-content-center">
-            <div class="col-1">
+            <div class="col-2">
                 <div class="logo" style="text-align: center">
                     <img src="../assets/img/school/BA/2. ACC&S/Death_before_Disgrace-removebg-preview 1.png" alt="logo"
-                        style="max-width: 160px">
+                        style="max-width: 145%">
                 </div>
             </div>
             <div class="col-10">

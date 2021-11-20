@@ -11,7 +11,7 @@
             <div class="row justify-content-center">
                 <div class="col-1">
                     <div class="logo" style="text-align: center">
-                        <img src="assets/img/school/AC&S/logo-removebg-preview.png" alt="logo" style="max-width: 160px">
+                        <img src="assets/img/school/AC&S/logo-removebg-preview.png" alt="logo" style="max-width: 145%">
                     </div>
                 </div>
                 <div class="col-10">

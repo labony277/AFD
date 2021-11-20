@@ -16,7 +16,7 @@
                 #93CDBE">
                 <div class="member-image">
                     <img src="assets/img/12-Sheikh-Mujibur-Rahman.jpg"
-                        alt="image">
+                        alt="image" class="img-responsive center-block">
                 </div>
                 <div class="member-content">
                     <h2 style="font-weight: bold;text-align: center;font-family:
