@@ -230,7 +230,7 @@
                 <div class="bahama-mobile-nav">
                     <div class="logo">
                         <a href="index.php">
-                            <img src="assets/img/logo.png" alt="logo"
+                            <img src="/AFD/assets/img/logo.png" alt="logo"
                                 style="max-width: 100px">
                         </a>
 
@@ -245,7 +245,7 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="index.php">
-                                <img src="assets/img/logo.png" alt="logo"
+                                <img src="/AFD/assets/img/logo.png" alt="logo"
                                     style="max-width: 80px">
                             </a>
                             <p style="color: white;
