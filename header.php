@@ -6,30 +6,30 @@
         <meta name="viewport" content="width=device-width, initial-scale=1,
             shrink-to-fit=no">
 
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/AFD/assets/css/bootstrap.min.css">
 
-        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="/AFD/assets/css/animate.min.css">
 
-        <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+        <link rel="stylesheet" href="/AFD/assets/css/fontawesome.min.css">
 
-        <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-        <link rel="stylesheet" href="assets/css/flaticon.css">
+        <link rel="stylesheet" href="/AFD/assets/css/magnific-popup.min.css">
+        <link rel="stylesheet" href="/AFD/assets/css/flaticon.css">
 
-        <link rel="stylesheet" href="assets/css/nice-select.min.css">
+        <link rel="stylesheet" href="/AFD/assets/css/nice-select.min.css">
 
-        <link rel="stylesheet" href="assets/css/meanmenu.css">
+        <link rel="stylesheet" href="/AFD/assets/css/meanmenu.css">
 
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="/AFD/assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="/AFD/assets/css/style.css">
 
-        <link rel="stylesheet" href="assets/css/responsive.css">
-        <link rel="stylesheet" href="assets/css/fontello.css">
-        <link rel="stylesheet" href="assets/css/slider.min.css">
+        <link rel="stylesheet" href="/AFD/assets/css/responsive.css">
+        <link rel="stylesheet" href="/AFD/assets/css/fontello.css">
+        <link rel="stylesheet" href="/AFD/assets/css/slider.min.css">
         <title>ARMED FORCES DIVISION</title>
-        <link rel="icon" type="image/png" href="assets/img/logo_2.png">
-        <link rel="stylesheet" href="assets/dist/css/lightbox.min.css">
+        <link rel="icon" type="image/png" href="/AFD/assets/img/logo_2.png">
+        <link rel="stylesheet" href="/AFD/assets/dist/css/lightbox.min.css">
         <!-- favicon -->
-        <link rel="icon" type="image/png" href="assets/img/logo.png" />
+        <link rel="icon" type="image/png" href="/AFD/assets/img/logo.png" />
         <style>
 
             /* in gallery */
