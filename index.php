@@ -4,7 +4,7 @@
 
         <div class="video-container">
             <video autoplay loop muted width="100%">
-                <source src="assets/video/bd_army.mp4" type="video/mp4">
+                <source src="https://tilbd.net/AFD/assets/video/bd_army.mp4" type="video/mp4">
             </video>
         </div>
     </div>

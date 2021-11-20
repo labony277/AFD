@@ -8112,5 +8112,13 @@ border-collapse: collapse;
             .logo{
                 max-width: 145%;
             }
+
+            .logo_text{
+                color: white;
+                            font-size: 20px;
+                            font-weight: bold;
+                            line-height: 1;
+                            margin-top: 15px;
+            }
     
 
