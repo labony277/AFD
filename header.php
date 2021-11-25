@@ -84,7 +84,7 @@
                                                 INSTITUTION</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
+                                <li class="nav-item"><a href="/AFD/contact.php" class="nav-link">Contact</a></li>
                             </ul>
                         </div>
                     </nav>
