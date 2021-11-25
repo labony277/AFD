@@ -5,7 +5,7 @@
          <div class="col-1">
             <div class="logo" style="text-align: center">
                <img src="../assets/img/school/BA/14. ASPTS/l23-removebg-preview.png" alt="logo"
-                  style="max-width: 145%">
+                  style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
@@ -26,7 +26,7 @@
                <div class="carousel-inner">
                   <div class="carousel-item active" style="height:
                      500px">
-                     <img class="d-block w-100" src="../assets/img/school/BA/14. ASPTS/4 .jpg" alt="First slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/14. ASPTS/4.jpg" alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100" src="../assets/img/school/BA/14. ASPTS/3 .jpg" alt="Second slide">

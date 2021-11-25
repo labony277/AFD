@@ -6,7 +6,7 @@
                     <div class="logo" style="text-align: center">
                         <img
                             src="../assets/img/school/BA/3.AC&S/l9-removebg-preview.png"
-                            alt="logo" style="max-width: 145%">
+                            alt="logo" style="max-width: 160px">
                     </div>
                 </div>
                 <div class="col-10">
@@ -268,7 +268,7 @@
 
                                                 <td>Captain/Major</td>
 
-                                                <td>40 WeekS</td>
+                                                <td>40 Weeks</td>
                                                 <td>01</td>
 
                                             </tr>

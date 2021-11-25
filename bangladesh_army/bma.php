@@ -2,10 +2,10 @@
 <div class="page-title-area">
    <div class="page-title-content">
       <div class="row justify-content-center">
-         <div class="col-2">
+         <div class="col-1">
             <div class="logo" style="text-align: center">
                <img src="../assets/img/school/BA/1.bma/Ever_High_is_My_Head-removebg-preview.png" alt="logo"
-                  style="max-width: 145%">
+                  style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
@@ -52,16 +52,9 @@
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">Bangladesh Military Academy
-                        (BMA) started its glorious Journey in 1974
-                        at Cumilla Cantonment with the motto
-                        "EVER HIGH IS MY
-                        HEAD’, Later, it was shifted to its present
-                        location in the south easter hily area of
-                        the country named Bhatiary, Chattogram in
-                        1976, The academy has achieved “National
-                        Standard” in testimony to its outstanding
-                        contribution for the motherland in 1979.
+                     <p class="mt-2 lead">Bangladesh Military Academy (BMA) started its glorious Journey in 1974 at Cumilla Cantonment with the motto “EVER HIGH IS MY 
+                        HEAD”. Later, it was shifted to its present location in the south eastern hilly area of the country named Bhatiary, Chattogram in 
+                        1976. The academy has achieved “National Standard” in testimony to its outstanding contribution for the motherland in 1979
                      </p>
                   </div>
                </div>
@@ -76,12 +69,10 @@
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">1. To inspire each
-                              cadet to be leader of character
-                              imbibed with the values of religion,
-                              military
-                              tradition and dedication to a
-                              lifetime of service to the nation.
+                           <p class="mr-4 lead">1. To inspire each cadet to be leader of character 
+                              imbibed with the values of religion, military 
+                              tradition and dedication to a lifetime of service 
+                              to the nation.
                            </p>
                         </li>
                         <li class="d-sm-flex align-items-center
@@ -96,11 +87,9 @@
                         <li class="d-sm-flex align-items-center
                            border-bottom pb-3
                            mb-3">
-                           <p class="mr-4 lead">3. To educate each
-                              cadet as a knowledgeable university
-                              graduate with inspiration to enhance
-                              academic
-                              proficiency.
+                           <p class="mr-4 lead">3. To educate each cadet as a knowledgable 
+                              university graduate with inspiration to 
+                              enhance academic proficiency
                            </p>
                         </li>
                      </ul>
@@ -109,10 +98,8 @@
                <div class="border mb-4">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">AIM</h6>
                   <div class="p-4 border-top desc_box">
-                     <span class="lead fw-6">To prepare officer
-                        cadets/Trainee officers for grant
-                        of commission as officers in Bangladesh
-                        Army.</span>
+                     <span class="lead fw-6">To prepare officer cadets / Trainee officers for grant 
+                        of commission as officers in Bangladesh Army.</span>
                   </div>
                </div>
             </div>

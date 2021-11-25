@@ -26,7 +26,8 @@
                 <a href="bangladesh_army/acc_c.php"><img src="assets/img/school/BA/2. ACC&S/2 (Second Pic).jpeg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>ARMOURED CORPS CENTRE AND SCHOOL (ACC & S)</h3>
+                <h3> ARMOURED CORPS CENTRE 
+                    AND SCHOOL (ACC&S)</h3>
                 <span><i class="fas fa-map-marker"></i>  Majhira Cantonment, Bogura.</span>
                 <ul class="social">
                     <p>To impart fundamental military training to the recruits as well as to impart basic and advance training ....</p>
@@ -43,7 +44,7 @@
                 <a href="bangladesh_army/ac&s.php"><img src="assets/img/school/BA/3.AC&S/3. .jpeg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>ARTILLERY CENTER AND SCHOOL (AC & S)</h3>
+                <h3>ARTILLERY CENTRE AND SCHOOL (AC&S)</h3>
                 <span><i class="fas fa-map-marker"></i>  Halishahar in the port city of Chattogram</span>
                 <ul class="social">
                     <p>The aim of School of Artillery is to train junior and mid-level officers with a view to making them proficient......</p>
@@ -60,7 +61,8 @@
                 <a href="bangladesh_army/ecsme.php"><img src="assets/img/school/BA/4. ECSME/2 .jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>ENGINEER CENTRE AND SCHOOL OF MILITARY ENGINEERING (ECSME)</h3>
+                <h3>ENGINEER CENTRE AND SCHOOL OF 
+                    MILITARY ENGINEERING (ECSME)</h3>
                 <span><i class="fas fa-map-marker"></i>  Qadirabad Cantonment,Dayarampur,Bagatipara, Natore.</span>
                 <ul class="social">
                     <p>The aim of this institution is to provide basic military and combat engineering training, initial trade training, advance......</p>
@@ -78,7 +80,8 @@
                 <a href="bangladesh_army/stc.php"><img src="assets/img/school/BA/5. STC&S/4 .jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>SIGNAL TRAINING CENTRE AND SCHOOL (STC&S)</h3>
+                <h3>SIGNAL TRAINING CENTRE AND SCHOOL 
+                    (STC&S)</h3>
                 <span><i class="fas fa-map-marker"></i>Eastern side of Jashore-Kustia Highway.</span>
                 <ul class="social">
                     <p>To provide signal training facilities for all ranks of the Corps of Signals and signal personnel of other Arms and Services.......</p>
@@ -148,7 +151,10 @@
                 <a href="bangladesh_army/emecs.php"><img src="assets/img/school/BA/9. EMEC&S/1. First Page (Double Page).jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>ELECTRICAL AND MECHANICAL ENGINEERING CENTRE AND SCHOOL (EMEC&S)</h3>
+                <h3>ELECTRICAL AND MECHANICAL 
+                    ENGINEERING CENTRE AND SCHOOL 
+                    (EMEC&S)
+                    </h3>
                 <span><i class="fas fa-map-marker"></i>  West of Rangpur Town</span>
                 <ul class="social">
                     <p>To provide basic military training to recruits of the corps of EME, technical knowledge of all kind to all officers and men of......</p>
@@ -165,7 +171,9 @@
                 <a href="bangladesh_army/cmpc&s.php"><img src="assets/img/school/BA/10. CMPC&S. Correction need/2 .jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>CORPS OF MILITARY POLICE CENTRE AND SCHOOL (CMPC&S)</h3>
+                <h3>CORPS OF MILITARY POLICE CENTRE AND 
+                    SCHOOL (CMPC&S)
+                    </h3>
                 <span><i class="fas fa-map-marker"></i>  Opposite of  Savar Cantonment</span>
                 <ul class="social">
                     <p>To provide all types of provost training, conduct promotion and function of records for all ranks of Corps of Military Police........</p>
@@ -182,7 +190,9 @@
                 <a href="bangladesh_army/asea.php"><img src="assets/img/school/BA/11. ASEA/1. First Pic (Double Page).jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>ARMY SCHOOL OF EDUCATION AND ADMINISTRATION (ASEA)</h3>
+                <h3>ARMY SCHOOL OF EDUCATION AND 
+                    ADMINISTRATION (ASEA)
+                    </h3>
                 <span><i class="fas fa-map-marker"></i>  Opposite of  Savar Cantonment</span>
                 <ul class="social">
                     <p>To conduct Administration Course for officers, clerks, Personal Assistants (PA) of Bangladesh Army.........</p>
@@ -199,7 +209,9 @@
                 <a href="bangladesh_army/biospot.php"><img src="assets/img/school/BA/12. BIPSOT/2. Second Pic.jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>BANGLADESH INSTITUTE OF PEACE SUPPORT OPERATION TRAINING (BIPSOT)</h3>
+                <h3>BANGLADESH INSTITUTE OF PEACE 
+                    SUPPORT OPERATION TRAINING (BIPSOT)
+                    </h3>
                 <span><i class="fas fa-map-marker"></i>  Rajendrapur Cantonment, Gazipur.</span>
                 <ul class="social">
                     <p>To impart specialized training to potential peacekeepers on UN peace operations..........</p>
@@ -217,7 +229,8 @@
                 <a href="bangladesh_army/smi.php"><img src="assets/img/school/BA/13. SMI/2 .JPG" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>SCHOOL OF MILITARY INTELLIGENCE (SMI)</h3>
+                <h3>SCHOOL OF MILITARY INTELLIGENCE (SMI)
+                </h3>
                 <span><i class="fas fa-map-marker"></i> southern part of Cumilla
                     Cantonment.</span>
                 <ul class="social">
@@ -235,8 +248,9 @@
                 <a href="bangladesh_army/aspts.php"><img src="assets/img/school/BA/14. ASPTS/2 .jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>ARMY SCHOOL OF PHYSICAL TRAINING
-                    AND SPORTS (ASPTS)</h3>
+                <h3>ARMY SCHOOL OF PHYSICAL TRAINING 
+                    AND SPORTS (ASPTS)
+                    </h3>
                 <span><i class="fas fa-map-marker"></i>
                     Trishal Miltary Training Area.</span>
                 <ul class="social">
@@ -251,10 +265,12 @@
         <!-- ncoa -->
         <div class="single-team-member services-box">
             <div class="member-image">
-                <a href="bangladesh_army/ncoa.php"><img src="assets/img/school/BA/15. NCOA/2 .jpg" alt="image"></a>
+                <a href="bangladesh_army/ncoa.php"><img src="assets/img/school/BA/15. NCOA/2.jpg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>NON-COMMISSION OFFICERS’ ACADEMY-OTHERS (NCOA)</h3>
+                <h3>NON-COMMISSIONED OFFICERS’ 
+                    ACADEMY (NCOA)
+                    </h3>
                 <span><i class="fas fa-map-marker"></i> Majhira Cantonment,
                     Bogura.</span>
                 <ul class="social">
@@ -289,7 +305,9 @@
                 <a href="bangladesh_army/rvf.php"><img src="assets/img/school/BA/17. RV&F Depot/2 .jpeg" alt="image"></a>
             </div>
             <div class="member-content">
-                <h3>REMOUNT VETERINARY AND FARM DEPOT (RV&F Depot)</h3>
+                <h3>REMOUNT VETERINARY AND 
+                    FARM DEPOT (RV&F Depot)
+                    </h3>
                 <span><i class="fas fa-map-marker"></i> Eastern side of
                     the Dhaka-Aricha highway.</span>
                 <ul class="social">

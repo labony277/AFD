@@ -49,20 +49,17 @@
                      <div class="carousel-item active" style="height:
                         500px">
                         <img class="d-block w-100"
-                           src="../assets/img/school/baf/8.SATS
-                           BAF/resize/7.jpg"
+                           src="../assets/img/school/baf/8.SATS BAF/resize/1.jpg"
                            alt="First slide">
                      </div>
                      <div class="carousel-item" style="height: 500px">
                         <img class="d-block w-100"
-                           src="../assets/img/school/baf/8.SATS
-                           BAF/resize/6.jpg"
+                           src="../assets/img/school/baf/8.SATS BAF/resize/6.jpg"
                            alt="Second slide">
                      </div>
                      <div class="carousel-item" style="height: 500px">
                         <img class="d-block w-100"
-                           src="../assets/img/school/baf/8.SATS
-                           BAF/resize/1.jpg"
+                           src="../assets/img/school/baf/8.SATS BAF/resize/7.jpg"
                            alt="Third slide">
                      </div>
                   </div>
@@ -168,61 +165,49 @@
                                        <div class="col-md-6 p-1">
                                           <a title="The Cleaner"
                                              class="example-image-link"
-                                             href="../assets/img/school/baf/8.SATS
-                                             BAF/resize/1.jpg">
+                                             href="../assets/img/school/baf/8.SATS BAF/resize/1.jpg">
                                              <img
-                                                src="../assets/img/school/baf/8.SATS
-                                                BAF/resize/1.jpg" alt="" />
+                                                src="../assets/img/school/baf/8.SATS BAF/resize/1.jpg" alt="" />
                                           </a>
                                        </div>
                                        <div class="col-md-6 m-0 p-1">
                                           <a title="The Cleaner"
                                              class="example-image-link"
-                                             href="../assets/img/school/baf/8.SATS
-                                             BAF/resize/2.jpg">
+                                             href="../assets/img/school/baf/8.SATS BAF/resize/2.jpg">
                                              <img
-                                                src="../assets/img/school/baf/8.SATS
-                                                BAF/resize/2.jpg" alt="" />
+                                                src="../assets/img/school/baf/8.SATS BAF/resize/2.jpg" alt="" />
                                           </a>
                                        </div>
                                        <div class="col-md-6 p-1">
                                           <a title="The Cleaner"
                                              class="example-image-link"
-                                             href="../assets/img/school/baf/8.SATS
-                                             BAF/resize/3.jpg">
+                                             href="../assets/img/school/baf/8.SATS BAF/resize/3.jpg">
                                              <img
-                                                src="../assets/img/school/baf/8.SATS
-                                                BAF/resize/3.jpg" alt="" />
+                                                src="../assets/img/school/baf/8.SATS BAF/resize/3.jpg" alt="" />
                                           </a>
                                        </div>
                                        <div class="col-md-6 m-0 p-1">
                                           <a title="The Cleaner"
                                              class="example-image-link"
-                                             href="../assets/img/school/baf/8.SATS
-                                             BAF/resize/4.jpg">
+                                             href="../assets/img/school/baf/8.SATS BAF/resize/4.jpg">
                                              <img
-                                                src="../assets/img/school/baf/8.SATS
-                                                BAF/resize/4.jpg" alt="" />
+                                                src="../assets/img/school/baf/8.SATS BAF/resize/4.jpg" alt="" />
                                           </a>
                                        </div>
                                        <div class="col-md-6 p-1">
                                           <a title="The Cleaner"
                                              class="example-image-link"
-                                             href="../assets/img/school/baf/8.SATS
-                                             BAF/resize/6.jpg">
+                                             href="../assets/img/school/baf/8.SATS BAF/resize/6.jpg">
                                              <img
-                                                src="../assets/img/school/baf/8.SATS
-                                                BAF/resize/6.jpg" alt="" />
+                                                src="../assets/img/school/baf/8.SATS BAF/resize/6.jpg" alt="" />
                                           </a>
                                        </div>
                                        <div class="col-md-6 m-0 p-1">
                                           <a title="The Cleaner"
                                              class="example-image-link"
-                                             href="../assets/img/school/baf/8.SATS
-                                             BAF/resize/7.jpg">
+                                             href="../assets/img/school/baf/8.SATS BAF/resize/7.jpg">
                                              <img
-                                                src="../assets/img/school/baf/8.SATS
-                                                BAF/resize/7.jpg" alt="" />
+                                                src="../assets/img/school/baf/8.SATS BAF/resize/7.jpg" alt="" />
                                           </a>
                                        </div>
                                     </div>

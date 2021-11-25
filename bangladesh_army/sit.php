@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
          <div class="col-1">
             <div class="logo" style="text-align: center">
-               <img src="../assets/img/school/BA/6. SI&T/l12-removebg-preview.png" alt="logo" style="max-width: 145%">
+               <img src="../assets/img/school/BA/6. SI&T/l12-removebg-preview.png" alt="logo" style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">

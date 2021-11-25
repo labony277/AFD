@@ -55,7 +55,7 @@
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
                         <a class="navbar-brand" href="/AFD/index.php">
-                            <img src="/assets/img/logo.png" alt="logo" style="max-width: 80px">
+                            <img src="/AFD/assets/img/logo.png" alt="logo" style="max-width: 80px">
                         </a>
                         <p style="color: white;
                                 font-size: 20px;

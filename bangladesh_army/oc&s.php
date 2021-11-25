@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
          <div class="col-1">
             <div class="logo" style="text-align: center">
-               <img src="../assets/img/school/BA/8.  OC&S/l17-removebg-preview.png" alt="logo" style="max-width: 145%">
+               <img src="../assets/img/school/BA/8.  OC&S/l17-removebg-preview.png" alt="logo" style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
@@ -30,7 +30,7 @@
                      <img class="d-block w-100" src="../assets/img/school/BA/8.  OC&S/4 .jpg" alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100" src="../assets/img/school/BA/8.  OC&S/5 .jpg" alt="Third slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/8.  OC&S/5.jpg" alt="Third slide">
                   </div>
                </div>
                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -51,12 +51,9 @@
                <div class="border mb-4 desc_box">
                   <h6 class="px-4 py-2 bg-light mb-0 header_back">DESCRIPTION</h6>
                   <div class="p-4 border-top">
-                     <p class="mt-2 lead">OC&S started functioning immediately after the liberation war of Bangladesh in
-                        1971. It was formally raised on 01 October 1977 within
-                        the existing accommodation of Central Ammunition Depot (CAD). However, all the wings and
-                        establishments were later shifted to
-                        the present location and started functioning from 01 May 1985. OC&S is relentlessly contributing
-                        for developing the professionalism
+                     <p class="mt-2 lead">OC&S started functioning immediately after the liberation war of Bangladesh in 1971. It was formally raised on 01 October 1977 within 
+                        the existing accommodation of Central Ammunition Depot (CAD). However, all the wings and establishments were later shifted to 
+                        the present location and started functioning from 01 May 1985. OC&S is relentlessly contributing for developing the professionalism 
                         of the corps members and advancement of the Army.
                      </p>
                   </div>

@@ -35,7 +35,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vat_tax" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -55,6 +55,7 @@
       <workItem from="1632297041553" duration="1688000" />
       <workItem from="1632299550450" duration="1224000" />
       <workItem from="1632368047758" duration="1206000" />
+      <workItem from="1637811085790" duration="425000" />
     </task>
     <servers />
   </component>

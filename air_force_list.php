@@ -9,7 +9,7 @@
             </div>
             <div class="member-content">
                 <h3>BANGLADESH AIR FORCE ACADEMY (BAFA)</h3>
-                <span><i class="fas fa-map-marker"></i> situated at BAF Base Birsreshtho
+                <span><i class="fas fa-map-marker"></i>  BAF Base Birsreshtho
                     Matiur Rahman, Jashore.</span>
                 <ul class="social">
                     <p>To impart basic military training to all Officer Cadets
@@ -28,7 +28,7 @@
         </div>
         <div class="member-content">
             <h3>FLYING INSTRUCTORS' SCHOOL (FIS)</h3>
-            <span><i class="fas fa-map-marker"></i>  FIS is located at Arulia, Bogura.</span>
+            <span><i class="fas fa-map-marker"></i>   Arulia, Bogura.</span>
             <ul class="social">
                 <p>To prepare 'Qualified Flying Instructor' for
                     conducting Basic Flying Training in BAF.........</p>
@@ -65,9 +65,10 @@
             <a href="bangladesh_air_force/csti.php">  <img src="assets/img/school/baf/3.CSTI BAF/resize/5.jpg" alt="image"></a>
         </div>
         <div class="member-content">
-            <h3>COMMAND ANEXCELLDENCE T HSROUGHT TRAAINING FF
-                TRAINING INSTITUTE (CSTI)</h3>
-            <span><i class="fas fa-map-marker"></i> located at BAF Base Bashar, Dhaka
+            <h3>COMMAND AND STAFF TRAINING 
+                INSTITUTE (CSTI)
+                </h3>
+            <span><i class="fas fa-map-marker"></i>  BAF Base Bashar, Dhaka
                 Cantonment.</span>
             <ul class="social">
                 <p>To impart high standard training to Bangladesh
@@ -86,7 +87,7 @@
         </div>
         <div class="member-content">
             <h3>FLIGHT SAFETY INSTITUTE (FSI)</h3>
-            <span><i class="fas fa-map-marker"></i> located at BAF Base Bashar, Dhaka
+            <span><i class="fas fa-map-marker"></i>  BAF Base Bashar, Dhaka
                 Cantonment.</span>
             <ul class="social">
                 <p>To provide knowledge on flight safety, accident
@@ -165,7 +166,7 @@
         <div class="member-content">
             <h3>SCHOOL OF AIR TRAFFIC
                 SERVICES (SATS)</h3>
-            <span><i class="fas fa-map-marker"></i>SATS is located at Old Airport, Tejgaon, Dhaka.</span>
+            <span><i class="fas fa-map-marker"></i> Old Airport, Tejgaon, Dhaka.</span>
             <ul class="social">
                 <p>To acquire Knowledge for professional excellence
                     of ATC personnel...........</p>
@@ -202,7 +203,7 @@
         <div class="member-content">
             <h3>MECHANICAL TRANSPORT DRIVING
                 SCHOOL (MTDS)</h3>
-            <span><i class="fas fa-map-marker"></i>located at Shamshernagar, Moulvibazar.</span>
+            <span><i class="fas fa-map-marker"></i> Shamshernagar, Moulvibazar.</span>
             <ul class="social">
                 <p>To conduct efficient training for mechanical
                     transport driver and maintenance personnel...........</p>

@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
          <div class="col-1">
             <div class="logo" style="text-align: center">
-               <img src="../assets/img/school/BA/15. NCOA/l2-removebg-preview.png" alt="logo" style="max-width: 145%">
+               <img src="../assets/img/school/BA/15. NCOA/l2-removebg-preview.png" alt="logo" style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
@@ -24,14 +24,14 @@
                <div class="carousel-inner">
                   <div class="carousel-item active" style="height:
                      500px">
-                     <img class="d-block w-100" src="../assets/img/school/BA/15. NCOA/2 .jpg" alt="First slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/15. NCOA/1.jpg" alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100" src="../assets/img/school/BA/15. NCOA/1. First Pic (Double Page).jpg"
+                     <img class="d-block w-100" src="../assets/img/school/BA/15. NCOA/2.jpg"
                         alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100" src="../assets/img/school/BA/15. NCOA/3 .jpg" alt="Third slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/15. NCOA/3.jpg" alt="Third slide">
                   </div>
                </div>
                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">

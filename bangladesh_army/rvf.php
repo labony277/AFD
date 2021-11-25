@@ -5,7 +5,7 @@
          <div class="col-1">
             <div class="logo" style="text-align: center">
                <img src="../assets/img/school/BA/17. RV&F Depot/l4-removebg-preview.png" alt="logo"
-                  style="max-width: 145%">
+                  style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">

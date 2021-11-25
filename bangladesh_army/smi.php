@@ -5,7 +5,7 @@
          <div class="col-1">
             <div class="logo" style="text-align: center">
                <img src="../assets/img/school/BA/1.bma/Ever_High_is_My_Head-removebg-preview.png" alt="logo"
-                  style="max-width: 145%">
+                  style="max-width: 160px">
             </div>
          </div>
          <div class="col-10">
@@ -25,13 +25,13 @@
                <div class="carousel-inner">
                   <div class="carousel-item active" style="height:
                      500px">
-                     <img class="d-block w-100" src="../assets/img/school/BA/13. SMI/3 .JPG" alt="First slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/13. SMI/3.jpg" alt="First slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
                      <img class="d-block w-100" src="../assets/img/school/BA/13. SMI/4 .JPG" alt="Second slide">
                   </div>
                   <div class="carousel-item" style="height: 500px">
-                     <img class="d-block w-100" src="../assets/img/school/BA/13. SMI/5 .JPG" alt="Third slide">
+                     <img class="d-block w-100" src="../assets/img/school/BA/13. SMI/5.jpg" alt="Third slide">
                   </div>
                </div>
                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
