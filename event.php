@@ -40,29 +40,70 @@
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
                                     <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7433.JPG"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7433-min.JPG"
                                         alt="First slide">
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7469.JPG"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7469-min.JPG"
                                         alt="Second slide">
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7482.JPG"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7482-min.JPG"
                                         alt="Third slide">
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7520.JPG"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7520-min.JPG"
                                         alt="Four slide">
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7546.JPG"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7546-min.JPG"
                                         alt="Five slide">
                                 </div>
+                                <div class="carousel-item">
+                                  <img class="d-block w-100"
+                                      src="../AFD/assets/img/Event/HCiD/AFD_7550-min.JPG"
+                                      alt="Five slide">
+
+                              </div>
+                              <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="../AFD/assets/img/Event/HCiD/AFD_7555-min.JPG"
+                                    alt="Five slide">
+                            </div>
+                            <div class="carousel-item">
+                              <img class="d-block w-100"
+                                  src="../AFD/assets/img/Event/HCiD/AFD_7566-min.JPG"
+                                  alt="Five slide">
+                          </div>
+                          <div class="carousel-item">
+                            <img class="d-block w-100"
+                                src="../AFD/assets/img/Event/HCiD/AFD_7574-min.JPG"
+                                alt="Five slide">
+                        </div>
+                        <div class="carousel-item">
+                          <img class="d-block w-100"
+                              src="../AFD/assets/img/Event/HCiD/AFD_7594-min.JPG"
+                              alt="Five slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img class="d-block w-100"
+                            src="../AFD/assets/img/Event/HCiD/AFD_7604-min.JPG"
+                            alt="Five slide">
+                    </div>
+                    <div class="carousel-item">
+                      <img class="d-block w-100"
+                          src="../AFD/assets/img/Event/HCiD/AFD_7620-min.JPG"
+                          alt="Five slide">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100"
+                        src="../AFD/assets/img/Event/HCiD/AFD_7626-min.JPG"
+                        alt="Five slide">
+                </div>
                             </div>
                             <a class="carousel-control-prev"
                                 href="#carouselExampleIndicators"
@@ -95,31 +136,31 @@
                         data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6059.JPG" alt="First
+                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6059-min.JPG" alt="First
                                     slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6066.JPG" alt="Second
+                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6066-min.JPG" alt="Second
                                     slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6069.JPG" alt="Third
+                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6069-min.JPG" alt="Third
                                     slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6454.JPG" alt="Third
+                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6454-min.JPG" alt="Third
                                     slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6531.JPG" alt="Third
+                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6531-min.JPG" alt="Third
                                     slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/DSC_7244.JPG" alt="Third
+                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/DSC_7244-min.JPG" alt="Third
                                     slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/DSC_7250.JPG" alt="Third
+                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/DSC_7250-min.JPG" alt="Third
                                     slide">
                             </div>
                         </div>
@@ -143,9 +184,7 @@
             </div>
             <div class="col-lg-6 col-md-12">
                 <div class="about-content">
-                    <!-- <span class="sub-title"><i
-                            class="flaticon-care-about-environment"></i> About
-                        MUJIB BORSHO INTER SERVICE KABADI COMPETITION – 2021</span> -->
+                   
                     <h5>MUJIB BORSHO INTER SERVICE KABADI COMPETITION – 2021</h5>
                     <p>'Mujib Borsho Inter Service Kabadi Competition-2021’ was held from 29 November 2021 to 02 December 2021 at BAF Base Birsreshtho Matiur Rahman, Jashore. Bangladesh Army, Bangladesh Navy and Bangladesh Air Force Kabadi teams participated in the competition. Rear Admiral M Anwar Hossain (ND), NGP, ndc, afwc, psc, BN, Commander Khulna Naval Area inaugurated the competition on 29 November 2021. Bangladesh Navy became Champion and Bangladesh Air Force became Runner-up. M Tuhin Tarafdar, L Top, Captain of Bangladesh Navy team adjudged as the best player of the Competition.  </p>
                     <p> Air Vice Marshal A H M Fazlul Haque, BBP, BSP, ndu, afwc, psc, Assistant Chief of Air Staff (Plans) Bangladesh Air Force handed over the trophies to the winner, runner-up and the best player as Chief Guest of the Closing Ceremony.
