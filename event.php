@@ -9,14 +9,37 @@
                         <!-- <span class="sub-title"><i
                                 class="flaticon-care-about-environment"></i>
                             About HCiD</span> -->
-                        <h2>Awareness on Healthcare in Danger (HCiD)</h2>
-                        <p>Health care in Danger is a very contemporary and new subject and ICRC guidance on this issue was launched very recently on 31 Mar 2021. So Bangladesh Armed Forces is the forerunner to conduct a seminar on this contemporary subject. Awareness on Healthcare in Danger (HCiD) is an initiative of the International Red Cross and Red Crescent movement aimed at address the issue of violence against patients, health workers, facilities and vehicle, and ensuring safe access to deliver healthcare in armed conflict and other emergencies. HCiD support the implementation of concrete, practical measures and operational responses at National and local levels to prevent violence and safeguard health care in armed conflict and other emergencies. </p>
-                        <p>ICRC and Bangladesh Armed Forces have a long history of cooperation. On 25 November, Training Directorate, Armed Forces Division and ICRC jointly organized a seminar. <br>
-                          Speakers of the seminar were: <br>
-                          (1)	Mr. Henning Krause, Protection Coordinator, ICRC, Bangladesh.
-                          (2)	Brig Gen Md Shahinur Farhad, psc  from Bangladesh Institute of Peace Support Operation Training (BIPSOT).
-                          </p>
-                        
+                        <h2 style="text-align: justify;">Seminar On Awareness on
+                            Healthcare in Danger (HCiD)</h2>
+                        <p style="text-align: justify;">Health care in Danger is
+                            a very contemporary and new
+                            subject and ICRC guidance on this issue was launched
+                            very recently on 31 Mar 2021. So Bangladesh Armed
+                            Forces is the forerunner to conduct a seminar on
+                            this contemporary subject. Awareness on Healthcare
+                            in Danger (HCiD) is an initiative of the
+                            International Red Cross and Red Crescent movement
+                            aimed at address the issue of violence against
+                            patients, health workers, facilities and vehicle,
+                            and ensuring safe access to deliver healthcare in
+                            armed conflict and other emergencies. HCiD support
+                            the implementation of concrete, practical measures
+                            and operational responses at National and local
+                            levels to prevent violence and safeguard health care
+                            in armed conflict and other emergencies. </p>
+                        <p style="text-align: justify;">ICRC and Bangladesh
+                            Armed Forces have a long history
+                            of cooperation. On 25 November, Training
+                            Directorate, Armed Forces Division and ICRC jointly
+                            organized a seminar. <br>
+                            Speakers of the seminar were: <br>
+                            (1) Mr. Henning Krause, Protection Coordinator,
+                            ICRC, Bangladesh.<br>
+                            (2) Brig Gen Md Shahinur Farhad, psc from Bangladesh
+                            Institute of Peace Support Operation Training
+                            (BIPSOT).
+                        </p>
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
@@ -64,46 +87,46 @@
                                         alt="Five slide">
                                 </div>
                                 <div class="carousel-item">
-                                  <img class="d-block w-100"
-                                      src="../AFD/assets/img/Event/HCiD/AFD_7550-min.JPG"
-                                      alt="Five slide">
+                                    <img class="d-block w-100"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7550-min.JPG"
+                                        alt="Five slide">
 
-                              </div>
-                              <div class="carousel-item">
-                                <img class="d-block w-100"
-                                    src="../AFD/assets/img/Event/HCiD/AFD_7555-min.JPG"
-                                    alt="Five slide">
-                            </div>
-                            <div class="carousel-item">
-                              <img class="d-block w-100"
-                                  src="../AFD/assets/img/Event/HCiD/AFD_7566-min.JPG"
-                                  alt="Five slide">
-                          </div>
-                          <div class="carousel-item">
-                            <img class="d-block w-100"
-                                src="../AFD/assets/img/Event/HCiD/AFD_7574-min.JPG"
-                                alt="Five slide">
-                        </div>
-                        <div class="carousel-item">
-                          <img class="d-block w-100"
-                              src="../AFD/assets/img/Event/HCiD/AFD_7594-min.JPG"
-                              alt="Five slide">
-                      </div>
-                      <div class="carousel-item">
-                        <img class="d-block w-100"
-                            src="../AFD/assets/img/Event/HCiD/AFD_7604-min.JPG"
-                            alt="Five slide">
-                    </div>
-                    <div class="carousel-item">
-                      <img class="d-block w-100"
-                          src="../AFD/assets/img/Event/HCiD/AFD_7620-min.JPG"
-                          alt="Five slide">
-                  </div>
-                  <div class="carousel-item">
-                    <img class="d-block w-100"
-                        src="../AFD/assets/img/Event/HCiD/AFD_7626-min.JPG"
-                        alt="Five slide">
-                </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7555-min.JPG"
+                                        alt="Five slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7566-min.JPG"
+                                        alt="Five slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7574-min.JPG"
+                                        alt="Five slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7594-min.JPG"
+                                        alt="Five slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7604-min.JPG"
+                                        alt="Five slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7620-min.JPG"
+                                        alt="Five slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100"
+                                        src="../AFD/assets/img/Event/HCiD/AFD_7626-min.JPG"
+                                        alt="Five slide">
+                                </div>
                             </div>
                             <a class="carousel-control-prev"
                                 href="#carouselExampleIndicators"
@@ -136,32 +159,117 @@
                         data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6059-min.JPG" alt="First
+                                <img class="d-block w-100"
+                                    src="../AFD/assets/img/Event/Kabadi/AH7A6059-min.JPG"
+                                    alt="First
                                     slide">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 style="font-size: 20px;
+                                        text-align: justify;
+                                        margin-bottom: -36px;
+                                        text-shadow: 2px 2px 8px #FF0000">BANGLADESH
+                                        NAVY KABADI TEAM</h5>
+
+                                </div>
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6066-min.JPG" alt="Second
+                                <img class="d-block w-100"
+                                    src="../AFD/assets/img/Event/Kabadi/AH7A6066-min.JPG"
+                                    alt="Second
                                     slide">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 style="font-size: 20px;
+                                        text-align: justify;
+                                        margin-bottom: -36px;
+                                        text-shadow: 2px 2px 8px #FF0000">BANGLADESH
+                                        AIR FORCE KABADI TEAM</h5>
+
+                                </div>
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6069-min.JPG" alt="Third
+                                <img class="d-block w-100"
+                                    src="../AFD/assets/img/Event/Kabadi/AH7A6069-min.JPG"
+                                    alt="Third
                                     slide">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 style="font-size: 20px;
+                                        text-align: justify;
+                                        margin-bottom: -36px;
+                                        text-shadow: 2px 2px 8px #FF0000">BANGLADESH
+                                        ARMY KABADI TEAM</h5>
+
+                                </div>
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6454-min.JPG" alt="Third
+                                <img class="d-block w-100"
+                                    src="../AFD/assets/img/Event/Kabadi/AH7A6454-min.JPG"
+                                    alt="Third
                                     slide">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 style="font-size: 14px;
+                                        text-align: justify;
+                                        margin-bottom: -36px;
+                                        text-shadow: 2px 2px 8px #FF0000">
+                                        M Tuhin Tarafdar, L Top of Bangladesh
+                                        Navy receiving the best player trophy
+                                        from Air Vice Marshal A H M Fazlul
+                                        Haque, BBP, BSP, ndu, afwc, psc,
+                                        Assistant Chief of Air Staff (Plans)
+                                        Bangladesh Air Force
+                                    </h5>
+
+                                </div>
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/AH7A6531-min.JPG" alt="Third
+                                <img class="d-block w-100"
+                                    src="../AFD/assets/img/Event/Kabadi/AH7A6531-min.JPG"
+                                    alt="Third
                                     slide">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 style="font-size: 14px;
+                                        text-align: justify;
+                                        margin-bottom: -36px;
+                                        text-shadow: 2px 2px 8px #FF0000">BANGLADESH
+                                        NAVY KABADI TEAM : CHAMPION OF MUJIB
+                                        BORSHO INTER SERVICE KABADI COMPETITION-
+                                        2021</h5>
+
+                                </div>
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/DSC_7244-min.JPG" alt="Third
+                                <img class="d-block w-100"
+                                    src="../AFD/assets/img/Event/Kabadi/DSC_7244-min.JPG"
+                                    alt="Third
                                     slide">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 style="font-size: 14px;
+                                        text-align: justify;
+                                        margin-bottom: -36px;
+                                        text-shadow: 2px 2px 8px #FF0000">Captain,
+                                        Coach and Manager of Bangladesh Navy
+                                        Team receiving the Champion trophy from
+                                        Air Vice Marshal A H M Fazlul Haque,
+                                        BBP, BSP, ndu, afwc, psc, Assistant
+                                        Chief of Air Staff (Plans) Bangladesh
+                                        Air Force</h5>
+
+                                </div>
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="../AFD/assets/img/Event/Kabadi/DSC_7250-min.JPG" alt="Third
+                                <img class="d-block w-100"
+                                    src="../AFD/assets/img/Event/Kabadi/DSC_7250-min.JPG"
+                                    alt="Third
                                     slide">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 style="font-size: 14px;
+                                        text-align: justify;
+                                        margin-bottom: -36px;
+                                        text-shadow: 2px 2px 8px #FF0000">BANGLADESH
+                                        AIR FORCE KABADI TEAM : RUNNER UP OF
+                                        MUJIB BORSHO INTER SERVICE KABADI
+                                        COMPETITION- 2021</h5>
+
+                                </div>
                             </div>
                         </div>
                         <a class="carousel-control-prev"
@@ -184,16 +292,33 @@
             </div>
             <div class="col-lg-6 col-md-12">
                 <div class="about-content">
-                   
-                    <h5>MUJIB BORSHO INTER SERVICE KABADI COMPETITION – 2021</h5>
-                    <p>'Mujib Borsho Inter Service Kabadi Competition-2021’ was held from 29 November 2021 to 02 December 2021 at BAF Base Birsreshtho Matiur Rahman, Jashore. Bangladesh Army, Bangladesh Navy and Bangladesh Air Force Kabadi teams participated in the competition. Rear Admiral M Anwar Hossain (ND), NGP, ndc, afwc, psc, BN, Commander Khulna Naval Area inaugurated the competition on 29 November 2021. Bangladesh Navy became Champion and Bangladesh Air Force became Runner-up. M Tuhin Tarafdar, L Top, Captain of Bangladesh Navy team adjudged as the best player of the Competition.  </p>
-                    <p> Air Vice Marshal A H M Fazlul Haque, BBP, BSP, ndu, afwc, psc, Assistant Chief of Air Staff (Plans) Bangladesh Air Force handed over the trophies to the winner, runner-up and the best player as Chief Guest of the Closing Ceremony.
+
+                    <h5 style="text-align: justify;">MUJIB BORSHO INTER SERVICE
+                        KABADI COMPETITION – 2021</h5>
+                    <p style="text-align: justify;">'Mujib Borsho Inter Service
+                        Kabadi Competition-2021’ was
+                        held from 29 November 2021 to 02 December 2021 at BAF
+                        Base Birsreshtho Matiur Rahman, Jashore. Bangladesh
+                        Army, Bangladesh Navy and Bangladesh Air Force Kabadi
+                        teams participated in the competition. Rear Admiral M
+                        Anwar Hossain (ND), NGP, ndc, afwc, psc, BN, Commander
+                        Khulna Naval Area inaugurated the competition on 29
+                        November 2021. Bangladesh Navy became Champion and
+                        Bangladesh Air Force became Runner-up. M Tuhin Tarafdar,
+                        L Top, Captain of Bangladesh Navy team adjudged as the
+                        best player of the Competition. </p>
+                    <p style="text-align: justify;"> Air Vice Marshal A H M
+                        Fazlul Haque, BBP, BSP, ndu,
+                        afwc, psc, Assistant Chief of Air Staff (Plans)
+                        Bangladesh Air Force handed over the trophies to the
+                        winner, runner-up and the best player as Chief Guest of
+                        the Closing Ceremony.
 
                     </p>
                 </div>
             </div>
         </div>
     </div>
-   <br>
+    <br>
 
     <?php include 'footer.php'; ?>

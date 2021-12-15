@@ -3583,7 +3583,8 @@ blockquote::before, .blockquote::before {
 
 .coverage-area-content p {
     margin-bottom: 15px;
-    color: #fff
+    color: #fff;
+    text-align: justify;
 }
 
 .coverage-area-content p:last-child {
