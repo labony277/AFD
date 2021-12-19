@@ -1352,7 +1352,7 @@ a:hover {
 .about-content h2 {
     margin-bottom: 15px;
     font-size: 38px;
-    font-weight: 700
+    font-weight: 700;
 }
 
 .about-content p {
@@ -3583,7 +3583,8 @@ blockquote::before, .blockquote::before {
 
 .coverage-area-content p {
     margin-bottom: 15px;
-    color: #fff
+    color: #fff;
+    text-align: justify;
 }
 
 .coverage-area-content p:last-child {
