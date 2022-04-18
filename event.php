@@ -337,104 +337,42 @@
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="coverage-area-map">
-                        <div id="carouselExampleIndicators" class="carousel
-                            slide"
-                            data-ride="carousel">
-                            <!-- <ol class="carousel-indicators">
-                                <li data-target="#carouselExampleIndicators"
-                                    data-slide-to="0"
-                                    class="active"></li>
-                                <li data-target="#carouselExampleIndicators"
-                                    data-slide-to="1"></li>
-                                <li data-target="#carouselExampleIndicators"
-                                    data-slide-to="2"></li>
-                                    <li data-target="#carouselExampleIndicators"
-                                    data-slide-to="3"></li>
-                                    <li data-target="#carouselExampleIndicators"
-                                    data-slide-to="4"></li>
-                            </ol> -->
-                            <div class="carousel-inner2">
-                                <div class="carousel-item active">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/Military/DSC_1221.JPG"
-                                        alt="First slide">
-                                </div>
-                                <div class="carousel-item ">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/Military/DSC_1224.JPG"
-                                        alt="Second slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7482-min.JPG"
-                                        alt="Third slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7520-min.JPG"
-                                        alt="Four slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7546-min.JPG"
-                                        alt="Five slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7550-min.JPG"
-                                        alt="Five slide">
-
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7555-min.JPG"
-                                        alt="Five slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7566-min.JPG"
-                                        alt="Five slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7574-min.JPG"
-                                        alt="Five slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7594-min.JPG"
-                                        alt="Five slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7604-min.JPG"
-                                        alt="Five slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7620-min.JPG"
-                                        alt="Five slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block w-100"
-                                        src="../AFD/assets/img/Event/HCiD/AFD_7626-min.JPG"
-                                        alt="Five slide">
-                                </div>
+                    <div id="carouselExampleControl" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                            <img class="d-block w-100" src="../AFD/assets/img/Event/Military/DSC_1221.JPG" alt="First slide">
                             </div>
-                            <a class="carousel-control-prev"
-                                href="#carouselExampleIndicators"
-                                role="button" data-slide="prev">
-                                <span class="carousel-control-prev-icon"
-                                    aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="carousel-control-next"
-                                href="#carouselExampleIndicators"
-                                role="button" data-slide="next">
-                                <span class="carousel-control-next-icon"
-                                    aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
+                            <div class="carousel-item">
+                            <img class="d-block w-100" src="../AFD/assets/img/Event/Military/DSC_1224.JPG" alt="Second slide">
+                            </div>
+                            <div class="carousel-item">
+                            <img class="d-block w-100" src="../AFD/assets/img/Event/Military/DSC_1228.JPG" alt="Third slide">
+                            </div>
+                            <div class="carousel-item">
+                            <img class="d-block w-100" src="../AFD/assets/img/Event/Military/DSC_1236.JPG" alt="Four slide">
+                            </div>
+                            <div class="carousel-item">
+                            <img class="d-block w-100" src="../AFD/assets/img/Event/Military/DSC_1248.JPG" alt="Five slide">
+                            </div>
+                            <div class="carousel-item">
+                            <img class="d-block w-100" src="../AFD/assets/img/Event/Military/DSC_1259.JPG" alt="Six slide">
+                            </div>
+                            <div class="carousel-item">
+                            <img class="d-block w-100" src="../AFD/assets/img/Event/Military/DSC_1261.JPG" alt="Seven slide">
+                            </div>
+                            <div class="carousel-item">
+                            <img class="d-block w-100" src="../AFD/assets/img/Event/Military/DSC_1272.JPG" alt="Eight slide">
+                            </div>
+                           
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControl" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControl" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
                         </div>
                     </div>
                 </div>
